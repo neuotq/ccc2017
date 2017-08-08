@@ -1,8 +1,6 @@
 import './modules';
-window.$ = window.jQuery = require('jquery');
-window.Tether = require('tether');
-
 require('bootstrap');
+require('./jquery.accordion.js');
 
 // require('jarallax');
 
@@ -73,6 +71,11 @@ $("document").ready(function() {
     });
 
 
+  $('.accordion').accordion({
+              "transitionSpeed": 400
+          });
+
+
     // var heights = $(".testimonial").map(function ()
     //    {
     //        return $(this).height();
@@ -81,3 +84,4 @@ $("document").ready(function() {
     //    maxHeight = Math.max.apply(null, heights);
     // $("#carousel-testimonials").css("height", 340);
 })
+

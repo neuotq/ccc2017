@@ -12,6 +12,11 @@ module.exports = {
       // files paths are relative to
       // javascripts.dest in path-config.json
       app: ["./app.js"]
+    },
+    provide: {
+      $: "jquery",
+      jQuery: "jquery",
+      Tether: "tether"
     }
   },
 
