@@ -1,0 +1,14 @@
+{
+  "name": "CCC2017_v1",
+  "version": "1.0.0",
+  "description": "Landing Page for CCC 2017",
+  "main": "index.js",
+  "author": "Serge & neuotq",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.2.0",
+    "bootstrap": "4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "tether": "^1.4.0"
+  }
+}

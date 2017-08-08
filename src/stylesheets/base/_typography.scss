@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&subset=cyrillic-ext');
+
+@font-face {
+    font-family: 'solomon_sans_bookregular';
+    src: url('../fonts/solomon_sans_book-webfont.woff2') format('woff2'),
+         url('../fonts/solomon_sans_book-webfont.woff') format('woff'),
+         url('../fonts/solomon_sans_book-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'solomon_sans_boldbold';
+    src: url('../fonts/solomon_sans_bold-webfont.woff2') format('woff2'),
+         url('../fonts/solomon_sans_bold-webfont.woff') format('woff'),
+         url('../fonts/solomon_sans_bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'solomon_sans_blackregular';
+    src: url('../fonts/solomon_sans_black-webfont.woff2') format('woff2'),
+         url('../fonts/solomon_sans_black-webfont.woff') format('woff'),
+         url('../fonts/solomon_sans_black-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+
+.cc-h2 {
+    font-family: 'solomon_sans_bookregular';
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.cc-h3 {
+    font-family: 'solomon_sans_bookregular';
+    font-size: 2.95rem;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    line-height: 1em;
+    span {
+        font-size: 1.95rem;
+        line-height: 1em;
+        display: inline-block;
+    }
+}
+
+.cc-h23 {
+    font-family: 'solomon_sans_bookregular';
+    font-size: 3.95rem;
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    line-height: 1em;
+}
+
+.cc-h4-solid {
+    font-family: 'solomon_sans_blackregular';
+    position: relative;
+    z-index: 1;
+    padding: .2rem 1rem 1rem;
+    margin-top: 2rem;
+    color: #fff;
+    display: inline-block;
+    letter-spacing: 0.03rem;
+    font-size: 1.35rem;
+    @include media-breakpoint-down(md) {font-size: 1rem; padding-bottom: 2rem;}
+    .upperline {
+        font-family: 'solomon_sans_bookregular';
+        font-size: 1.5rem;   
+        position: absolute;
+        top: -1.8rem;
+        left: 1rem;
+        color: #000;
+        @include media-breakpoint-down(md) {font-size: 1rem;}
+    }
+    &::before {
+        background-color: #888;
+        transform: skew(-15deg, 0deg);
+        content: '';
+        width: 100%;
+        height: calc(1em + 0.5rem);
+        @include media-breakpoint-down(lg) {height: calc(2.3em + 0.5rem);}
+        @include media-breakpoint-down(sm) {height: calc(3em + 0.5rem);}
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        z-index: -1;
+    }
+    .partners-container & {margin: 0; top: -2rem;}
+}
+
+.cc-orange::before, .orange .cc-h4-solid::before {background: $cc-orangegrad;}
+.cc-darkbluegrad::before, .darkblue .cc-h4-solid::before {background: $cc-darkbluegrad;}
+.cc-bluegrad::before, .blue .cc-h4-solid::before {background: $cc-bluegrad;}
+
+.cc-h4 {
+    font-family: 'solomon_sans_bookregular';
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: .02rem;
+    border-bottom: 1px solid;
+}
+
+.cc-h5 {
+    font-family: 'solomon_sans_blackregular';
+    font-size: 1.2rem;
+    line-height: 1.32em;
+}
+
+.cc-h6 {
+    font-family: 'solomon_sans_bookregular';
+    font-size: 1rem;   
+}
+
+.cc-highlighted {
+    border-left: 4px solid $cc-orange;
+    padding-left: 1.3rem;
+    margin-top: 1.8em;
+}
+
+.cc-h7 {
+    font-family: 'solomon_sans_blackregular';
+    font-size: 1rem;
+    line-height: 1em;
+}
+
+.cc-h8 {
+    font-family: 'solomon_sans_boldbold';
+    font-size: 1.6rem;
+    line-height: 1.62em;
+    letter-spacing: 0.042rem;
+}
+
+.cc-small {
+    // font-family: 'solomon_sans_boldbold';
+    font-size: 0.7rem;   
+}
+
+.thnksmsg {
+    position: fixed !important;
+    width: 400px;
+    top: 40% !important;
+    text-align: center;
+    p {padding: 1rem;}
+}

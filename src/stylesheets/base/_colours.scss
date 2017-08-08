@@ -1,0 +1,10 @@
+$cc-orange: #f29700;
+$cc-yellow: rgba(253, 203, 47, 1);
+$cc-darkblue: rgba(36, 47, 121, 1);
+$cc-blue: rgba(8,156,195,1);
+
+// gradients
+$cc-bluegrad-transp: linear-gradient(to left, rgba(8,156,195,0.6) 0%, rgba(0,106,190,0.6) 100%);
+$cc-bluegrad: linear-gradient(to left, $cc-blue 0%, rgba(0,106,190,1) 100%);
+$cc-darkbluegrad: linear-gradient(to right, rgba(53, 34, 75, 1) 0%, $cc-darkblue 100%);
+$cc-orangegrad: linear-gradient(to right, $cc-orange 0%, $cc-yellow 100%);

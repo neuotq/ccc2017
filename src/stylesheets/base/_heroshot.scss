@@ -1,0 +1,67 @@
+.hero-shot {
+	background: url(../images/heroshot.jpg) no-repeat;
+    min-height: 20rem;
+    width: 100%;
+    display: block;
+    background-position: 100% center;
+    background-size: cover;
+    p, div {
+    	color: #fff;
+    	padding: 0.5rem 1rem;
+    }
+}
+
+.hero-date {
+	font-family: 'solomon_sans_bookregular';
+	font-size: 4rem;
+    padding-left: 0 !important;
+	p {padding-bottom: 2rem;}
+    @media (max-width: 1400px) {
+    	font-size: 3.4rem;
+	}    
+	@media (max-width: 1200px) {
+    	font-size: 3rem;
+	}
+    @media (max-width: 1000px) {
+    	font-size: 2rem;
+	}
+	@include media-breakpoint-down(xs){
+    	font-size: 1rem;
+	}	
+}
+
+.hero-title {
+	font-family: 'solomon_sans_blackregular';
+    font-size: 5rem;
+    line-height: 0.96em;
+    margin: 3rem 0;
+	span {white-space: nowrap;}
+    @media (max-width: 1400px) {
+    	font-size: 4rem;
+	}    
+	@media (max-width: 1200px) {
+    	font-size: 3.4rem;
+	}
+    @media (max-width: 1000px) {
+    	font-size: 3rem;
+		span {white-space: normal;}
+	}
+	@include media-breakpoint-down(xs){
+    	font-size: 2rem;
+	}
+}
+
+.govsupport {
+	img {
+		height: 5rem
+	}
+	* {float: right}
+	p {width: 50%; margin: 0;}
+    font-family: 'solomon_sans_boldbold';
+	line-height: 1em;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    visibility: hidden;
+}
+

@@ -1,0 +1,17 @@
+.btn-hero {
+	// background: #006abe; /* Old browsers */
+	// background: -moz-linear-gradient(left, #006abe 0%, #089cc3 100%); /* FF3.6-15 */
+	// background: -webkit-linear-gradient(left, #006abe 0%,#089cc3 100%); /* Chrome10-25,Safari5.1-6 */
+	background: $cc-bluegrad-transp;
+	// filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#006abe', endColorstr='#089cc3',GradientType=1 ); /* IE6-9 */
+	border: 3px solid #fff;
+	font-size: 2rem;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	color: #fff;
+    font-size: 1.52rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    color: #fff;
+    border-radius: 10px;
+}

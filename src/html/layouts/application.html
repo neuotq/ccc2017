@@ -1,0 +1,32 @@
+{% from 'macros/helpers.html' import sprite %}
+{% from 'macros/helpers.html' import tr %}
+<!doctype html>
+<html lang="{{lang}}" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
+  <head>
+    <meta charset="utf-8">
+    <title>{% block title %}{{ tr(title, lang) }}{% endblock %}</title>
+    <link rel="stylesheet" href="/stylesheets/app.css">
+    <meta property="og:image" content="https://connectcrimea.ru/images/ccc2017_sq2.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="keywords" content="{{ tr(keywords, lang) }}" />
+    <meta name="description" content="{{ tr(description, lang) }}">    
+    {% include "shared/app-icons.html" %}
+    {% block head %}{% endblock %}
+  </head>
+  <body>
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter43537019 = new Ya.Metrika2({ id:43537019, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/43537019" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->  
+    {% block content %}{% endblock %}
+    {% block javascript %}
+      <script src="/javascripts/app.js"></script>
+      <script src="/javascripts/accordion.js"></script>
+      <script>
+        $( document ).ready(function() {
+          $('.accordion').accordion({
+              "transitionSpeed": 400
+          });
+        });
+      </script>
+    {% endblock %}
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<div class="container cc-popup regform">
+    <button type="button" class="close cc-popup-close" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <h4 class="w-100 mx-auto cc-h8 mb-5 mt-5" style="text-align: center;"><span class="cc-tab active" id="cc-member">Отправьте заявку участника</span> или <span class="cc-tab" id="cc-visitor">получите билет посетителя</span></h4>
+
+    <div class="row">
+
+    <div class="offset-md-3 col-md-6 cc-tab-form cc-form"  id="cc-member_form">
+        <form action="domail.php" method="POST">
+
+            <div class="md-form">
+                <input type="text" class="form-control" placeholder="{{ tr(yName, lang) }}" name="name">
+            </div>
+            <div class="md-form">
+                <input type="text" class="form-control" placeholder="{{ tr(yEmail, lang) }}" name="email">
+            </div>
+            <div class="md-form">
+                <input type="text" class="form-control" placeholder="{{ tr(yPhone, lang) }}" name="phone">
+            </div>
+
+            <fieldset class="form-group">
+                <input type="checkbox" id="soglasen2" class="cc-soglasen-checkbox">
+                <label for="soglasen2" class="cc-small cc-soglasen-label" style="">{{ tr(soglasen1, lang) }} <a href="/data/ccc2017/soglasen.pdf" target="_blank">{{ tr(soglasen2, lang) }}</a></label>
+            </fieldset>
+            <div class="text-center">
+                <button class="btn cc-regbtn" id="contactsBut" disabled="">{{ tr(sendB, lang) }}</button>
+            </div>
+        </form>
+
+        <div class="animationload"><div class="osahanloading"></div></div>
+        <div class="thanks-box"><p>{{ tr(sentMsg, lang) }}</p></div>
+    </div>
+    <div class="offset-md-3 col-md-6 cc-tab-form" style="display: none" id="cc-visitor_form">
+        <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src="https://timepad.ru/js/tpwf/loader/min/loader.js" data-timepad-customized="29343" data-twf2s-event--id="542545" data-timepad-widget-v2="event_register">
+           (function(){
+                return {
+                    "event": {
+                        "id": "542545"
+                    },
+                    "disableBootstrap": true,
+                    "hidePreloading": true
+                }
+            })();
+        </script>
+    </div>
+    </div>
+</div>
+
+<div class="cc-popup-overlay"></div>

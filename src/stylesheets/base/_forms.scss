@@ -1,0 +1,42 @@
+.cc-form {position: relative;}
+
+.cc-form input {
+	margin-bottom: 1rem;
+}
+.cc-soglasen-checkbox {float: left}
+.cc-soglasen-label {float: left;width: 90%;line-height: 1.1em;margin-left: 11px;}
+
+#cc-member_form {
+    padding: 1rem;
+
+}
+
+.cc-loading .animationload {
+	background-color: transparent;
+	position: absolute;
+	display: block;
+	background-color: none; 
+	opacity: 1 !important;
+}
+
+.cc-loading form, .cc-loading h4, 
+.thanks-active form, .thanks-active h4 {opacity: .1}
+
+.thanks-box {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: none;
+    z-index: 10000;
+    p {
+	    text-align: center;
+	    top: 40%;
+	    position: relative;
+	    font-size: 1.52rem;
+    }
+}
+.thanks-active .thanks-box {
+	display: block;
+}

@@ -1,0 +1,21 @@
+{% extends 'layouts/application.html' %}
+
+{-  data-jarallax='{"speed": 0.2}' -}
+
+{% block content %}
+	{% include "shared/header.html" %}
+	{% include "shared/hero-shot.html" %}
+	<div id="programm"></div>
+	{% include "shared/programm.html" %}
+	{% include "shared/sections.html" %}
+	<div id="participants"></div>
+	{% include "shared/audience.html" %}
+	<div id="partners"></div>
+	{% include "shared/partners.html" %}
+	{% include "shared/cic2017.html" %}
+	{% include "shared/transfer.html" %}
+	<div id="location"></div>
+	{% include "shared/contact.html" %}
+	{% include "shared/form.html" %}
+{% endblock %}
+

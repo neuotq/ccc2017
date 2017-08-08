@@ -1,0 +1,60 @@
+<div class="cc-section-t2 bg4">
+    <div class="container">
+        <h2 class="cc-h2">{{ tr(contactUs, lang) }}</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="cc-tip2 pb-3 mb-3">
+                    <small>{{ tr(eventAddr, lang) }}<br>
+                    <a href="mailto:expo@connectcrimea.ru">expo@connectcrimea.ru</a></small>
+                </div>
+                <div class="cc-form">
+                    <h4 class="cc-h8">{{ tr(regnow, lang) }}</h4>
+                    <form action="domail.php" method="POST">
+                        <div class="md-form">
+                            <input type="text" class="form-control" placeholder="{{ tr(yName, lang) }}" name="name">
+                        </div>
+                        <div class="md-form">
+                            <input type="text" class="form-control" placeholder="{{ tr(yEmail, lang) }}" name="email">
+                        </div>
+                        <div class="md-form">
+                            <input type="text" class="form-control" placeholder="{{ tr(yPhone, lang) }}" name="phone">
+                        </div>
+                        <fieldset class="form-group">
+                            <input type="checkbox" id="soglasen" class="cc-soglasen-checkbox">
+                            <label for="soglasen" class="cc-small cc-soglasen-label" style="">{{ tr(soglasen1, lang) }} <a href="/data/ccc2017/soglasen.pdf" target="_blank">{{ tr(soglasen2, lang) }}</a></label>
+                        </fieldset>
+                        <div class="text-center">
+                            <button class="btn cc-regbtn" disabled="">{{ tr(sendB, lang) }}</button>
+                        </div>
+                    </form>
+                    <div class="animationload"><div class="osahanloading"></div></div>
+                    <div class="thanks-box"><p>{{ tr(sentMsg, lang) }}</p></div>
+                </div>
+            </div>
+            <div class="col-md-8"  id="cc-member_form">
+                <div id="map-container" class="z-depth-1-half map-container" style="height: 400px"></div>
+            </div>
+        </div>
+        <script src="https://maps.google.com/maps/api/js?key=AIzaSyDaWH86-d_-DYpimfaNBhYV4iwp2JfymzY"></script>
+        <script>
+        function init_map() {
+        
+        var var_location = new google.maps.LatLng(44.984852, 34.133606), var_centermap =  new google.maps.LatLng(44.984268,34.131889) ;
+        var var_mapoptions = {
+        center: var_centermap,
+        scrollwheel: false,
+        zoom: 17
+        };
+        var var_marker = new google.maps.Marker({
+        position: var_location,
+        map: var_map,
+        title: "Connect Center"
+        });
+        var var_map = new google.maps.Map(document.getElementById("map-container"),
+        var_mapoptions);
+        var_marker.setMap(var_map);
+        }
+        google.maps.event.addDomListener(window, 'load', init_map);
+        </script>
+    </div>
+</div>

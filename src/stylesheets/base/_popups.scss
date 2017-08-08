@@ -1,0 +1,26 @@
+.cc-popup {
+	border: 3px solid $cc-orange;
+    margin: 3rem auto;
+    padding: 1rem 2rem 3rem;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    z-index: 111;
+    &.open {display: block;}
+}
+
+.cc-popup-overlay {
+	background-color: rgba(28, 33, 58, 0);
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 110;
+    display: none;
+    @include transition(background-color, .4s);
+    &.open {background-color: rgba(28, 33, 58, 0.91);}
+}
