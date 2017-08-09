@@ -1,163 +1,505 @@
 {
-	"keywords": {"ru":"Строительная выставка, Connect Construct Crimea, Connect Center, Выставка в Крыму, Выставка в Симферополе, строительство", "en":"Construction Expo, Connect Construct Crimea, Connect Center, expo Crimea, construction Crimea, expo Simferopol"},
-	
-	"description": {"ru":"Международная строительная выставка в Крыму Сonneсt Construct Crimea 2017. С 27 по 29 октября 2017 года в выставочном центре Connect Center. Общая площадь — 22 000 м2", "en":"International Construction & Development Exhibition in Crimea 'Сonneсt Construct Crimea' 2017. Total area is 22 000 m2. "},
-
-	"title": {"ru":"Международная строительная выставка в Крыму — Сonneсt Construct Crimea 2017", "en":"International Construction & Development Exhibition in Crimea — Сonneсt Construct Crimea 2017"},
-
-	"mission": {"ru":"Миссия", "en":"Mission"},
-
-	"programm": {"ru":"Программа", "en":"Program"},
-
-	"participants": {"ru":"Участники", "en":"Participants"},
-	"location": {"ru":"Место проведения", "en":"Location"},
-	"partners": {"ru":"Партнёры", "en":"Partners"},
-	"cctitle": {"ru":"Международная </br> строительная выставка", "en":"International Construction & Development Exhibition"},
-	"participate": {"ru":"Стать участником", "en":"Register Now"},
-	"patronat": {"ru":"Под патронатом Совета министров Республики Крым", "en":"With the support of the Council of Ministers of the Republic of Crimea"},
-
-	"visitors_h": {"ru":"Целевая аудитория", "en":"Visitors"},
-	"visitors_body": {"ru":"Руководители и специалисты предприятий и учреждений, заинтересованные в приобретении инновационных методов, разработок и оборудования, а также товаров и услуг, профессионалы и эксперты строительной отрасли, представители смежных областей и оптово-розничной торговли, ритейлеры, строительно-подрядные организации, архитекторы, дизайнеры, проектировщики, органы власти и общественные организации, представители финансовых учреждений и инвесторы, представители отраслевых и деловых СМИ, крупнейшие поставщики, дистрибьюторы и дилеры.", "en":"Heads and specialists of enterprises and institutions interested in acquiring innovative methods, developments and equipment, as well as goods and services, professionals and experts in the construction industry, representatives of related areas of wholesale and retail trade, retailers, construction contractors, architects, designers, governments authorities and public organizations, representatives of financial institutions and investors, representatives of construction, development and business media, major suppliers, distributors and dealers."},
-
-	"exponents_h": {"ru":"Экспоненты", "en":"Participants"},
-	"exponents_body": {"ru":"Лидеры строительной индустрии из различных стран, производители и поставщики строительных и отделочных материалов, оборудования и аксессуаров, специализированной техники.", "en":"Construction industry leaders from various countries, manufacturers and suppliers of construction and finishing materials, equipment & accessories and specialized equipment."},
-
-	"photogall": {"ru":"Фотоотчет Connect Invest Crimea 2017", "en":"‘Connect Invest Crimea’ 2017 Photo Gallery"},
-	"about_cic1": {"ru":"В июне 2017 года усилиями нашей команды была проведена Международная выставка недвижимости Connect Invest Crimea 2017.", "en":"In June 2017, our teams efforts successfully launched the international real estate exhibition ‘Connect Invest Crimea’ 2017."},
-
-	"about_cic2": {"ru":"В работе выставки приняли участие более 300 специалистов рынка недвижимости со всей страны и ближнего зарубежья, свои лучшие проекты представили около 40 крупнейших застройщиков Крыма, Краснодарского края и Санкт-Петербурга. Кроме того, на форум и выставку приехали архитекторы из Испании, Италии, Германии, Канады и Франции, а также представители местных, региональных, федеральных и зарубежных органов исполнительной и законодательной власти, строительных компаний, проектных организаций, производителей технологического оборудования, поставщиков материалов, финансовых структур, потенциальных инвесторов. Успех проведения такого мероприятия отметили все участники и посетители выставки.", "en":"More than 300 specialists from the real estate market from all over the country and neighbouring countries took part in the exhibition, roughly 40 of the largest developers from Crimea, Krasnodar and St. Petersburg presented their recent projects. In addition, architects from Spain, Italy, Germany, Canada and France, as well as representatives from local, regional, federal and foreign executive and legislative authorities, construction companies, design organizations, manufacturers of processing equipment, material suppliers, financial structures and potential investors all took part. The success of such an event was widely expressed by the events participants and exhibition visitors."},
-
-	"readmore": {"ru":"Читайте подробнее", "en":"Read more"},
-
-	"regnow": {"ru":"Оставьте заявку", "en":"Register Now"},
-
-	"eventAddr": {"ru":"Крым, Симферополь, ул. Объездная дорога Ялта-Евпатория, 20<br> +7 978 900 28 00 Пн—Пт, 8:00—22:00", "en":"Simferopol, Republic of Crimea, Russia, 20 Obezdnaya Doroga Yalta-Evpatoriya<br> +7 978 900 28 00 Mon — Fri, 8:00—22:00"},
-
-	"october": {"ru":"октября", "en":"October"},
-	"delprog": {"ru":"Деловая программа", "en":"Business Program"},
-	"ccForum": {"ru":"Строительный форум", "en":"Building Forum"},
-	"ccForumModerH": {"ru":"Модератор первого дня выставки&nbsp;— Павленков Юрий Викторович", "en":"Moderator of the first day of the exhibition&nbsp;– Yuri Viktorovich Pavlenkov"},
-	"ccForumModerBody": {"ru":"Член Консультативного совета рабочей группы по формированию законодательных инициатив и поддержке предпринимательства при Председателе Комитета ГД РФ по энергетике, Комитетов ТПП РФ по предпринимательству в сфере экономики недвижимости и ЖКХ, отраслевого отделения по энергосберегающим технологиям в сфере ЖКХ и строительства «Деловая Россия»", "en":"Member of the Advisory Council of the Working Group on Forming Legislative Initiatives and Supporting Entrepreneurship under the Chairman of the State Duma Committee on Energy, the committees of the Chamber of Commerce and Industry of the Russian Federation on Entrepreneurship in the Real Estate and Housing Economy, the Branch Office for Energy Saving Technologies in the Area of Housing and Communal Services and the Construction of Delovaya Rossiya"},
-
-	"devSectionH": {"ru":"Секция застройщиков", "en":"Developers Section"},
-	"devSectionBody": {"ru":"<li>Проблемы и перспективы развития рынка строительно-отделочных материалов</li><li>Перспективы импортозамещения в области строительных материалов: мнение застройщиков, за и против</li><li>Новые архитектурные проекты и решения в жилищном строительстве. Возможна ли новая эстетика в панельном домостроении?</li><li>Тенденции и перспективы развития жилищного строительства в России</li>", "en":"<li>Problems and prospects for the development of construction and finishing materials</li><li>Prospects for import substitution in the field of building materials: Developer opinions & pros and cons</li><li>New architectural projects and solutions in residential construction. Are new aesthetics possible in the construction of panel housing?</li><li>Trends and prospects for the construction of housing in Russia</li>"},
-
-	"govSectionH": {"ru":"Секция Правительства", "en":"Government Section"},
-	"govSectionBody": {"ru":"<li>Планы правительства по реализации Федеральной целевой программы в Республике Крым</li><li>Установочное заседание Технического комитета по стандартизации 144 «Строительные материалы (изделия) и конструкции»</li><li>Новые инвест-проекты, реализуемые в Республике Крым в 2017–2018 годах</li> <li>Примут участие председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству Л.И. Бабашов и депутат ГС РК В.Б. Ясинский.</li>", "en":"<li>Government plans for the implementation of the ‘Federal Target Program’ in the Republic of Crimea</li><li>Installation meeting of the Technical Committee for Standardization 144 “Construction materials (products) and structures”</li><li>New investment projects to be implemented in the Republic of Crimea in 2017 — 2018</li>"},
-
-	"busContExcH": {"ru":"Биржа деловых контактов", "en":"Business Contacts Exchange"},
-	"busContExcBody": {"ru":"В зале «Business Contact Center» будут расположены персональные офисы компаний и госструктур, с которыми по предварительной записи можно провести переговоры о сотрудничестве.", "en":"In the “Business Contact Center” business forum hall, corporate representative offices and state structures will be located, with which by prior appointment it will be possible to conduct negotiations about partnerships and various levels of cooperation."},
-	
-	"secMonolit": {"ru":"ГК Монолит", "en":"'Monolit', Crimea"},
-	"secMonolitBody": {"ru":"Группа компаний «Монолит» является одним из лидеров-застройщиков крымского полуострова. «Монолит» строит Крым, реализуя с 2005 года градообразующие проекты в сфере жилого, рекреационного, коммерческого и социального строительства. В активе компании – комплекс предприятий, обеспечивающих полный цикл услуг по проектированию, производству, продажам и маркетингу, коммунальному обслуживанию, комплексной охране и транспорту.", "en":"The ‘Monolit’ Group of Companies is one of the leading builders in the Crimean peninsula. ‘Monolit’ is constantly building in Crimea, realizing urban projects in the fields of residential, recreational, commercial and social construction since 2005. The company’s assets are a group of companies that provide a full range of services for design, production, sales and marketing, public services, building security and transport."},
-
-	"secGup": {"ru":"ГУП РК «Центр комплексного снабжения строительных объектов»", "en":"State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"},
-	"secGupBody": {"ru":"Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.", "en":"The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."},
-
-	"secNova": {"ru":"Сеть гипермаркетов «НОВАЦЕНТР»", "en":"«Новацентр» (Nova Center) Home Building & Materials Supermarket Network"},
-	"secNovaBody": {"ru":"Это крупнейший представить формата DIY в Крыму. На сегодняшний день сеть «НОВАЦЕНТР» представлена 3-мя гипермаркетами в городах Симферополь и Севастополь, общей торговой площадью более 61 800 кв.м кв.м. Штат сотрудников насчитывает более 1300 специалистов.", "en":"The largest home building and materials centers in Crimea. To date, the «Повацентр» (Nova Center) network is represented by 3 supermarkets in the cities of Simferopol and Sevastopol, with a total floor sales area of ​​more than 61,800 sq.m. Their staff is comprised of more than 1300 specialists."},
-
-	"ccForeign": {"ru":"Иностранные эксперты", "en":"Foreign Experts"},
-	"ccForeignBody": {"ru":"Секция иностранных экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройинтусдтрии из различных стран.", "en":"The foreign experts section is held in the ‘Business Contact Center’ hall, where representatives of the construction industry from various countries will take part."},
-	
-	"alvarezH": {"ru":"Хуан Альварез (Juan Alvarez)", "en":"Juan Alvarez"},
-	"alvarezD": {"ru":"Испания, Нидерланды", "en":"Spain, Netherlands"},
-	"alvarezD2": {"ru":"Инновационные решения для строительства, устойчивая модель долгосрочного прибыльного инвестирования.", "en":"Innovative solutions for construction, a sustainable model of long-term profitable investment."},
-
-	"ccPartners": {"ru":"Партнёры выставки", "en":"Expo Partners"},
-	
-	"yName": {"ru":"Ваше имя", "en":"Your Name"},
-	"yEmail": {"ru":"Ваш email", "en":"Your Email"},
-	"yPhone": {"ru":"Ваш телефон", "en":"Your Phone"},
-	"sendB": {"ru":"Отправить", "en":"Send Now"},
-	"sentMsg": {"ru":"Ваше сообщение успешно отправлено.", "en":"Your message is sent!"},
-
-	"soglasen1": {"ru":"Я подтверждаю свое согласие с условиями", "en":"I agree to the terms and conditions"},
-
-	"soglasen2": {"ru":"Политики обработки персональных данных", "en":"Personal data processing policy"},
-
-
-	"transferH": {"ru":"Организация поездки", "en":"TRAVEL CONCIERGE"},
-	"transferB1": {"ru":"Мы позаботились о том, чтобы ваше путешествие в Симферополь было максимально комфортным и запомнилось навсегда. Наши менеджеры предложат вам лучшие варианты авиаперелетов, подберут варианты размещения в лучших отелях Крыма и окажут необходимую визовую поддержку.", "en":"We are making sure that your trip to Simferopol is as comfortable as possible and leaves you with a pleasant experience. Our managers will offer you the best options for air travel, choice of accommodations in the best hotels in Crimea and provide the necessary visa support."},
-	"transferB2": {"ru":"Консьерж-услуги предоставляет партнёр выставки Сервисный Клуб «Перспектива»", "en":"Concierge services are provided by our official exhibition partner, concierge Service Club 'Perspektiva'."},
-	"transfer1": {"ru":"ПЛАНИРОВАНИЕ ПОЕЗДКИ", "en":"PLANNING YOUR VISIT"},
-	"transfer2": {"ru":"ПЕРЕЛЕТ", "en":"FLIGHT"},
-	"transfer3": {"ru":"ТРАНСФЕР", "en":"TRANSFER"},
-	"transfer4": {"ru":"ОТЕЛИ", "en":"HOTELS"},
-
-
-	"cicHeader": {"ru":"Успешный опыт бренда Connect Crimea", "en":"‘Connect Crimea’ Brand Success"},
-
-
-	"onlinePartner": {"ru":"Главный интернет партнер", "en":"Primary Internet Partner"},
-	"mediaPartners": {"ru":"Медиапартнеры", "en":"Media Partners"},
-	"intPartners": {"ru":"Партнеры по международному сотрудничеству", "en":"International Partners"},
-	"pressReviews": {"ru":"Отзывы о Connect Invest Crimea 2017", "en":"Press & Reviews of CIC 2017"},
-
-	"pR_interfax": {"ru":"Ялта. 5 июня. ИНТЕРФАКС-НЕДВИЖИМОСТЬ — Инвесторы из-за рубежа проявляют интерес к различным проектам на Южном берегу Крыма (ЮБК), сообщил &quot;Интерфаксу&quot; глава администрации Ялты Андрей Ростенко на форуме-выставке Connect Invest Crimea.", "en":"Yalta. June 5. INTERFAX-REAL ESTATE — Investors from abroad show interest in various projects on Crimea’s southern coast, the head of Yalta’s administration Andrei Rostenko told Interfax at the ‘Connect Invest Crimea’ forum."},
-	
-	"pR_lenta": {"ru":"В Крыму 5 и 6 июня нынешнего года состоится международный форум застройщиков Сonneсt Invest Crimea. На одной площадке объединят три мероприятия: форум риелторов России, инвестиционный саммит и выставку недвижимости.", "en":"On June 5 and 6, an international forum of developers Сonneсt Invest Crimea will take place. Three events are being organized at one site: a forum of Russian realtors, an investment summit and a real estate exhibition."},
-	
-	"pR_alba": {"ru":"Сеть предприятий Alba Contract с целью выхода на зарубежный рынок была представлена делегацией на Международном Форуме Недвижимости в Крыму Connect Invest Crimea 5-6 июня 2017. На Форуме была возможность найти потенциальных клиентов и партнеров в Крыму и начать отношения с новыми коллегами в этой области.", "en":"The ‘Alba Contract’ network of enterprises was presented by the delegation at the International Real Estate Forum in Crimea ‘Connect Invest Crimea’ on June 5-6, 2017 with the purpose of entering the foreign market. The Forum provided the opportunity to find potential clients and partners in Crimea and to launch relations with new colleagues in this area."},
-	
-	"pR_sevasdom": {"ru":"Выставка была интересна не только предпринимателям и застройщикам, чей образ жизни тесно переплетен с недвижимостью, покупателям и риелторам там тоже было на что взглянуть. В этом и заключается основная прелесть такого многостороннего мероприятия, в котором любой человек может найти что-то для себя.", "en":"The exhibition was interesting not only for entrepreneurs and developers, whose lifestyle is closely intertwined with real estate, but buyers and realtors also had something to look at there. This is the main charm of such a multilateral event in which any person can find something for themselves."},
-
-	"pR_imperial": {"ru":"Imperial Garden благодарит организаторов и гостей за интересное и продуктивное мероприятие. Это значимое событие в экономической и общественной жизни Крыма. ", "en":"Imperial Garden thanks the organizers and guests for an interesting and productive event. This is a significant event in the economic and social life of Crimea."},
-
-	"pR_afy": {"ru":"Как приятно на выставке новостроек Connect Invest Crimea на Крымском саммите встретиться и пообщаться с партнерами AFY.ru - портал недвижимости!", "en":"It was such a pleasure to meet and to talk with AFY.ru developer partners at the ‘Connect Invest Crimea’ expo and the Crimean Summit. "},
-
-	"pR_kryminform": {"ru":"О потенциале такой выставки недвижимости говорит участие в ней двух крупнейших застройщиков полуострова – строительных компаний «Интерстрой» и «Монолит», которые не привыкли отвлекать ресурсы на нечто несущественное.", "en":"Of the potential participants of such an exhibition, the two largest developers of the peninsula — the construction companies ‘Interstroy’ and ‘Monolit’, who are not accustomed to divert their resources for something insignificant. "},
-
-	"pR_ycity": {"ru":"Идет второй день международной выставки недвижимости Connect Invest Crimea в отеле &quot;Мрия&quot;. Наши менеджеры активно делятся информацией с будущими клиентами. Обстановка на выставке говорит о том, что интерес россиян к крымской недвижимости растет.", "en":"The second day of the international real estate exhibition ‘Connect Invest Crimea’ is taking place at ‘Mriya Resort & Spa’‘. Our managers actively share information with future customers. The situation at the exhibition shows that the interest of Russian mainlanders to Crimean real estate is growing."},
-	
-	"pR_yug": {"ru":"В работе выставки приняли участие более 300 специалистов рынка недвижимости со всей страны и ближнего зарубежья, свои лучшие проекты представили около 40 крупнейших застройщиков Крыма, Краснодарского края и Санкт-Петербурга. Кроме того, на форум и выставку приехали архитекторы из Испании, Италии, Германии, Канады и Франции, а также представители местных, региональных, федеральных и зарубежных органов исполнительной и законодательной власти, строительных компаний, проектных организаций, производителей технологического оборудования, поставщиков материалов, финансовых структур, потенциальных инвесторов.", "en":"The exhibition was attended by more than 300 real estate professionals from all over the country and neighbouring regions, with the best projects were presented by about 40 major developers in Crimea, the Krasnodar region and St. Petersburg. In addition, architects from Spain, Italy, Germany, Canada and France, as well as representatives of local, regional, federal and foreign executive and legislative authorities, construction companies, design organizations, manufacturers of process equipment, material suppliers, financial structures and potential investors all participated. "},
-
-	"pR_krnedig": {"ru":"Сотрудники агентства &quot;Недвижимость Ялты&quot; и издания &quot;Крым. Недвижимость&quot; принимали участие в первом дне выставки Connect Invest Crimea, которая проходит в отеле Mriya Resort &amp; Spa 5 и 6 июня. Знакомство с новыми застройщиками и инвесторами, начинающими свою деятельность на ЮБК, а также приятные встречи со старыми партнёрами и коллегами - всё это было результативно и познавательно. Опыт таких встреч заряжает позитивной энергией. Обмен мнениями и полезной информацией повышает навыки и профессионализм специалистов. Ждём новых выставок и ярких событий в сфере риэлторской деятельности!", "en":"Employees of the agency “Недвижимость Ялты” (Real Estate Yalta) and the publication “Крым. Недвижимость” (Crimea. Real Estate) took part in the first day of the exhibition ‘Connect Invest Crimea’, which took place at Mriya Resort & Spa on June 5 and 6. Getting acquainted with new developers and investors, launching their activities on the southern coast, as well as pleasant meetings with old partners and colleagues — all this was efficient and informative. The experience of such meetings is charged with positive energy. The exchange of opinions and useful information increases the skills and professionalism of specialists. We are waiting for new exhibitions and bright events in the sphere of real estate!"},
-
-	"pR_monolit": {"ru":"На выставке мы нашли не только заинтересованных клиентов в сфере недвижимости, но и познакомились с новыми партнерами.", "en":" At the exhibition we found not only interested customers in the field of real estate, but also met with new partners. "},
-
-	"pR_roman": {"ru":"Участие было эффективным, даже немного лучше, чем планировали. На стенде прошло несколько результативных встреч, после которых планируется заключение контрактов.", "en":"Participation was effective, even slightly better than we had hoped. Several fruitful meetings took place at our stand, after which the signing of new contracts are planned. "},
-
-	"pR_ryabch": {"ru":"Пригласили на выставку недвижимости в Ялте! Слушайте, не ожидал, но все прошло хорошо! Организация и исполнение понравились. Не знаю, как Вы, а я всегда использую такие мероприятия в основном для новых знакомств и генерации мега идей. Спасибо данному мероприятию за 3 безумные идеи - которые ждут своего воплощения. Всем солнца друзья!", "en":"I was invited to the real estate exhibition in Yalta! Listen, I did not expect, but it went well! The organization and execution were pleasant. I do not know about you, but I always use such events mainly for new acquaintances and generating mega ideas. Thanks to this event for 3 crazy ideas — which are waiting for their embodiment. Sun for everyone friends! "},
-
-	"pR_ryabch_name": {"ru": "Владимир Рябчинский", "en": "Vladimir Ryabchinsky"},
-
-	"pR_roman_name": {"ru": "СК «Романовский Квартал»", "en": "Romanovskyi Kvartal"},
-
-	"pR_monolit_name": {"ru": "ГИП Монолит", "en": "Monolit"},
-
-	"intro1": {"ru":"В рамках мероприятия состоится Форум строителей России, биржа деловых контактов, а также выступление специалистов строительного сектора Европы и стран СНГ.", "en":"Within the framework of the event, the ‘Forum of Russian Builders’, the ‘Business Contacts Exchange’, as well as the participation of foreign specialists from the construction sector in Europe and CIS countries will take place."},
-	"intro2": {"ru":"С 27 по 20 октября 2017 года в крупнейшей демонстрационной площадке Крыма встретятся лидеры строительной индустрии с различных континентов, строительные компании, проектные организации, производители и поставщики строительных и отделочных материалов, разработчики инновационных технологий, представители финансовых структур, исполнительной и законодательной властей России и зарубежья и потенциальные инвесторы.", "en":"27—29 October, 2017 the largest exhibition site in Crimea will unite construction industry leaders from various continents, representatives of local, regional, federal, as well as foreign executive and legislative authorities, construction companies, design & architecture organizations, manufacturers and suppliers of construction and finishing materials, equipment, accessories, specialized equipment, innovative technologies, financial structures & instruments as well as potential investors."},
-	"intro3": {"ru": "Что вы получаете, став участником:", "en": "<span class='en'>The benefits of confirming your participation as a foreign entrepreneur or business representative:</span>"},
-	"intro4": {"ru":"<li>Эффективный инструмент продвижения своей продукции в респектабельной обстановке крупнейшего выставочного центра Республики Крым. </li><li>Расширение экономического сотрудничества, выгодные контракты, новые партнеры. </li><li>Уникальную возможность привлечения инвестиций и развития бизнеса на международном уровне.</li>", "en":"<li>An effective tool for promoting your products in the Russian market at the largest exhibition center in the Republic of Crimea.</li><li>Expansion of your financial interests through the negotiation and signing of beneficial contracts with new partners.</li><li>A unique opportunity to attract investment as a regional or national developer, or to seek out new investment potential as a foreign investor.</li>"},
-	"date": {"ru":"27—29 октября 2017", "en":"October 27—29 2017"},
-	"contactUs": {"ru":"Свяжитесь с нами", "en":"Contact Us"},
-	"sections":  {"ru":"Тематические разделы", "en":"Expo Themes"},
-
-	"section1_h":  {"ru":"Строительные, отделочные материалы и оборудование", "en": "Construction, Finishing Materials & Equipment"},
-	"section1_body":  {"ru":"<li>Бетонные, железобетонные, монолитные конструкции, Армирование</li><li>Строительная химия, стеновые и напольные покрытия</li><li>Кирпич, керамическая и тротуарная плитка, искусственный и натуральный камень</li><li>Металлоконструкции, профиль, фасадные конструктивные системы и кровельные материалы</li><li>Комплектующие, окна, двери, замки, воротные системы, автоматика</li>", "en":"<li>Concrete and Reinforced Concrete, Monolithic Structures & Reinforcement</li><li>Building Chemistry, Wall & Floor Coverings</li><li>Brick, Ceramic and Paving Slabs & Artificial and Natural Stone</li><li>Metal Structures, Framing, Structural Facade Systems & Roofing Materials</li><li>Accessories, Windows, Doors, Locks, Gate Systems & Automation</li>"},
-	
-	"section2_h":  {"ru":"Инженерно-коммуникационные системы", "en":"Engineering & Communication Systems"},
-	"section2_body":  {"ru":"<li>Системы отопления, вентиляции, кондиционирования, водоочистки, канализации</li><li>Энергоснабжение, теплоснабжение, газоснабжение, водоснабжение, гидроизоляция</li><li>Системы автоматизаций зданий, услуги в строительстве</li>", "en":"<li>Heating, Ventilation, Air-Conditioning, Water Treatment & Sewage Systems</li><li>Energy Supply, Heat Supply, Gas Supply, Water Supply & Waterproofing</li><li>Building Automation Systems & Building Servicesе</li>"},
-
-	"section3_h":  {"ru":"Строительство зданий и домов. Архитектура и дизайн", "en":"Building and Design of Housing Structures & Architecture and Design"},
-	"section3_body":  {"ru":"<li>Промышленное и жилищное строительство</li><li>Быстровозводимые конструкции</li><li>Высотное, малоэтажное и коттеджное строительство</li><li>Ремонтно-строительные, реконструкционные, проектные работы</li><li>Ландшафтный и интерьерный дизайн</li>", "en":"<li>Industrial & Housing Construction</li><li>Prefabricated Structures</li><li>High-rise, Low-rise & Cottage Construction</li><li>Reparation, Reconstruction & Design</li><li>Landscaping & Interior Design</li>"},
-
-	"section4_h":  {"ru":"Строительство спортивных сооружений и оборудование детских площадок", "en":"Design, Construction and Equipment for Sports Facilities & Children’s Playgrounds"},
-	"section4_body":  {"ru":"<li>Сооружения капитального и металлокаркасного строительства</li><li>ФОКи</li><li>Строительство, реконструкция и комплектация спортивных и спортивно-оздоровительных сооружений, площадок и стадионов для различных видов спорта</li>", "en":"<li>Building of Permanent and Metal Framed Constructions</li><li>Athletic and health complex</li><li>Construction, Reconstruction and Outfitting of Sport and Fitness Facilities, Playgrounds and Stadiums for Various Sports</li>"},
-
-	"section5_h":  {"ru":"Специализированная строительная техника, комплексы, машины и механизмы", "en":"Specialized Construction Equipment, Machinery & Mechanisms"},
-	"section5_body":  {"ru":"", "en":""},
-
-	"section6_h":  {"ru":"Инновационные материалы и технологии", "en":"Innovative Materials & Technologies"},
-	"section6_body":  {"ru":"<li>IT-технологии</li><li>Системы «Умный дом»</li><li>Технологии информационного моделирования (BIM)</li><li>Биотехнологии в строительстве</li>", "en":"<li>IT Technologies</li><li>Smart Home Systems</li><li>Building Information Modeling (BIM)</li><li>Biotechnology in Construction</li>"},
-
-	"section7_h":  {"ru":"Светотехническое и электрооборудование", "en":"Lighting & Electrical Equipment"},
-	"section7_body":  {"ru":"<li>Электротехнические изделия, электротехника</li><li>Электроснабжение и оборудование</li><li>Приборы контроля и учёта энергоресурсов</li><li>Энергосберегающие конструкции, оборудование, технологии, материалы</li><li>Энергоэффективные технологии и материалы</li><li>Светотехническая продукция, альтернативные источники энергии</li>", "en":"<li>Electrotechnical Products & Electrical Engineering</li><li>Power Supply & Equipment</li><li>Instruments for Monitoring & Measuring Energy Resources</li><li>Energy-Saving Designs, Equipment, Technologies & Materials</li><li>Energy-Efficient Technologies & Materials</li><li>Lighting Products & Alternative Energy sources</li>"},
-
-	"section8_h":  {"ru":"Интегрированные системы комплексной безопасности", "en":"Integrated Building Security Systems & Automation"},
-	"section8_body":  {"ru":"<li>Видеоохранное наблюдение</li><li>Инженерно-технические методы обеспечения безопасности</li><li>Противопожарное обеспечение и системы защиты</li><li>Информационная безопасность</li>", "en":"<li>Video Surveillance</li><li>Engineering & Technical Methods of Ensuring Safety</li><li>Fire Protection & Safety Systems</li><li>Information Security</li>"}
-
-
-
+  "keywords": {
+    "ru": "Строительная выставка, Connect Construct Crimea, Connect Center, Выставка в Крыму, Выставка в Симферополе, строительство",
+    "en": "Construction Expo, Connect Construct Crimea, Connect Center, expo Crimea, construction Crimea, expo Simferopol"
+  },
+  "description": {
+    "ru": "Международная строительная выставка в Крыму Сonneсt Construct Crimea 2017. С 27 по 29 октября 2017 года в выставочном центре Connect Center. Общая площадь — 22 000 м2",
+    "en": "International Construction & Development Exhibition in Crimea 'Сonneсt Construct Crimea' 2017. Total area is 22 000 m2. "
+  },
+  "title": {
+    "ru": "Международная строительная выставка в Крыму — Сonneсt Construct Crimea 2017",
+    "en": "International Construction & Development Exhibition in Crimea — Сonneсt Construct Crimea 2017"
+  },
+  "mission": {
+    "ru": "Миссия",
+    "en": "Mission"
+  },
+  "programm": {
+    "ru": "Программа",
+    "en": "Program"
+  },
+  "participants": {
+    "ru": "Участники",
+    "en": "Participants"
+  },
+  "location": {
+    "ru": "Место проведения",
+    "en": "Location"
+  },
+  "partners": {
+    "ru": "Партнёры",
+    "en": "Partners"
+  },
+  "cctitle": {
+    "ru": "Международная </br> строительная выставка",
+    "en": "International Construction & Development Exhibition"
+  },
+  "participate": {
+    "ru": "Стать участником",
+    "en": "Register Now"
+  },
+  "patronat": {
+    "ru": "Под патронатом Совета министров Республики Крым",
+    "en": "With the support of the Council of Ministers of the Republic of Crimea"
+  },
+  "visitors_h": {
+    "ru": "Целевая аудитория",
+    "en": "Visitors"
+  },
+  "visitors_body": {
+    "ru": "Руководители и специалисты предприятий и учреждений, заинтересованные в приобретении инновационных методов, разработок и оборудования, а также товаров и услуг, профессионалы и эксперты строительной отрасли, представители смежных областей и оптово-розничной торговли, ритейлеры, строительно-подрядные организации, архитекторы, дизайнеры, проектировщики, органы власти и общественные организации, представители финансовых учреждений и инвесторы, представители отраслевых и деловых СМИ, крупнейшие поставщики, дистрибьюторы и дилеры.",
+    "en": "Heads and specialists of enterprises and institutions interested in acquiring innovative methods, developments and equipment, as well as goods and services, professionals and experts in the construction industry, representatives of related areas of wholesale and retail trade, retailers, construction contractors, architects, designers, governments authorities and public organizations, representatives of financial institutions and investors, representatives of construction, development and business media, major suppliers, distributors and dealers."
+  },
+  "exponents_h": {
+    "ru": "Экспоненты",
+    "en": "Participants"
+  },
+  "exponents_body": {
+    "ru": "Лидеры строительной индустрии из различных стран, производители и поставщики строительных и отделочных материалов, оборудования и аксессуаров, специализированной техники.",
+    "en": "Construction industry leaders from various countries, manufacturers and suppliers of construction and finishing materials, equipment & accessories and specialized equipment."
+  },
+  "photogall": {
+    "ru": "Фотоотчет Connect Invest Crimea 2017",
+    "en": "‘Connect Invest Crimea’ 2017 Photo Gallery"
+  },
+  "about_cic1": {
+    "ru": "В июне 2017 года усилиями нашей команды была проведена Международная выставка недвижимости Connect Invest Crimea 2017.",
+    "en": "In June 2017, our teams efforts successfully launched the international real estate exhibition ‘Connect Invest Crimea’ 2017."
+  },
+  "about_cic2": {
+    "ru": "В работе выставки приняли участие более 300 специалистов рынка недвижимости со всей страны и ближнего зарубежья, свои лучшие проекты представили около 40 крупнейших застройщиков Крыма, Краснодарского края и Санкт-Петербурга. Кроме того, на форум и выставку приехали архитекторы из Испании, Италии, Германии, Канады и Франции, а также представители местных, региональных, федеральных и зарубежных органов исполнительной и законодательной власти, строительных компаний, проектных организаций, производителей технологического оборудования, поставщиков материалов, финансовых структур, потенциальных инвесторов. Успех проведения такого мероприятия отметили все участники и посетители выставки.",
+    "en": "More than 300 specialists from the real estate market from all over the country and neighbouring countries took part in the exhibition, roughly 40 of the largest developers from Crimea, Krasnodar and St. Petersburg presented their recent projects. In addition, architects from Spain, Italy, Germany, Canada and France, as well as representatives from local, regional, federal and foreign executive and legislative authorities, construction companies, design organizations, manufacturers of processing equipment, material suppliers, financial structures and potential investors all took part. The success of such an event was widely expressed by the events participants and exhibition visitors."
+  },
+  "readmore": {
+    "ru": "Читайте подробнее",
+    "en": "Read more"
+  },
+  "regnow": {
+    "ru": "Оставьте заявку",
+    "en": "Register Now"
+  },
+  "eventAddr": {
+    "ru": "Крым, Симферополь, ул. Объездная дорога Ялта-Евпатория, 20<br> +7 978 900 28 00 Пн—Пт, 8:00—22:00",
+    "en": "Simferopol, Republic of Crimea, Russia, 20 Obezdnaya Doroga Yalta-Evpatoriya<br> +7 978 900 28 00 Mon — Fri, 8:00—22:00"
+  },
+  "october": {
+    "ru": "октября",
+    "en": "October"
+  },
+  "delprog": {
+    "ru": "Деловая программа",
+    "en": "Business Program"
+  },
+  "ccForum": {
+    "ru": "Строительный форум",
+    "en": "Building Forum"
+  },
+  "ccForumModerH": {
+    "ru": "Модератор первого дня выставки&nbsp;— Павленков Юрий Викторович",
+    "en": "Moderator of the first day of the exhibition&nbsp;– Yuri Viktorovich Pavlenkov"
+  },
+  "ccForumModerBody": {
+    "ru": "Член Консультативного совета рабочей группы по формированию законодательных инициатив и поддержке предпринимательства при Председателе Комитета ГД РФ по энергетике, Комитетов ТПП РФ по предпринимательству в сфере экономики недвижимости и ЖКХ, отраслевого отделения по энергосберегающим технологиям в сфере ЖКХ и строительства «Деловая Россия»",
+    "en": "Member of the Advisory Council of the Working Group on Forming Legislative Initiatives and Supporting Entrepreneurship under the Chairman of the State Duma Committee on Energy, the committees of the Chamber of Commerce and Industry of the Russian Federation on Entrepreneurship in the Real Estate and Housing Economy, the Branch Office for Energy Saving Technologies in the Area of Housing and Communal Services and the Construction of Delovaya Rossiya"
+  },
+  "devSectionH": {
+    "ru": "Секция застройщиков",
+    "en": "Developers Section"
+  },
+  "devSectionBody": {
+    "ru": "<li>Проблемы и перспективы развития рынка строительно-отделочных материалов</li><li>Перспективы импортозамещения в области строительных материалов: мнение застройщиков, за и против</li><li>Новые архитектурные проекты и решения в жилищном строительстве. Возможна ли новая эстетика в панельном домостроении?</li><li>Тенденции и перспективы развития жилищного строительства в России</li>",
+    "en": "<li>Problems and prospects for the development of construction and finishing materials</li><li>Prospects for import substitution in the field of building materials: Developer opinions & pros and cons</li><li>New architectural projects and solutions in residential construction. Are new aesthetics possible in the construction of panel housing?</li><li>Trends and prospects for the construction of housing in Russia</li>"
+  },
+  "govSectionH": {
+    "ru": "Секция Правительства",
+    "en": "Government Section"
+  },
+  "govSectionBody": {
+    "ru": "<li>Планы правительства по реализации Федеральной целевой программы в Республике Крым</li><li>Установочное заседание Технического комитета по стандартизации 144 «Строительные материалы (изделия) и конструкции»</li><li>Новые инвест-проекты, реализуемые в Республике Крым в 2017–2018 годах</li> <li>Примут участие председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству Л.И. Бабашов и депутат ГС РК В.Б. Ясинский.</li>",
+    "en": "<li>Government plans for the implementation of the ‘Federal Target Program’ in the Republic of Crimea</li><li>Installation meeting of the Technical Committee for Standardization 144 “Construction materials (products) and structures”</li><li>New investment projects to be implemented in the Republic of Crimea in 2017 — 2018</li>"
+  },
+  "busContExcH": {
+    "ru": "Биржа деловых контактов",
+    "en": "Business Contacts Exchange"
+  },
+  "busContExcBody": {
+    "ru": "В зале «Business Contact Center» будут расположены персональные офисы компаний и госструктур, с которыми по предварительной записи можно провести переговоры о сотрудничестве.",
+    "en": "In the “Business Contact Center” business forum hall, corporate representative offices and state structures will be located, with which by prior appointment it will be possible to conduct negotiations about partnerships and various levels of cooperation."
+  },
+  "secMonolit": {
+    "ru": "ГК Монолит",
+    "en": "'Monolit', Crimea"
+  },
+  "secMonolitBody": {
+    "ru": "Группа компаний «Монолит» является одним из лидеров-застройщиков крымского полуострова. «Монолит» строит Крым, реализуя с 2005 года градообразующие проекты в сфере жилого, рекреационного, коммерческого и социального строительства. В активе компании – комплекс предприятий, обеспечивающих полный цикл услуг по проектированию, производству, продажам и маркетингу, коммунальному обслуживанию, комплексной охране и транспорту.",
+    "en": "The ‘Monolit’ Group of Companies is one of the leading builders in the Crimean peninsula. ‘Monolit’ is constantly building in Crimea, realizing urban projects in the fields of residential, recreational, commercial and social construction since 2005. The company’s assets are a group of companies that provide a full range of services for design, production, sales and marketing, public services, building security and transport."
+  },
+  "secGup": {
+    "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
+    "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
+  },
+  "secGupBody": {
+    "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
+    "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
+  },
+  "secNova": {
+    "ru": "Сеть гипермаркетов «НОВАЦЕНТР»",
+    "en": "«Новацентр» (Nova Center) Home Building & Materials Supermarket Network"
+  },
+  "secNovaBody": {
+    "ru": "Это крупнейший представить формата DIY в Крыму. На сегодняшний день сеть «НОВАЦЕНТР» представлена 3-мя гипермаркетами в городах Симферополь и Севастополь, общей торговой площадью более 61 800 кв.м кв.м. Штат сотрудников насчитывает более 1300 специалистов.",
+    "en": "The largest home building and materials centers in Crimea. To date, the «Повацентр» (Nova Center) network is represented by 3 supermarkets in the cities of Simferopol and Sevastopol, with a total floor sales area of more than 61,800 sq.m. Their staff is comprised of more than 1300 specialists."
+  },
+  "ccForeign": {
+    "ru": "Иностранные эксперты",
+    "en": "Foreign Experts"
+  },
+  "ccForeignBody": {
+    "ru": "Секция иностранных экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройинтусдтрии из различных стран.",
+    "en": "The foreign experts section is held in the ‘Business Contact Center’ hall, where representatives of the construction industry from various countries will take part."
+  },
+  "alvarezH": {
+    "ru": "Хуан Альварез (Juan Alvarez)",
+    "en": "Juan Alvarez"
+  },
+  "alvarezD": {
+    "ru": "Испания, Нидерланды",
+    "en": "Spain, Netherlands"
+  },
+  "alvarezD2": {
+    "ru": "Инновационные решения для строительства, устойчивая модель долгосрочного прибыльного инвестирования.",
+    "en": "Innovative solutions for construction, a sustainable model of long-term profitable investment."
+  },
+  "ccPartners": {
+    "ru": "Партнёры выставки",
+    "en": "Expo Partners"
+  },
+  "yName": {
+    "ru": "Ваше имя",
+    "en": "Your Name"
+  },
+  "yEmail": {
+    "ru": "Ваш email",
+    "en": "Your Email"
+  },
+  "yPhone": {
+    "ru": "Ваш телефон",
+    "en": "Your Phone"
+  },
+  "sendB": {
+    "ru": "Отправить",
+    "en": "Send Now"
+  },
+  "sentMsg": {
+    "ru": "Ваше сообщение успешно отправлено.",
+    "en": "Your message is sent!"
+  },
+  "soglasen1": {
+    "ru": "Я подтверждаю свое согласие с условиями",
+    "en": "I agree to the terms and conditions"
+  },
+  "soglasen2": {
+    "ru": "Политики обработки персональных данных",
+    "en": "Personal data processing policy"
+  },
+  "transferH": {
+    "ru": "Организация поездки",
+    "en": "TRAVEL CONCIERGE"
+  },
+  "transferB1": {
+    "ru": "Мы позаботились о том, чтобы ваше путешествие в Симферополь было максимально комфортным и запомнилось навсегда. Наши менеджеры предложат вам лучшие варианты авиаперелетов, подберут варианты размещения в лучших отелях Крыма и окажут необходимую визовую поддержку.",
+    "en": "We are making sure that your trip to Simferopol is as comfortable as possible and leaves you with a pleasant experience. Our managers will offer you the best options for air travel, choice of accommodations in the best hotels in Crimea and provide the necessary visa support."
+  },
+  "transferB2": {
+    "ru": "Консьерж-услуги предоставляет партнёр выставки Сервисный Клуб «Перспектива»",
+    "en": "Concierge services are provided by our official exhibition partner, concierge Service Club 'Perspektiva'."
+  },
+  "transfer1": {
+    "ru": "ПЛАНИРОВАНИЕ ПОЕЗДКИ",
+    "en": "PLANNING YOUR VISIT"
+  },
+  "transfer2": {
+    "ru": "ПЕРЕЛЕТ",
+    "en": "FLIGHT"
+  },
+  "transfer3": {
+    "ru": "ТРАНСФЕР",
+    "en": "TRANSFER"
+  },
+  "transfer4": {
+    "ru": "ОТЕЛИ",
+    "en": "HOTELS"
+  },
+  "cicHeader": {
+    "ru": "Успешный опыт бренда Connect Crimea",
+    "en": "‘Connect Crimea’ Brand Success"
+  },
+  "onlinePartner": {
+    "ru": "Главный интернет партнер",
+    "en": "Primary Internet Partner"
+  },
+  "mediaPartners": {
+    "ru": "Медиапартнеры",
+    "en": "Media Partners"
+  },
+  "intPartners": {
+    "ru": "Партнеры по международному сотрудничеству",
+    "en": "International Partners"
+  },
+  "pressReviews": {
+    "ru": "Отзывы о Connect Invest Crimea 2017",
+    "en": "Press & Reviews of CIC 2017"
+  },
+  "pR": 
+    [ {
+      "content": {
+        "en": "Yalta. June 5. INTERFAX-REAL ESTATE — Investors from abroad show interest in various projects on Crimea’s southern coast, the head of Yalta’s administration Andrei Rostenko told Interfax at the ‘Connect Invest Crimea’ forum.",
+        "ru": "Ялта. 5 июня. ИНТЕРФАКС-НЕДВИЖИМОСТЬ — Инвесторы из-за рубежа проявляют интерес к различным проектам на Южном берегу Крыма (ЮБК), сообщил &quot;Интерфаксу&quot; глава администрации Ялты Андрей Ростенко на форуме-выставке Connect Invest Crimea."
+      },
+      "name": {
+        "en": "Interfax",
+        "ru": "Interfax"
+      },
+      	"link": "http://realty.interfax.ru/ru/news/articles/82218/",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/interfax.png"
+    },
+     {
+      "content": {
+      	"ru": "В Крыму 5 и 6 июня нынешнего года состоится международный форум застройщиков Сonneсt Invest Crimea. На одной площадке объединят три мероприятия: форум риелторов России, инвестиционный саммит и выставку недвижимости.",
+      	"en": "On June 5 and 6, an international forum of developers Сonneсt Invest Crimea will take place. Three events are being organized at one site: a forum of Russian realtors, an investment summit and a real estate exhibition."
+      },
+      "name": {
+      	"ru": "Lenta.ru",
+      	"en": "Lenta.ru"
+      },
+      	"link": "http://dom.lenta.ru/news/2017/06/01/lid/",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/lenta_ru.png"
+    },
+    {
+   	 "content": {
+        "ru": "Сеть предприятий Alba Contract с целью выхода на зарубежный рынок была представлена делегацией на Международном Форуме Недвижимости в Крыму Connect Invest Crimea 5-6 июня 2017. На Форуме была возможность найти потенциальных клиентов и партнеров в Крыму и начать отношения с новыми коллегами в этой области.",
+      	"en": "The ‘Alba Contract’ network of enterprises was presented by the delegation at the International Real Estate Forum in Crimea ‘Connect Invest Crimea’ on June 5-6, 2017 with the purpose of entering the foreign market. The Forum provided the opportunity to find potential clients and partners in Crimea and to launch relations with new colleagues in this area."
+      },
+      "name": {
+        "en": "Alba Contract",
+        "ru": "Alba Contract"
+      },
+      	"link": "http://www.albacontract.com/ru/новости/272-l-alba-contract-al-connect-invest-crimea-2.html",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/alba.jpg"
+      
+    },
+     {
+    	"content": {
+        	"ru": "Выставка была интересна не только предпринимателям и застройщикам, чей образ жизни тесно переплетен с недвижимостью, покупателям и риелторам там тоже было на что взглянуть. В этом и заключается основная прелесть такого многостороннего мероприятия, в котором любой человек может найти что-то для себя.",
+      		"en": "The exhibition was interesting not only for entrepreneurs and developers, whose lifestyle is closely intertwined with real estate, but buyers and realtors also had something to look at there. This is the main charm of such a multilateral event in which any person can find something for themselves."
+      	},
+      	"name": {
+       		"en": "ООО «Севас-Дом»",
+       		"ru": "ООО «Севас-Дом»"
+      },
+      	"link": "http://sevas-dom.ru/vystavka-nedvizhimosti-connect-invest-crimea/",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/sevasdom.png"      
+    },
+     {
+	    "content": {
+	        "ru": "Imperial Garden благодарит организаторов и гостей за интересное и продуктивное мероприятие. Это значимое событие в экономической и общественной жизни Крыма. ",
+      		"en": "Imperial Garden thanks the organizers and guests for an interesting and productive event. This is a significant event in the economic and social life of Crimea."
+	      	},
+      	"name": {
+       		"en": "Imperial Garden",
+       		"ru": "Imperial Garden"
+      		},
+      	"link": "http://www.imperialgarden.ru/news/2017/06/13/connect-invest-crimea/",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ImperialGarden.jpg"      
+    },
+     {
+    	"content": {
+	        "ru": "Как приятно на выставке новостроек Connect Invest Crimea на Крымском саммите встретиться и пообщаться с партнерами AFY.ru - портал недвижимости!",
+      		"en": "It was such a pleasure to meet and to talk with AFY.ru developer partners at the ‘Connect Invest Crimea’ expo and the Crimean Summit. "
+	      	},
+      	"name": {
+       		"en": "Afy.ru",
+       		"ru": "Портал Afy.ru"
+      		},
+      	"link": "",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/Afy_.jpg"        
+    },
+     {
+    	"content": {
+	        "ru": "О потенциале такой выставки недвижимости говорит участие в ней двух крупнейших застройщиков полуострова – строительных компаний «Интерстрой» и «Монолит», которые не привыкли отвлекать ресурсы на нечто несущественное.",
+      		"en": "Of the potential participants of such an exhibition, the two largest developers of the peninsula — the construction companies ‘Interstroy’ and ‘Monolit’, who are not accustomed to divert their resources for something insignificant."
+	      	},
+      	"name": {
+       		"en": "Crimea Infrom",
+       		"ru": "Крым Информ"
+      		},
+      	"link": "http://www.c-inform.info/news/id/53504",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/crimeainform.jpeg"      
+    },
+     {
+    	"content": {
+	        "ru": "Идет второй день международной выставки недвижимости Connect Invest Crimea в отеле &quot;Мрия&quot;. Наши менеджеры активно делятся информацией с будущими клиентами. Обстановка на выставке говорит о том, что интерес россиян к крымской недвижимости растет.",
+      		"en": "The second day of the international real estate exhibition ‘Connect Invest Crimea’ is taking place at ‘Mriya Resort & Spa’‘. Our managers actively share information with future customers. The situation at the exhibition shows that the interest of Russian mainlanders to Crimean real estate is growing."
+	      	},
+      	"name": {
+       		"en": "Yalta-City",
+       		"ru": "Компания Ялта-Сити"
+      		},
+      	"link": "",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/yalta_city.png"
+    },
+     {
+    	"content": {
+	        "ru": "В работе выставки приняли участие более 300 специалистов рынка недвижимости со всей страны и ближнего зарубежья, свои лучшие проекты представили около 40 крупнейших застройщиков Крыма, Краснодарского края и Санкт-Петербурга. Кроме того, на форум и выставку приехали архитекторы из Испании, Италии, Германии, Канады и Франции, а также представители местных, региональных, федеральных и зарубежных органов исполнительной и законодательной власти, строительных компаний, проектных организаций, производителей технологического оборудования, поставщиков материалов, финансовых структур, потенциальных инвесторов.",
+      		"en": "The exhibition was attended by more than 300 real estate professionals from all over the country and neighbouring regions, with the best projects were presented by about 40 major developers in Crimea, the Krasnodar region and St. Petersburg. In addition, architects from Spain, Italy, Germany, Canada and France, as well as representatives of local, regional, federal and foreign executive and legislative authorities, construction companies, design organizations, manufacturers of process equipment, material suppliers, financial structures and potential investors all participated."
+	      	},
+      	"name": {
+       		"en": "Yug Yalta",
+       		"ru": "Юг Ялта"
+      		},
+      	"link": "http://югялта.рф/news/v_yaltu_priekhali_luchshie_rieltory_rossii_i_arkhitekto/",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ug_yalta_logo.jpg"      
+    },
+     {
+    	"content": {
+	        "ru": "Сотрудники агентства &quot;Недвижимость Ялты&quot; и издания &quot;Крым. Недвижимость&quot; принимали участие в первом дне выставки Connect Invest Crimea, которая проходит в отеле Mriya Resort &amp; Spa 5 и 6 июня. Знакомство с новыми застройщиками и инвесторами, начинающими свою деятельность на ЮБК, а также приятные встречи со старыми партнёрами и коллегами - всё это было результативно и познавательно. Опыт таких встреч заряжает позитивной энергией. Обмен мнениями и полезной информацией повышает навыки и профессионализм специалистов. Ждём новых выставок и ярких событий в сфере риэлторской деятельности!",
+      		"en": "Employees of the agency “Недвижимость Ялты” (Real Estate Yalta) and the publication “Крым. Недвижимость” (Crimea. Real Estate) took part in the first day of the exhibition ‘Connect Invest Crimea’, which took place at Mriya Resort & Spa on June 5 and 6. Getting acquainted with new developers and investors, launching their activities on the southern coast, as well as pleasant meetings with old partners and colleagues — all this was efficient and informative. The experience of such meetings is charged with positive energy. The exchange of opinions and useful information increases the skills and professionalism of specialists. We are waiting for new exhibitions and bright events in the sphere of real estate!"
+	      	},
+      	"name": {
+       		"en": "Издание &quot;Крым. Недвижимость&quot;",
+       		"ru": "&quot;Crimea. Realty Estate&quot; publishing"
+      		},
+      	"link": "",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/crimea_nedv.png"      
+    },
+    {
+    	"content": {
+	        "ru": "На выставке мы нашли не только заинтересованных клиентов в сфере недвижимости, но и познакомились с новыми партнерами.",
+      		"en": " At the exhibition we found not only interested customers in the field of real estate, but also met with new partners."
+	      	},
+      	"name": {
+       		"ru": "ГИП Монолит",
+      		"en": "Monolit"
+      		},
+      	"link": "",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/logo_monolit.png"      
+    },
+     {
+    	"content": {
+	        "ru": "Участие было эффективным, даже немного лучше, чем планировали. На стенде прошло несколько результативных встреч, после которых планируется заключение контрактов.",
+      		"en": "Participation was effective, even slightly better than we had hoped. Several fruitful meetings took place at our stand, after which the signing of new contracts are planned."
+	      	},
+      	"name": {
+       		"ru": "СК «Романовский Квартал»",
+      		"en": "Romanovskyi Kvartal"
+      		},
+      	"link": "",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/romanovskyi.png"       
+    },
+    {
+    	"content": {
+	        "ru": "Пригласили на выставку недвижимости в Ялте! Слушайте, не ожидал, но все прошло хорошо! Организация и исполнение понравились. Не знаю, как Вы, а я всегда использую такие мероприятия в основном для новых знакомств и генерации мега идей. Спасибо данному мероприятию за 3 безумные идеи - которые ждут своего воплощения. Всем солнца друзья!",
+      		"en": "I was invited to the real estate exhibition in Yalta! Listen, I did not expect, but it went well! The organization and execution were pleasant. I do not know about you, but I always use such events mainly for new acquaintances and generating mega ideas. Thanks to this event for 3 crazy ideas — which are waiting for their embodiment. Sun for everyone friends!"
+	      	},
+      	"name": {
+       		"ru": "Владимир Рябчинский",
+      		"en": "Vladimir Ryabchinsky"
+      		},
+      	"link": "",
+      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ryabchinskyi.jpg"       
+    }     
+  ],
+  "intro1": {
+    "ru": "В рамках мероприятия состоится Форум строителей России, биржа деловых контактов, а также выступление специалистов строительного сектора Европы и стран СНГ.",
+    "en": "Within the framework of the event, the ‘Forum of Russian Builders’, the ‘Business Contacts Exchange’, as well as the participation of foreign specialists from the construction sector in Europe and CIS countries will take place."
+  },
+  "intro2": {
+    "ru": "С 27 по 20 октября 2017 года в крупнейшей демонстрационной площадке Крыма встретятся лидеры строительной индустрии с различных континентов, строительные компании, проектные организации, производители и поставщики строительных и отделочных материалов, разработчики инновационных технологий, представители финансовых структур, исполнительной и законодательной властей России и зарубежья и потенциальные инвесторы.",
+    "en": "27—29 October, 2017 the largest exhibition site in Crimea will unite construction industry leaders from various continents, representatives of local, regional, federal, as well as foreign executive and legislative authorities, construction companies, design & architecture organizations, manufacturers and suppliers of construction and finishing materials, equipment, accessories, specialized equipment, innovative technologies, financial structures & instruments as well as potential investors."
+  },
+  "intro3": {
+    "ru": "Что вы получаете, став участником:",
+    "en": "<span class='en'>The benefits of confirming your participation as a foreign entrepreneur or business representative:</span>"
+  },
+  "intro4": {
+    "ru": "<li>Эффективный инструмент продвижения своей продукции в респектабельной обстановке крупнейшего выставочного центра Республики Крым. </li><li>Расширение экономического сотрудничества, выгодные контракты, новые партнеры. </li><li>Уникальную возможность привлечения инвестиций и развития бизнеса на международном уровне.</li>",
+    "en": "<li>An effective tool for promoting your products in the Russian market at the largest exhibition center in the Republic of Crimea.</li><li>Expansion of your financial interests through the negotiation and signing of beneficial contracts with new partners.</li><li>A unique opportunity to attract investment as a regional or national developer, or to seek out new investment potential as a foreign investor.</li>"
+  },
+  "date": {
+    "ru": "27—29 октября 2017",
+    "en": "October 27—29 2017"
+  },
+  "contactUs": {
+    "ru": "Свяжитесь с нами",
+    "en": "Contact Us"
+  },
+  "sections": {
+    "ru": "Тематические разделы",
+    "en": "Expo Themes"
+  },
+  "section1_h": {
+    "ru": "Строительные, отделочные материалы и оборудование",
+    "en": "Construction, Finishing Materials & Equipment"
+  },
+  "section1_body": {
+    "ru": "<li>Бетонные, железобетонные, монолитные конструкции, Армирование</li><li>Строительная химия, стеновые и напольные покрытия</li><li>Кирпич, керамическая и тротуарная плитка, искусственный и натуральный камень</li><li>Металлоконструкции, профиль, фасадные конструктивные системы и кровельные материалы</li><li>Комплектующие, окна, двери, замки, воротные системы, автоматика</li>",
+    "en": "<li>Concrete and Reinforced Concrete, Monolithic Structures & Reinforcement</li><li>Building Chemistry, Wall & Floor Coverings</li><li>Brick, Ceramic and Paving Slabs & Artificial and Natural Stone</li><li>Metal Structures, Framing, Structural Facade Systems & Roofing Materials</li><li>Accessories, Windows, Doors, Locks, Gate Systems & Automation</li>"
+  },
+  "section2_h": {
+    "ru": "Инженерно-коммуникационные системы",
+    "en": "Engineering & Communication Systems"
+  },
+  "section2_body": {
+    "ru": "<li>Системы отопления, вентиляции, кондиционирования, водоочистки, канализации</li><li>Энергоснабжение, теплоснабжение, газоснабжение, водоснабжение, гидроизоляция</li><li>Системы автоматизаций зданий, услуги в строительстве</li>",
+    "en": "<li>Heating, Ventilation, Air-Conditioning, Water Treatment & Sewage Systems</li><li>Energy Supply, Heat Supply, Gas Supply, Water Supply & Waterproofing</li><li>Building Automation Systems & Building Servicesе</li>"
+  },
+  "section3_h": {
+    "ru": "Строительство зданий и домов. Архитектура и дизайн",
+    "en": "Building and Design of Housing Structures & Architecture and Design"
+  },
+  "section3_body": {
+    "ru": "<li>Промышленное и жилищное строительство</li><li>Быстровозводимые конструкции</li><li>Высотное, малоэтажное и коттеджное строительство</li><li>Ремонтно-строительные, реконструкционные, проектные работы</li><li>Ландшафтный и интерьерный дизайн</li>",
+    "en": "<li>Industrial & Housing Construction</li><li>Prefabricated Structures</li><li>High-rise, Low-rise & Cottage Construction</li><li>Reparation, Reconstruction & Design</li><li>Landscaping & Interior Design</li>"
+  },
+  "section4_h": {
+    "ru": "Строительство спортивных сооружений и оборудование детских площадок",
+    "en": "Design, Construction and Equipment for Sports Facilities & Children’s Playgrounds"
+  },
+  "section4_body": {
+    "ru": "<li>Сооружения капитального и металлокаркасного строительства</li><li>ФОКи</li><li>Строительство, реконструкция и комплектация спортивных и спортивно-оздоровительных сооружений, площадок и стадионов для различных видов спорта</li>",
+    "en": "<li>Building of Permanent and Metal Framed Constructions</li><li>Athletic and health complex</li><li>Construction, Reconstruction and Outfitting of Sport and Fitness Facilities, Playgrounds and Stadiums for Various Sports</li>"
+  },
+  "section5_h": {
+    "ru": "Специализированная строительная техника, комплексы, машины и механизмы",
+    "en": "Specialized Construction Equipment, Machinery & Mechanisms"
+  },
+  "section5_body": {
+    "ru": "",
+    "en": ""
+  },
+  "section6_h": {
+    "ru": "Инновационные материалы и технологии",
+    "en": "Innovative Materials & Technologies"
+  },
+  "section6_body": {
+    "ru": "<li>IT-технологии</li><li>Системы «Умный дом»</li><li>Технологии информационного моделирования (BIM)</li><li>Биотехнологии в строительстве</li>",
+    "en": "<li>IT Technologies</li><li>Smart Home Systems</li><li>Building Information Modeling (BIM)</li><li>Biotechnology in Construction</li>"
+  },
+  "section7_h": {
+    "ru": "Светотехническое и электрооборудование",
+    "en": "Lighting & Electrical Equipment"
+  },
+  "section7_body": {
+    "ru": "<li>Электротехнические изделия, электротехника</li><li>Электроснабжение и оборудование</li><li>Приборы контроля и учёта энергоресурсов</li><li>Энергосберегающие конструкции, оборудование, технологии, материалы</li><li>Энергоэффективные технологии и материалы</li><li>Светотехническая продукция, альтернативные источники энергии</li>",
+    "en": "<li>Electrotechnical Products & Electrical Engineering</li><li>Power Supply & Equipment</li><li>Instruments for Monitoring & Measuring Energy Resources</li><li>Energy-Saving Designs, Equipment, Technologies & Materials</li><li>Energy-Efficient Technologies & Materials</li><li>Lighting Products & Alternative Energy sources</li>"
+  },
+  "section8_h": {
+    "ru": "Интегрированные системы комплексной безопасности",
+    "en": "Integrated Building Security Systems & Automation"
+  },
+  "section8_body": {
+    "ru": "<li>Видеоохранное наблюдение</li><li>Инженерно-технические методы обеспечения безопасности</li><li>Противопожарное обеспечение и системы защиты</li><li>Информационная безопасность</li>",
+    "en": "<li>Video Surveillance</li><li>Engineering & Technical Methods of Ensuring Safety</li><li>Fire Protection & Safety Systems</li><li>Information Security</li>"
+  }
 }

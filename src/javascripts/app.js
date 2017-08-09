@@ -83,5 +83,14 @@ $("document").ready(function() {
 
     //    maxHeight = Math.max.apply(null, heights);
     // $("#carousel-testimonials").css("height", 340);
-})
+});
 
+$("document").ready(function() {
+var maxHeight = -1;
+$('#carousel-testimonials .carousel-item').each(function() {
+    if ($(this).height() > maxHeight) {
+        maxHeight = $(this).height();
+    }
+});
+$('.cc-testimonialsbox').height(maxHeight);
+});
