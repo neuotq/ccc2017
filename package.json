@@ -10,5 +10,9 @@
     "bootstrap": "4.0.0-alpha.6",
     "jquery": "^3.2.1",
     "tether": "^1.4.0"
+  },
+   "scripts": {
+    "start": "yarn run blendid",
+    "build": "./node_modules/.bin/blendid -- build"
   }
 }
