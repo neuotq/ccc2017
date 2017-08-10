@@ -1,0 +1,31 @@
+.transfer {
+	background-image: url(/images/transfer-bg.jpg);
+	background-repeat: none;
+	background-size: cover;	
+	background-position: center;
+}
+
+.t-section {
+	color: #fff;
+    font-family: 'solomon_sans_blackregular';
+	font-size: 1.5rem;
+	text-align: center;
+	line-height: 1em;
+	padding: 2rem 1rem;
+	margin: 1.3rem 0;
+	border-right: 3px solid #fff;
+	&.t4 {border: none;}
+}
+
+.t-section-icon {
+	background-repeat: no-repeat;
+    background-position: center;
+	padding-top: 3em;
+    height: 7rem;
+    display: block;
+    margin-bottom: 1.52em;
+}
+
+@for $i from 1 through 4 {
+	.t#{$i} .t-section-icon {background-image: url(../images/transfer-#{$i}.svg);}
+}
