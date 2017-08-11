@@ -127,30 +127,104 @@
     "ru": "В зале «Business Contact Center» будут расположены персональные офисы компаний и госструктур, с которыми по предварительной записи можно провести переговоры о сотрудничестве.",
     "en": "In the “Business Contact Center” business forum hall, corporate representative offices and state structures will be located, with which by prior appointment it will be possible to conduct negotiations about partnerships and various levels of cooperation."
   },
-  "secMonolit": {
-    "ru": "ГК Монолит",
-    "en": "'Monolit', Crimea"
-  },
-  "secMonolitBody": {
-    "ru": "Группа компаний «Монолит» является одним из лидеров-застройщиков крымского полуострова. «Монолит» строит Крым, реализуя с 2005 года градообразующие проекты в сфере жилого, рекреационного, коммерческого и социального строительства. В активе компании – комплекс предприятий, обеспечивающих полный цикл услуг по проектированию, производству, продажам и маркетингу, коммунальному обслуживанию, комплексной охране и транспорту.",
-    "en": "The ‘Monolit’ Group of Companies is one of the leading builders in the Crimean peninsula. ‘Monolit’ is constantly building in Crimea, realizing urban projects in the fields of residential, recreational, commercial and social construction since 2005. The company’s assets are a group of companies that provide a full range of services for design, production, sales and marketing, public services, building security and transport."
-  },
-  "secGup": {
-    "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
-    "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
-  },
-  "secGupBody": {
-    "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
-    "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
-  },
-  "secNova": {
-    "ru": "Сеть гипермаркетов «НОВАЦЕНТР»",
-    "en": "«Новацентр» (Nova Center) Home Building & Materials Supermarket Network"
-  },
-  "secNovaBody": {
-    "ru": "Это крупнейший представить формата DIY в Крыму. На сегодняшний день сеть «НОВАЦЕНТР» представлена 3-мя гипермаркетами в городах Симферополь и Севастополь, общей торговой площадью более 61 800 кв.м кв.м. Штат сотрудников насчитывает более 1300 специалистов.",
-    "en": "The largest home building and materials centers in Crimea. To date, the «Повацентр» (Nova Center) network is represented by 3 supermarkets in the cities of Simferopol and Sevastopol, with a total floor sales area of more than 61,800 sq.m. Their staff is comprised of more than 1300 specialists."
-  },
+  "sec": 
+    [ {
+      "content": {
+        "ru": "Группа компаний «Монолит» является одним из лидеров-застройщиков крымского полуострова. «Монолит» строит Крым, реализуя с 2005 года градообразующие проекты в сфере жилого, рекреационного, коммерческого и социального строительства. В активе компании – комплекс предприятий, обеспечивающих полный цикл услуг по проектированию, производству, продажам и маркетингу, коммунальному обслуживанию, комплексной охране и транспорту.",
+        "en": "The ‘Monolit’ Group of Companies is one of the leading builders in the Crimean peninsula. ‘Monolit’ is constantly building in Crimea, realizing urban projects in the fields of residential, recreational, commercial and social construction since 2005. The company’s assets are a group of companies that provide a full range of services for design, production, sales and marketing, public services, building security and transport."
+      },
+      "name": {
+        "ru": "ГК Монолит",
+        "en": "'Monolit', Crimea"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
+        "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
+      },
+      "name": {
+        "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
+        "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "Это крупнейший представить формата DIY в Крыму. На сегодняшний день сеть «НОВАЦЕНТР» представлена 3-мя гипермаркетами в городах Симферополь и Севастополь, общей торговой площадью более 61 800 кв.м кв.м. Штат сотрудников насчитывает более 1300 специалистов.",
+        "en": "The largest home building and materials centers in Crimea. To date, the «Повацентр» (Nova Center) network is represented by 3 supermarkets in the cities of Simferopol and Sevastopol, with a total floor sales area of more than 61,800 sq.m. Their staff is comprised of more than 1300 specialists."
+      },
+      "name": {
+        "ru": "Сеть гипермаркетов «НОВАЦЕНТР»",
+        "en": "«Новацентр» (Nova Center) Home Building & Materials Supermarket Network"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "Перспектива – группа компаний, сосредоточенная на строительстве курортной недвижимости в Крыму. Объекты компании – жилые комплексы, расположенные в самых живописных местах полуострова.",
+        "en": "Перспектива – группа компаний, сосредоточенная на строительстве курортной недвижимости в Крыму. Объекты компании – жилые комплексы, расположенные в самых живописных местах полуострова."
+      },
+      "name": {
+        "ru": "ГК «Перспектива»",
+        "en": "ГК «Перспектива»"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "Региональная группа компаний «Парангон» ведет свою деятельность в г. Севастополе уже 11 лет и является одной из крупнейших компаний в регионе. Основным направлением нашей деятельности является строительно-инвестиционная деятельность. За период работы введено в эксплуатацию более 20 различных жилых и рекреационных комплексов. С момента основания компания проинвестировала в туристическую отрасль города уже более 3 000 000 000 рублей.",
+        "en": "Региональная группа компаний «Парангон» ведет свою деятельность в г. Севастополе уже 11 лет и является одной из крупнейших компаний в регионе. Основным направлением нашей деятельности является строительно-инвестиционная деятельность. За период работы введено в эксплуатацию более 20 различных жилых и рекреационных комплексов. С момента основания компания проинвестировала в туристическую отрасль города уже более 3 000 000 000 рублей."
+      },
+      "name": {
+        "ru": "ГК «Парангон»",
+        "en": "ГК «Парангон»"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "Трест «Липецкстрой» основан в 1931 году.Трест «Липецкстрой» — одна из крупнейших строительных компаний Липецкой области. Основатель строительного бизнеса региона. Работает в сфере строительства более 80 лет.",
+        "en": "Трест «Липецкстрой» основан в 1931 году.Трест «Липецкстрой» — одна из крупнейших строительных компаний Липецкой области. Основатель строительного бизнеса региона. Работает в сфере строительства более 80 лет."
+      },
+      "name": {
+        "ru": "«Липецкстрой»",
+        "en": "«Липецкстрой»"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "АО «АБ «РОССИЯ» начал работу 27 июня 1990 года в Санкт-Петербурге и является одним из первых российских частных банков. Он осуществляет весь комплекс банковских услуг для корпоративных и частных клиентов.",
+        "en": "АО «АБ «РОССИЯ» начал работу 27 июня 1990 года в Санкт-Петербурге и является одним из первых российских частных банков. Он осуществляет весь комплекс банковских услуг для корпоративных и частных клиентов."
+      },
+      "name": {
+        "ru": "АО «АБ «РОССИЯ»",
+        "en": "АО «АБ «РОССИЯ»"
+      },
+        "link": "",
+        "img": ""
+    },
+    {
+      "content": {
+        "ru": "Компания «Севастопольстрой» объединяет двух крупнейших застройщиков Севастополя - ООО «Севастопольстрой» и ООО «Севжилстрой», лидеров на рынке недвижимости Севастополя и Крыма с 1944 года.",
+        "en": "Компания «Севастопольстрой» объединяет двух крупнейших застройщиков Севастополя - ООО «Севастопольстрой» и ООО «Севжилстрой», лидеров на рынке недвижимости Севастополя и Крыма с 1944 года."
+      },
+      "name": {
+        "ru": "Севастопольстрой",
+        "en": "Севастопольстрой"
+      },
+        "link": "",
+        "img": ""
+    }
+    ],  
   "ccForeign": {
     "ru": "Иностранные эксперты",
     "en": "Foreign Experts"
