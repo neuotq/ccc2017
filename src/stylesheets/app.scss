@@ -1,5 +1,5 @@
-@import "../../node_modules/bootstrap/scss/bootstrap";
-// @import "mixins";
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import "mixins";
 @import "base/colours";
 @import "base/typography";
 @import "base/header";
@@ -123,15 +123,13 @@
 
 .mediapartner-box img {
     box-shadow: none;
-    width: 70%;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    width: 70%;    
+    @include filter(grayscale, 100%);
     opacity: .7;
     margin: 0 auto;
     transition: .5s ease-in-out;	
-    &:hover {
-		-webkit-filter: grayscale(0);
-		filter: grayscale(0);
+    &:hover {		
+		@include filter(grayscale, 0%);
 		opacity: 1;    	
     }
 }
@@ -174,42 +172,6 @@
     }
     &.active{color: #fff;}
     &.active::before {background: $cc-bluegrad;}
-}
-
-
-.testimonial {
-    margin-right: 15%;
-    margin-left: 15%;
-    font-family: 'solomon_sans_bookregular';
-  //   p {position: relative;}
-  //   p::before {
-		// content: "«";
-	 //    position: absolute;
-	 //    left: -1em;
-	 //    font-size: 4rem;
-	 //    color: black;
-	 //    top: -11px;
-  //   }
-
-  //   p::after {
-  //   	content: "»";
-	 //    position: absolute;
-	 //    right: -1em;
-	 //    font-size: 4rem;
-	 //    color: black;
-	 //    top: -11px;
-  //   }
-
-    .avatar {
-    	margin-bottom: 2rem;
-    	display: block;
-    	text-align: center;
-    	img {
-		    max-width: 220px;
-	    	border-radius: 0;
-    		box-shadow: none;
-    	}
-    }
 }
 
 .vert .carousel-item-next.carousel-item-left,

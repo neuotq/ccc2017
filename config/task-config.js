@@ -14,9 +14,10 @@ module.exports = {
       app: ["./app.js"]
     },
     provide: {
-      $: "jquery",
-      jQuery: "jquery",
-      Tether: "tether"
+       $: 'jquery',
+       jQuery: 'jquery',
+       'window.jQuery': 'jquery',
+       Popper: ['popper.js', 'default'],
     }
   },
 
