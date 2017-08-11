@@ -1,8 +1,5 @@
 .cc-form {position: relative;}
 
-.cc-form input {
-	margin-bottom: 1rem;
-}
 .cc-soglasen-checkbox {float: left}
 .cc-soglasen-label {float: left;width: 90%;line-height: 1.1em;margin-left: 11px;}
 
@@ -39,4 +36,37 @@
 }
 .thanks-active .thanks-box {
 	display: block;
+}
+
+.cc-tab {
+	// border-bottom: 2px dashed rgba(171, 158, 158, 0.56);    
+    cursor: pointer;
+    position: relative;
+    z-index: 1;    
+    line-height: initial;
+    line-height: 2rem;
+        span {
+    	padding: 0 1.2rem;
+    }
+    // font-size: 1.5rem;
+    // @include media-breakpoint-down(md) {font-size: 1rem; padding-bottom: 2rem;}
+    &::before {
+        background-color: #888;
+        transform: skew(-15deg, 0deg);
+        content: '';        
+        // @include media-breakpoint-down(lg) {height: calc(2.3em + 0.5rem);}
+        // @include media-breakpoint-down(sm) {height: calc(3em + 0.5rem);}
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        display: block;
+        z-index: -1;
+    }
+    &.active{color: #fff;}
+    &.active::before {background: $cc-bluegrad;}
+}
+.cc-tab-form {
+	width: 100%;
 }

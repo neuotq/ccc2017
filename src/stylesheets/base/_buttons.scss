@@ -14,4 +14,9 @@
     font-weight: 400;
     color: #fff;
     border-radius: 10px;
+    cursor: pointer;
+    &:hover {
+		background: $cc-bluegrad;
+    }
+
 }

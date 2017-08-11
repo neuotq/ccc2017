@@ -13,8 +13,31 @@
 	line-height: 1em;
 	padding: 2rem 1rem;
 	margin: 1.3rem 0;
-	border-right: 3px solid #fff;
-	&.t4 {border: none;}
+	
+	position: relative;
+	&:after {
+		content: ' ';
+		position: absolute;
+		top: 0;
+		right: -1px;
+		bottom: 0;
+		background: #fff;	
+		width: 3px;
+	}
+	@include media-breakpoint-down(sm) {
+	 	&:after {
+		content: ' ';
+		position: absolute;
+		top: auto;
+		left: 10%;
+		right: 10%;
+		bottom: -1px;
+		height: 3px;
+		background: #fff;
+		width: 80%;	
+		}
+	 }
+	&.t4:after {display: none}
 }
 
 .t-section-icon {

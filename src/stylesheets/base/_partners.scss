@@ -1,0 +1,80 @@
+.partners-section {
+    .cc-h2 {
+        font-family: 'solomon_sans_blackregular';
+        text-transform: uppercase;
+        text-align: center;
+    }
+}
+
+.partners-container {
+    // border: 3px solid;
+    margin: 3rem 0;
+    // border-radius: 10px;
+    padding: 1rem;
+    &.blue {border-color: $cc-blue;}
+    &.darkblue {border-color: $cc-darkblue;}
+    &.orange {border-color: $cc-orange;}
+}
+
+.mediapartner-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.mediapartner-box img {
+    box-shadow: none;
+    width: 70%;       
+    opacity: .7;
+    margin: 0 auto;
+}
+
+.cc-h4-solid {
+    font-family: 'solomon_sans_blackregular';
+    position: relative;
+    z-index: 1;    
+    color: #fff;
+    letter-spacing: 0.03rem;
+    font-size: 1.35rem;
+    & h4 {
+        padding: 0.5rem 2rem;
+        margin: 0;
+        position: relative;
+        font-family: 'solomon_sans_bookregular';
+        text-transform: uppercase;
+        color: #808080;
+
+        //  &::before {
+        // background-color: #888;
+        // transform: skew(-15deg, 0deg);
+        // content: '';
+        // width: 100%;
+        // height: 100%;
+        // // @include media-breakpoint-down(lg) {height: calc(2.3em + 0.5rem);}
+        // // @include media-breakpoint-down(sm) {height: calc(3em + 0.5rem);}
+        // position: absolute;
+        // top: 0;
+        // left: 0;
+        // display: block;
+        // z-index: -1;
+         // }
+    }
+    @include media-breakpoint-down(md) {font-size: 1rem; padding-bottom: 2rem;}
+    .upperline {
+        font-family: 'solomon_sans_bookregular';
+        font-size: 1.5rem;   
+        position: absolute;
+        top: -1.8rem;
+        left: 1rem;
+        color: #000;
+        @include media-breakpoint-down(md) {font-size: 1rem;}
+    }
+   
+    .partners-container & {margin: 0; top: -2rem;}
+}

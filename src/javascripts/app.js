@@ -14,13 +14,13 @@ $("document").ready(function() {
         }
     });
 
-    $(".cc-popup-toggle").on("click", function() {
-        $(".cc-popup.regform").addClass("open");
-        $(document).scrollTop(0);
-        $(".cc-popup-overlay").show(0, function() {
-            $(this).addClass("open");
-        });
-    });
+    // $(".cc-popup-toggle").on("click", function() {
+    //     $(".cc-popup.regform").addClass("open");
+    //     $(document).scrollTop(0);
+    //     $(".cc-popup-overlay").show(0, function() {
+    //         $(this).addClass("open");
+    //     });
+    // });
 
     function closeCCPopup() {
         $(".cc-popup").removeClass("open");

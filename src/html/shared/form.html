@@ -1,21 +1,29 @@
-<div class="container cc-popup regform">
-    <button type="button" class="close cc-popup-close" aria-label="Close">
-      <span aria-hidden="true">&times;</span>
-    </button>
-    <h4 class="w-100 mx-auto cc-h8 mb-5 mt-5" style="text-align: center;"><span class="cc-tab active" id="cc-member">Отправьте заявку участника</span> или <span class="cc-tab" id="cc-visitor">получите билет посетителя</span></h4>
+<div class="modal fade" id="regModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog"  role="document">    
+        <div class="modal-content cc-popup">
+        <div class="modal-header"><h4>Заявка на участие</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        </div>
 
-    <div class="row">
-
-    <div class="offset-md-3 col-md-6 cc-tab-form cc-form"  id="cc-member_form">
+        <div class="modal-body flex-column">
+        <div class="d-flex justify-content-between" >
+            <div class="cc-tab align-middle active" id="cc-member"><span class="" >Экспонента</span></div>
+            <div  class="cc-tab align-middle" id="cc-visitor"><span>Посетителя</span></div>            
+        </div>               
+        <div class="d-flex justify-content-center">
+        
+        <div class="cc-tab-form cc-form"  id="cc-member_form">
         <form action="domail.php" method="POST">
 
-            <div class="md-form">
+            <div class="form-group">
                 <input type="text" class="form-control" placeholder="{{ tr(yName, lang) }}" name="name">
             </div>
-            <div class="md-form">
+            <div class="form-group">
                 <input type="text" class="form-control" placeholder="{{ tr(yEmail, lang) }}" name="email">
             </div>
-            <div class="md-form">
+            <div class="form-group">
                 <input type="text" class="form-control" placeholder="{{ tr(yPhone, lang) }}" name="phone">
             </div>
 
@@ -31,7 +39,7 @@
         <div class="animationload"><div class="osahanloading"></div></div>
         <div class="thanks-box"><p>{{ tr(sentMsg, lang) }}</p></div>
     </div>
-    <div class="offset-md-3 col-md-6 cc-tab-form" style="display: none" id="cc-visitor_form">
+    <div class="cc-tab-form" style="display: none" id="cc-visitor_form">
         <script type="text/javascript" async="async" defer="defer" charset="UTF-8" src="https://timepad.ru/js/tpwf/loader/min/loader.js" data-timepad-customized="29343" data-twf2s-event--id="542545" data-timepad-widget-v2="event_register">
            (function(){
                 return {
@@ -45,6 +53,7 @@
         </script>
     </div>
     </div>
+    </div>
+    </div> 
+    </div>
 </div>
-
-<div class="cc-popup-overlay"></div>

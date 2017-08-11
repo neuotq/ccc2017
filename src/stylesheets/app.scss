@@ -12,6 +12,7 @@
 @import "base/sectioncards";
 @import "base/testimonials";
 @import "base/transfer";
+@import "base/partners";
 @import "plugins/jquery.accordion";
 
 .jarallax {
@@ -98,42 +99,6 @@
 	h4 {font-size: 1.2rem !important}
 }
 
-
-.partners-container {
-	border: 3px solid;
-	margin: 3rem 0;
-	border-radius: 10px;
-	padding: 1rem;
-	&.blue {border-color: $cc-blue;}
-	&.darkblue {border-color: $cc-darkblue;}
-	&.orange {border-color: $cc-orange;}
-}
-
-.mediapartner-box {
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-ms-flex-direction: column;
-	flex-direction: column;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	margin-bottom: 2rem;
-}
-
-.mediapartner-box img {
-    box-shadow: none;
-    width: 70%;    
-    @include filter(grayscale, 100%);
-    opacity: .7;
-    margin: 0 auto;
-    transition: .5s ease-in-out;	
-    &:hover {		
-		@include filter(grayscale, 0%);
-		opacity: 1;    	
-    }
-}
-
 .cc-tip2 {
 	border-radius: 10px;
     padding: 1rem 1rem 0rem;
@@ -145,34 +110,7 @@
     a {color: #fff !important; }
 }
 
-.cc-tab {
-	// border-bottom: 2px dashed rgba(171, 158, 158, 0.56);
-    white-space: nowrap;
-    cursor: pointer;
-    position: relative;
-    z-index: 1;
-    padding: .2rem 1rem 1rem;
-    margin-top: 2rem;
-    display: inline-block;
-    // font-size: 1.5rem;
-    // @include media-breakpoint-down(md) {font-size: 1rem; padding-bottom: 2rem;}
-    &::before {
-        background-color: #888;
-        transform: skew(-15deg, 0deg);
-        content: '';
-        width: 100%;
-        height: calc(1em + 1.5rem);
-        // @include media-breakpoint-down(lg) {height: calc(2.3em + 0.5rem);}
-        // @include media-breakpoint-down(sm) {height: calc(3em + 0.5rem);}
-        position: absolute;
-        top: 0;
-        left: 0;
-        display: block;
-        z-index: -1;
-    }
-    &.active{color: #fff;}
-    &.active::before {background: $cc-bluegrad;}
-}
+
 
 .vert .carousel-item-next.carousel-item-left,
 .vert .carousel-item-prev.carousel-item-right {

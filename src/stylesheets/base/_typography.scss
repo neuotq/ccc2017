@@ -60,43 +60,7 @@ body {
     text-transform: uppercase;
     padding-bottom: 1rem;
     line-height: 1em;
-}
-
-.cc-h4-solid {
-    font-family: 'solomon_sans_blackregular';
-    position: relative;
-    z-index: 1;
-    padding: .2rem 1rem 1rem;
-    margin-top: 2rem;
-    color: #fff;
-    display: inline-block;
-    letter-spacing: 0.03rem;
-    font-size: 1.35rem;
-    @include media-breakpoint-down(md) {font-size: 1rem; padding-bottom: 2rem;}
-    .upperline {
-        font-family: 'solomon_sans_bookregular';
-        font-size: 1.5rem;   
-        position: absolute;
-        top: -1.8rem;
-        left: 1rem;
-        color: #000;
-        @include media-breakpoint-down(md) {font-size: 1rem;}
-    }
-    &::before {
-        background-color: #888;
-        transform: skew(-15deg, 0deg);
-        content: '';
-        width: 100%;
-        height: calc(1em + 0.5rem);
-        @include media-breakpoint-down(lg) {height: calc(2.3em + 0.5rem);}
-        @include media-breakpoint-down(sm) {height: calc(3em + 0.5rem);}
-        position: absolute;
-        top: 0;
-        left: 0;
-        display: block;
-        z-index: -1;
-    }
-    .partners-container & {margin: 0; top: -2rem;}
+    @include media-breakpoint-down(md) {font-size: 2.2rem;}
 }
 
 .cc-orange::before, .orange .cc-h4-solid::before {background: $cc-orangegrad;}

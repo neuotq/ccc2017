@@ -1,15 +1,16 @@
 .cc-popup {
 	border: 3px solid $cc-orange;
-    margin: 3rem auto;
-    padding: 1rem 2rem 3rem;
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-color: #fff;
-    z-index: 111;
-    &.open {display: block;}
+    border-radius: 0;
+    // margin: 3rem auto;
+    // padding: 1rem 2rem 3rem;
+    // display: none;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // right: 0;
+    // background-color: #fff;
+    // z-index: 111;
+    // &.open {display: block;}
 }
 
 .cc-popup-overlay {
