@@ -1,0 +1,32 @@
+.greetings-section {
+  padding: 2rem 0;
+  background-color: #e8ecef;
+  border-top: solid 1px #888;
+  .carousel-item {
+    background: #fff;
+  }
+
+  .greeting-titlebx {
+    padding: 1rem;
+    background: rgb(26, 31, 87);
+    box-shadow: 0px 2px 20px rgba(26, 31, 87, 0.84);
+    margin-bottom: 2rem;
+    color: #fff;
+
+    h2 {
+      font-family: solomon_sans_blackregular;
+      text-transform: uppercase;
+    }
+  }
+
+
+
+  .greetings-content {
+    padding: 0 1rem 1rem;
+  }
+
+  .greetings-photo {
+    display: block;
+    width: 100%;
+  }
+}
