@@ -1,4 +1,4 @@
-@import '../node_modules/bootstrap/scss/bootstrap';
+@import "../node_modules/bootstrap/scss/bootstrap";
 @import "mixins";
 @import "base/colours";
 @import "base/typography";
@@ -13,6 +13,7 @@
 @import "base/testimonials";
 @import "base/transfer";
 @import "base/partners";
+@import "base/greetings";
 @import "plugins/jquery.accordion";
 
 .jarallax {
@@ -101,7 +102,7 @@
 
 .cc-tip2 {
 	border-radius: 10px;
-    padding: 1rem 1rem 0rem;
+  padding: 1rem 1rem 0;
     box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.1);
     color: #fff;
     font-size: 1.2rem;
@@ -121,7 +122,7 @@
 .vert .carousel-item-next,
 .vert .active.carousel-item-right {
     -webkit-transform: translate3d(0, 100%, 0);
-            transform: translate3d(0, 100% 0);
+  transform: translate3d(0, 100%, 0);
 }
 
 .vert .carousel-item-prev,
