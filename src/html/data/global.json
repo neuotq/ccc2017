@@ -215,11 +215,11 @@
     {
       "content": {
         "ru": "Компания «Севастопольстрой» объединяет двух крупнейших застройщиков Севастополя - ООО «Севастопольстрой» и ООО «Севжилстрой», лидеров на рынке недвижимости Севастополя и Крыма с 1944 года.",
-        "en": "Компания «Севастопольстрой» объединяет двух крупнейших застройщиков Севастополя - ООО «Севастопольстрой» и ООО «Севжилстрой», лидеров на рынке недвижимости Севастополя и Крыма с 1944 года."
+        "en": "Sevastopolstroy is comprised of the two largest developers in Sevastopol — ‘Sevastopolstroy’ Ltd. and ‘Sevzhilstroy’ Ltd., which are the leaders in the real estate market in Sevastopol and Crimea since 1944."
       },
       "name": {
         "ru": "Севастопольстрой",
-        "en": "Севастопольстрой"
+        "en": "‘Sevastopolstroy’"
       },
         "link": "",
         "img": ""
@@ -227,11 +227,11 @@
     {
       "content": {
         "ru": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!",
-        "en": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!"
+        "en": "‘Domostroy 2000’ Ltd. efficiently masters a variety of construction technologies. Their advantage is the offering of high-quality of services and completion of that work or projects in short period of time!"
       },
       "name": {
         "ru": "ООО «Домострой 2000»",
-        "en": "ООО «Домострой 2000»"
+        "en": "‘Domostroy 2000’ Ltd."
       },
         "link": "",
         "img": ""
@@ -496,6 +496,10 @@
       	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ryabchinskyi.jpg"       
     }     
   ],
+  "greetings_title" : {
+    "en" : "Greeting",
+    "ru" : "Приветственное слово"
+  },
   "greetings": [
     {
       "name" : {
