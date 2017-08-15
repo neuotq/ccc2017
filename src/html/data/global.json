@@ -497,7 +497,7 @@
     }     
   ],
   "greetings_title" : {
-    "en" : "Greeting",
+    "en" : "Welcome speech",
     "ru" : "Приветственное слово"
   },
   "greetings": [
