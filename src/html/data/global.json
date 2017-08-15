@@ -607,5 +607,13 @@
   "section8_body": {
     "ru": "<li>Видеоохранное наблюдение</li><li>Инженерно-технические методы обеспечения безопасности</li><li>Противопожарное обеспечение и системы защиты</li><li>Информационная безопасность</li>",
     "en": "<li>Video Surveillance</li><li>Engineering & Technical Methods of Ensuring Safety</li><li>Fire Protection & Safety Systems</li><li>Information Security</li>"
+  },
+  "main_i_partner": {
+     "en" : "'Construction.ru' is the most modern and professional information Internet site, which is updated daily with official federal and regional operational news, expert opinions directly from the construction industry, exclusive interviews, objective analytical material from leading industry journalists in consultation with regional authorities and construction regulators, technologies and innovations, architecture and design.",
+     "ru" : "«Строительство.RU» — это самая модернизированная и профессиональная информационная интернет-площадка, которая ежедневно формируется из оперативных федеральных и региональных новостей, мнений экспертов строительной отрасли, эксклюзивных интервью, объективных аналитических материалов от ведущих журналистов отрасли, связанных с властью и саморегулированием в области строительства, с технологиями и инновациями, архитектурой и проектированием."
+  },
+  "main_i_partner_link": {
+    "en" : "http://russianconstruction.com/",
+    "ru" : "http://rcmm.ru/"
   }
 }
