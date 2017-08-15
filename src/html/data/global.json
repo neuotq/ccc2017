@@ -127,8 +127,8 @@
     "ru": "В зале «Business Contact Center» будут расположены персональные офисы компаний и госструктур, с которыми по предварительной записи можно провести переговоры о сотрудничестве.",
     "en": "In the “Business Contact Center” business forum hall, corporate representative offices and state structures will be located, with which by prior appointment it will be possible to conduct negotiations about partnerships and various levels of cooperation."
   },
-  "sec": 
-    [ {
+  "sec": [
+    {
       "content": {
         "ru": "Группа компаний «Монолит» является одним из лидеров-застройщиков крымского полуострова. «Монолит» строит Крым, реализуя с 2005 года градообразующие проекты в сфере жилого, рекреационного, коммерческого и социального строительства. В активе компании – комплекс предприятий, обеспечивающих полный цикл услуг по проектированию, производству, продажам и маркетингу, коммунальному обслуживанию, комплексной охране и транспорту.",
         "en": "The ‘Monolit’ Group of Companies is one of the leading builders in the Crimean peninsula. ‘Monolit’ is constantly building in Crimea, realizing urban projects in the fields of residential, recreational, commercial and social construction since 2005. The company’s assets are a group of companies that provide a full range of services for design, production, sales and marketing, public services, building security and transport."
@@ -137,8 +137,8 @@
         "ru": "ГК Монолит",
         "en": "'Monolit', Crimea"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -149,8 +149,8 @@
         "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
         "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -161,8 +161,8 @@
         "ru": "Сеть гипермаркетов «НОВАЦЕНТР»",
         "en": "«Новацентр» (Nova Center) Home Building & Materials Supermarket Network"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -173,8 +173,8 @@
         "ru": "ГК «Перспектива»",
         "en": "‘Perspektiva’ Group of Companies"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -185,8 +185,8 @@
         "ru": "ГК «Парангон»",
         "en": "‘Parangon’ Group of Companies"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -197,8 +197,8 @@
         "ru": "«Липецкстрой»",
         "en": "‘Lipetskstroy’"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -209,8 +209,8 @@
         "ru": "АО «АБ «РОССИЯ»",
         "en": "JSC ‘AB RUSSIA’"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -221,8 +221,8 @@
         "ru": "Севастопольстрой",
         "en": "‘Sevastopolstroy’"
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     },
     {
       "content": {
@@ -233,10 +233,10 @@
         "ru": "ООО «Домострой 2000»",
         "en": "‘Domostroy 2000’ Ltd."
       },
-        "link": "",
-        "img": ""
+      "link": "",
+      "img": ""
     }
-    ],  
+  ],
   "ccForeign": {
     "ru": "Иностранные эксперты",
     "en": "Foreign Experts"
@@ -282,8 +282,8 @@
     "en": "Your message is sent!"
   },
   "soglasen1": {
-    "ru": "Я подтверждаю свое согласие с условиями",
-    "en": "I agree to the terms and conditions"
+    "ru": "Нажимая кнопку 'Отправить' вы подтверждаете свое согласие с условиями",
+    "en": "By pressing the 'Send Now' button you agree to the terms and conditions"
   },
   "soglasen2": {
     "ru": "Политики обработки персональных данных",
@@ -337,8 +337,8 @@
     "ru": "Отзывы о Connect Invest Crimea 2017",
     "en": "Press & Reviews of CIC 2017"
   },
-  "pR": 
-    [ {
+  "pR": [
+    {
       "content": {
         "en": "Yalta. June 5. INTERFAX-REAL ESTATE — Investors from abroad show interest in various projects on Crimea’s southern coast, the head of Yalta’s administration Andrei Rostenko told Interfax at the ‘Connect Invest Crimea’ forum.",
         "ru": "Ялта. 5 июня. ИНТЕРФАКС-НЕДВИЖИМОСТЬ — Инвесторы из-за рубежа проявляют интерес к различным проектам на Южном берегу Крыма (ЮБК), сообщил &quot;Интерфаксу&quot; глава администрации Ялты Андрей Ростенко на форуме-выставке Connect Invest Crimea."
@@ -347,174 +347,173 @@
         "en": "Interfax",
         "ru": "Interfax"
       },
-      	"link": "http://realty.interfax.ru/ru/news/articles/82218/",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/interfax.png"
-    },
-     {
-      "content": {
-      	"ru": "В Крыму 5 и 6 июня нынешнего года состоится международный форум застройщиков Сonneсt Invest Crimea. На одной площадке объединят три мероприятия: форум риелторов России, инвестиционный саммит и выставку недвижимости.",
-      	"en": "On June 5 and 6, an international forum of developers Сonneсt Invest Crimea will take place. Three events are being organized at one site: a forum of Russian realtors, an investment summit and a real estate exhibition."
-      },
-      "name": {
-      	"ru": "Lenta.ru",
-      	"en": "Lenta.ru"
-      },
-      	"link": "http://dom.lenta.ru/news/2017/06/01/lid/",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/lenta_ru.png"
+      "link": "http://realty.interfax.ru/ru/news/articles/82218/",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/interfax.png"
     },
     {
-   	 "content": {
+      "content": {
+        "ru": "В Крыму 5 и 6 июня нынешнего года состоится международный форум застройщиков Сonneсt Invest Crimea. На одной площадке объединят три мероприятия: форум риелторов России, инвестиционный саммит и выставку недвижимости.",
+        "en": "On June 5 and 6, an international forum of developers Сonneсt Invest Crimea will take place. Three events are being organized at one site: a forum of Russian realtors, an investment summit and a real estate exhibition."
+      },
+      "name": {
+        "ru": "Lenta.ru",
+        "en": "Lenta.ru"
+      },
+      "link": "http://dom.lenta.ru/news/2017/06/01/lid/",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/lenta_ru.png"
+    },
+    {
+      "content": {
         "ru": "Сеть предприятий Alba Contract с целью выхода на зарубежный рынок была представлена делегацией на Международном Форуме Недвижимости в Крыму Connect Invest Crimea 5-6 июня 2017. На Форуме была возможность найти потенциальных клиентов и партнеров в Крыму и начать отношения с новыми коллегами в этой области.",
-      	"en": "The ‘Alba Contract’ network of enterprises was presented by the delegation at the International Real Estate Forum in Crimea ‘Connect Invest Crimea’ on June 5-6, 2017 with the purpose of entering the foreign market. The Forum provided the opportunity to find potential clients and partners in Crimea and to launch relations with new colleagues in this area."
+        "en": "The ‘Alba Contract’ network of enterprises was presented by the delegation at the International Real Estate Forum in Crimea ‘Connect Invest Crimea’ on June 5-6, 2017 with the purpose of entering the foreign market. The Forum provided the opportunity to find potential clients and partners in Crimea and to launch relations with new colleagues in this area."
       },
       "name": {
         "en": "Alba Contract",
         "ru": "Alba Contract"
       },
-      	"link": "http://www.albacontract.com/ru/новости/272-l-alba-contract-al-connect-invest-crimea-2.html",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/alba.jpg"
-      
+      "link": "http://www.albacontract.com/ru/новости/272-l-alba-contract-al-connect-invest-crimea-2.html",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/alba.jpg"
     },
-     {
-    	"content": {
-        	"ru": "Выставка была интересна не только предпринимателям и застройщикам, чей образ жизни тесно переплетен с недвижимостью, покупателям и риелторам там тоже было на что взглянуть. В этом и заключается основная прелесть такого многостороннего мероприятия, в котором любой человек может найти что-то для себя.",
-      		"en": "The exhibition was interesting not only for entrepreneurs and developers, whose lifestyle is closely intertwined with real estate, but buyers and realtors also had something to look at there. This is the main charm of such a multilateral event in which any person can find something for themselves."
-      	},
-      	"name": {
-       		"en": "ООО «Севас-Дом»",
-       		"ru": "ООО «Севас-Дом»"
+    {
+      "content": {
+        "ru": "Выставка была интересна не только предпринимателям и застройщикам, чей образ жизни тесно переплетен с недвижимостью, покупателям и риелторам там тоже было на что взглянуть. В этом и заключается основная прелесть такого многостороннего мероприятия, в котором любой человек может найти что-то для себя.",
+        "en": "The exhibition was interesting not only for entrepreneurs and developers, whose lifestyle is closely intertwined with real estate, but buyers and realtors also had something to look at there. This is the main charm of such a multilateral event in which any person can find something for themselves."
       },
-      	"link": "http://sevas-dom.ru/vystavka-nedvizhimosti-connect-invest-crimea/",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/sevasdom.png"      
-    },
-     {
-	    "content": {
-	        "ru": "Imperial Garden благодарит организаторов и гостей за интересное и продуктивное мероприятие. Это значимое событие в экономической и общественной жизни Крыма. ",
-      		"en": "Imperial Garden thanks the organizers and guests for an interesting and productive event. This is a significant event in the economic and social life of Crimea."
-	      	},
-      	"name": {
-       		"en": "Imperial Garden",
-       		"ru": "Imperial Garden"
-      		},
-      	"link": "http://www.imperialgarden.ru/news/2017/06/13/connect-invest-crimea/",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ImperialGarden.jpg"      
-    },
-     {
-    	"content": {
-	        "ru": "Как приятно на выставке новостроек Connect Invest Crimea на Крымском саммите встретиться и пообщаться с партнерами AFY.ru - портал недвижимости!",
-      		"en": "It was such a pleasure to meet and to talk with AFY.ru developer partners at the ‘Connect Invest Crimea’ expo and the Crimean Summit. "
-	      	},
-      	"name": {
-       		"en": "Afy.ru",
-       		"ru": "Портал Afy.ru"
-      		},
-      	"link": "",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/Afy_.jpg"        
-    },
-     {
-    	"content": {
-	        "ru": "О потенциале такой выставки недвижимости говорит участие в ней двух крупнейших застройщиков полуострова – строительных компаний «Интерстрой» и «Монолит», которые не привыкли отвлекать ресурсы на нечто несущественное.",
-      		"en": "Of the potential participants of such an exhibition, the two largest developers of the peninsula — the construction companies ‘Interstroy’ and ‘Monolit’, who are not accustomed to divert their resources for something insignificant."
-	      	},
-      	"name": {
-       		"en": "Crimea Infrom",
-       		"ru": "Крым Информ"
-      		},
-      	"link": "http://www.c-inform.info/news/id/53504",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/crimeainform.jpeg"      
-    },
-     {
-    	"content": {
-	        "ru": "Идет второй день международной выставки недвижимости Connect Invest Crimea в отеле &quot;Мрия&quot;. Наши менеджеры активно делятся информацией с будущими клиентами. Обстановка на выставке говорит о том, что интерес россиян к крымской недвижимости растет.",
-      		"en": "The second day of the international real estate exhibition ‘Connect Invest Crimea’ is taking place at ‘Mriya Resort & Spa’‘. Our managers actively share information with future customers. The situation at the exhibition shows that the interest of Russian mainlanders to Crimean real estate is growing."
-	      	},
-      	"name": {
-       		"en": "Yalta-City",
-       		"ru": "Компания Ялта-Сити"
-      		},
-      	"link": "",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/yalta_city.png"
-    },
-     {
-    	"content": {
-	        "ru": "В работе выставки приняли участие более 300 специалистов рынка недвижимости со всей страны и ближнего зарубежья, свои лучшие проекты представили около 40 крупнейших застройщиков Крыма, Краснодарского края и Санкт-Петербурга.",
-      		"en": "The exhibition was attended by more than 300 real estate professionals from all over the country and neighbouring regions, with the best projects were presented by about 40 major developers in Crimea, the Krasnodar region and St. Petersburg."
-	      	},
-      	"name": {
-       		"en": "Yug Yalta",
-       		"ru": "Юг Ялта"
-      		},
-      	"link": "http://югялта.рф/news/v_yaltu_priekhali_luchshie_rieltory_rossii_i_arkhitekto/",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ug_yalta_logo.jpg"      
-    },
-     {
-    	"content": {
-	        "ru": "Опыт таких встреч заряжает позитивной энергией. Обмен мнениями и полезной информацией повышает навыки и профессионализм специалистов. Ждём новых выставок и ярких событий в сфере риэлторской деятельности!",
-      		"en": "The experience of such meetings is charged with positive energy. The exchange of opinions and useful information increases the skills and professionalism of specialists. We are waiting for new exhibitions and bright events in the sphere of real estate!"
-	      	},
-      	"name": {
-       		"en": "Издание &quot;Крым. Недвижимость&quot;",
-       		"ru": "&quot;Crimea. Realty Estate&quot; publishing"
-      		},
-      	"link": "",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/crimea_nedv.png"      
+      "name": {
+        "en": "ООО «Севас-Дом»",
+        "ru": "ООО «Севас-Дом»"
+      },
+      "link": "http://sevas-dom.ru/vystavka-nedvizhimosti-connect-invest-crimea/",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/sevasdom.png"
     },
     {
-    	"content": {
-	        "ru": "На выставке мы нашли не только заинтересованных клиентов в сфере недвижимости, но и познакомились с новыми партнерами.",
-      		"en": " At the exhibition we found not only interested customers in the field of real estate, but also met with new partners."
-	      	},
-      	"name": {
-       		"ru": "ГИП Монолит",
-      		"en": "Monolit"
-      		},
-      	"link": "",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/logo_monolit.png"      
-    },
-     {
-    	"content": {
-	        "ru": "Участие было эффективным, даже немного лучше, чем планировали. На стенде прошло несколько результативных встреч, после которых планируется заключение контрактов.",
-      		"en": "Participation was effective, even slightly better than we had hoped. Several fruitful meetings took place at our stand, after which the signing of new contracts are planned."
-	      	},
-      	"name": {
-       		"ru": "СК «Романовский Квартал»",
-      		"en": "Romanovskyi Kvartal"
-      		},
-      	"link": "",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/romanovskyi.png"       
+      "content": {
+        "ru": "Imperial Garden благодарит организаторов и гостей за интересное и продуктивное мероприятие. Это значимое событие в экономической и общественной жизни Крыма. ",
+        "en": "Imperial Garden thanks the organizers and guests for an interesting and productive event. This is a significant event in the economic and social life of Crimea."
+      },
+      "name": {
+        "en": "Imperial Garden",
+        "ru": "Imperial Garden"
+      },
+      "link": "http://www.imperialgarden.ru/news/2017/06/13/connect-invest-crimea/",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/ImperialGarden.jpg"
     },
     {
-    	"content": {
-	        "ru": "Пригласили на выставку недвижимости в Ялте! Слушайте, не ожидал, но все прошло хорошо! Организация и исполнение понравились. Не знаю, как Вы, а я всегда использую такие мероприятия в основном для новых знакомств и генерации мега идей. Спасибо данному мероприятию за 3 безумные идеи - которые ждут своего воплощения. Всем солнца друзья!",
-      		"en": "I was invited to the real estate exhibition in Yalta! Listen, I did not expect, but it went well! The organization and execution were pleasant. I do not know about you, but I always use such events mainly for new acquaintances and generating mega ideas. Thanks to this event for 3 crazy ideas — which are waiting for their embodiment. Sun for everyone friends!"
-	      	},
-      	"name": {
-       		"ru": "Владимир Рябчинский",
-      		"en": "Vladimir Ryabchinsky"
-      		},
-      	"link": "",
-      	"img": "https://connectcrimea.ru/data/cic2017/otzyvy/ryabchinskyi.jpg"       
-    }     
+      "content": {
+        "ru": "Как приятно на выставке новостроек Connect Invest Crimea на Крымском саммите встретиться и пообщаться с партнерами AFY.ru - портал недвижимости!",
+        "en": "It was such a pleasure to meet and to talk with AFY.ru developer partners at the ‘Connect Invest Crimea’ expo and the Crimean Summit. "
+      },
+      "name": {
+        "en": "Afy.ru",
+        "ru": "Портал Afy.ru"
+      },
+      "link": "",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/Afy_.jpg"
+    },
+    {
+      "content": {
+        "ru": "О потенциале такой выставки недвижимости говорит участие в ней двух крупнейших застройщиков полуострова – строительных компаний «Интерстрой» и «Монолит», которые не привыкли отвлекать ресурсы на нечто несущественное.",
+        "en": "Of the potential participants of such an exhibition, the two largest developers of the peninsula — the construction companies ‘Interstroy’ and ‘Monolit’, who are not accustomed to divert their resources for something insignificant."
+      },
+      "name": {
+        "en": "Crimea Infrom",
+        "ru": "Крым Информ"
+      },
+      "link": "http://www.c-inform.info/news/id/53504",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/crimeainform.jpeg"
+    },
+    {
+      "content": {
+        "ru": "Идет второй день международной выставки недвижимости Connect Invest Crimea в отеле &quot;Мрия&quot;. Наши менеджеры активно делятся информацией с будущими клиентами. Обстановка на выставке говорит о том, что интерес россиян к крымской недвижимости растет.",
+        "en": "The second day of the international real estate exhibition ‘Connect Invest Crimea’ is taking place at ‘Mriya Resort & Spa’‘. Our managers actively share information with future customers. The situation at the exhibition shows that the interest of Russian mainlanders to Crimean real estate is growing."
+      },
+      "name": {
+        "en": "Yalta-City",
+        "ru": "Компания Ялта-Сити"
+      },
+      "link": "",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/yalta_city.png"
+    },
+    {
+      "content": {
+        "ru": "В работе выставки приняли участие более 300 специалистов рынка недвижимости со всей страны и ближнего зарубежья, свои лучшие проекты представили около 40 крупнейших застройщиков Крыма, Краснодарского края и Санкт-Петербурга.",
+        "en": "The exhibition was attended by more than 300 real estate professionals from all over the country and neighbouring regions, with the best projects were presented by about 40 major developers in Crimea, the Krasnodar region and St. Petersburg."
+      },
+      "name": {
+        "en": "Yug Yalta",
+        "ru": "Юг Ялта"
+      },
+      "link": "http://югялта.рф/news/v_yaltu_priekhali_luchshie_rieltory_rossii_i_arkhitekto/",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/ug_yalta_logo.jpg"
+    },
+    {
+      "content": {
+        "ru": "Опыт таких встреч заряжает позитивной энергией. Обмен мнениями и полезной информацией повышает навыки и профессионализм специалистов. Ждём новых выставок и ярких событий в сфере риэлторской деятельности!",
+        "en": "The experience of such meetings is charged with positive energy. The exchange of opinions and useful information increases the skills and professionalism of specialists. We are waiting for new exhibitions and bright events in the sphere of real estate!"
+      },
+      "name": {
+        "en": "Издание &quot;Крым. Недвижимость&quot;",
+        "ru": "&quot;Crimea. Realty Estate&quot; publishing"
+      },
+      "link": "",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/crimea_nedv.png"
+    },
+    {
+      "content": {
+        "ru": "На выставке мы нашли не только заинтересованных клиентов в сфере недвижимости, но и познакомились с новыми партнерами.",
+        "en": " At the exhibition we found not only interested customers in the field of real estate, but also met with new partners."
+      },
+      "name": {
+        "ru": "ГИП Монолит",
+        "en": "Monolit"
+      },
+      "link": "",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/logo_monolit.png"
+    },
+    {
+      "content": {
+        "ru": "Участие было эффективным, даже немного лучше, чем планировали. На стенде прошло несколько результативных встреч, после которых планируется заключение контрактов.",
+        "en": "Participation was effective, even slightly better than we had hoped. Several fruitful meetings took place at our stand, after which the signing of new contracts are planned."
+      },
+      "name": {
+        "ru": "СК «Романовский Квартал»",
+        "en": "Romanovskyi Kvartal"
+      },
+      "link": "",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/romanovskyi.png"
+    },
+    {
+      "content": {
+        "ru": "Пригласили на выставку недвижимости в Ялте! Слушайте, не ожидал, но все прошло хорошо! Организация и исполнение понравились. Не знаю, как Вы, а я всегда использую такие мероприятия в основном для новых знакомств и генерации мега идей. Спасибо данному мероприятию за 3 безумные идеи - которые ждут своего воплощения. Всем солнца друзья!",
+        "en": "I was invited to the real estate exhibition in Yalta! Listen, I did not expect, but it went well! The organization and execution were pleasant. I do not know about you, but I always use such events mainly for new acquaintances and generating mega ideas. Thanks to this event for 3 crazy ideas — which are waiting for their embodiment. Sun for everyone friends!"
+      },
+      "name": {
+        "ru": "Владимир Рябчинский",
+        "en": "Vladimir Ryabchinsky"
+      },
+      "link": "",
+      "img": "https://connectcrimea.ru/data/cic2017/otzyvy/ryabchinskyi.jpg"
+    }
   ],
-  "greetings_title" : {
-    "en" : "Welcome speech",
-    "ru" : "Приветственное слово"
+  "greetings_title": {
+    "en": "Welcome speech",
+    "ru": "Приветственное слово"
   },
   "greetings": [
     {
-      "name" : {
-        "ru" : "Владимир Константинов",
-        "en" : "Владимир Константинов"
+      "name": {
+        "ru": "Владимир Константинов",
+        "en": "Vladimir Konstantinov"
       },
-      "title" : {
-        "ru" : "Председатель Государственного Совета Республики Крым",
-        "en" : "Председатель Государственного Совета Республики Крым"
+      "title": {
+        "ru": "Председатель Государственного Совета Республики Крым",
+        "en": "Chairman of the State Council of the Republic of Crimea"
       },
-      "content" : {
-        "ru" : "<p style='text-align:center'>Дорогие друзья!</p><p>От имени Государственного Совета Республики Крым и себя лично приветствую всех участников и гостей первого в Крыму Международного форума-выставки строителей «Connect Construct Crimea».</p><p>Уверен, проведение столь знакового для республики события будет способствовать профессиональному диалогу участников мероприятия и выработке действенных предложений и рекомендаций, направленных на создание условий для дальнейшего развития строительной индустрии Республики Крым, накопления опыта применения конкретных практических методов ведения бизнеса.</p><p>Представляя собой не только выставочную, но и дискуссионную площадку «Connect Construct Crimea» , абсолютно убежден, даст участникам прекрасную возможность личного общения и построения деловых отношений с коллегами.</p><p>Желаю всем плодотворной работы, новых идей и решений, успехов в достижении намеченных целей!</p>",
-        "en" : "<p style='text-align:center'>Дорогие друзья!</p><p>От имени Государственного Совета Республики Крым и себя лично приветствую всех участников и гостей первого в Крыму Международного форума-выставки строителей «Connect Construct Crimea».</p><p>Уверен, проведение столь знакового для республики события будет способствовать профессиональному диалогу участников мероприятия и выработке действенных предложений и рекомендаций, направленных на создание условий для дальнейшего развития строительной индустрии Республики Крым, накопления опыта применения конкретных практических методов ведения бизнеса.</p><p>Представляя собой не только выставочную, но и дискуссионную площадку «Connect Construct Crimea» , абсолютно убежден, даст участникам прекрасную возможность личного общения и построения деловых отношений с коллегами.</p><p>Желаю всем плодотворной работы, новых идей и решений, успехов в достижении намеченных целей!</p>"
+      "content": {
+        "ru": "<p style='text-align:center'>Дорогие друзья!</p><p>От имени Государственного Совета Республики Крым и себя лично приветствую всех участников и гостей первого в Крыму Международного форума-выставки строителей «Connect Construct Crimea».</p><p>Уверен, проведение столь знакового для республики события будет способствовать профессиональному диалогу участников мероприятия и выработке действенных предложений и рекомендаций, направленных на создание условий для дальнейшего развития строительной индустрии Республики Крым, накопления опыта применения конкретных практических методов ведения бизнеса.</p><p>Представляя собой не только выставочную, но и дискуссионную площадку «Connect Construct Crimea» , абсолютно убежден, даст участникам прекрасную возможность личного общения и построения деловых отношений с коллегами.</p><p>Желаю всем плодотворной работы, новых идей и решений, успехов в достижении намеченных целей!</p>",
+        "en": "<p style='text-align:center'>Dear friends!</p><p>On behalf of the State Council of the Republic of Crimea and on my behalf, I welcome all participants and guests to Crimea for the first International Construction Forum ‘Connect Construct Crimea’.</p><p>I am certain that holding such a significant event for the republic will contribute to the professional dialogue for the events participants and the development of effective proposals and recommendations aimed at creating conditions for the further development of the construction industry of the Republic of Crimea, accumulating experience in applying specific practical methods of properly doing business.</p><p>Regarding not only the exhibition, but also the platform for discussion at ‘Connect Construct Crimea’, I am absolutely certain that it will give the participants an excellent opportunity for personal communication and building proper business relations with their colleagues.</p><p>I wish you all fruitful work, new ideas and solutions, and success in achieving your goals!</p>"
       },
-      "img" : "/images/konstantinov.jpg"
+      "img": "/images/konstantinov.jpg"
     }
   ],
   "intro1": {
