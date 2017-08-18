@@ -13,20 +13,24 @@
 
 .hero-date {
 	font-family: 'solomon_sans_bookregular';
-	font-size: 4rem;
+	font-size: 3rem;
     padding-left: 0 !important;
 	p {padding-bottom: 2rem;}
+	span {
+		color: rgba(255, 255, 255, 0.5);
+		text-transform: uppercase;
+	}
     @media (max-width: 1400px) {
-    	font-size: 3.4rem;
+    	font-size: 3rem;
 	}    
 	@media (max-width: 1200px) {
     	font-size: 3rem;
 	}
     @media (max-width: 1000px) {
-    	font-size: 2rem;
+    	font-size: 1.5rem;
 	}
 	@include media-breakpoint-down(xs){
-    	font-size: 1rem;
+    	font-size: 0.8rem;
 	}	
 }
 
@@ -62,6 +66,28 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    visibility: hidden;
+    //visibility: hidden;
 }
-
+$bg : lightyellow;
+$hole : .4em;
+.ticket {
+	display: inline-block;
+	box-sizing: content-box;
+	filter: drop-shadow(0 2px 5px rgba(black,.5));
+	position: relative;
+	height: 1em;
+	padding: 1em;
+	color: black;
+	font-size: 16px;
+	background-size: 51% 100%;
+	background-repeat: no-repeat;
+	background-image: radial-gradient(circle at 0 50%, rgba($bg,0) $hole, $bg ($hole + .1em)), radial-gradient(circle at 100% 50%, rgba($bg,0) $hole, $bg ($hole + .1em));
+	background-position: top left, top right;
+	text-transform: uppercase;
+	&:hover {
+		color: #000;
+		text-decoration: none;
+		//background-image: radial-gradient(circle at 0 50%, rgba(#fff,0) $hole, #fff ($hole + .1em)), radial-gradient(circle at 100% 50%, rgba(#fff,0) $hole,#fff($hole + .1em));
+		opacity: 0.9;
+	}
+}

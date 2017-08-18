@@ -10,6 +10,7 @@
   "fonts/solomon_sans_book-webfont.woff2": "fonts/solomon_sans_book-webfont-9a4bfe2fa7.woff2",
   "images/Banner_100-100.gif": "images/Banner_100-100-c0e10784f0.gif",
   "images/CCChor.svg": "images/CCChor-f954b8462a.svg",
+  "images/COA_of_Sevastopol.svg.png": "images/COA_of_Sevastopol-18707d04bd.svg.png",
   "images/ConnectCrimea_pattern.svg": "images/ConnectCrimea_pattern-69867686c4.svg",
   "images/Emblem_of_Crimea.svg": "images/Emblem_of_Crimea-e01b66fba4.svg",
   "images/Emblem_of_Crimea.svg.png": "images/Emblem_of_Crimea-821be7cba6.svg.png",
@@ -48,6 +49,7 @@
   "images/perspektiva.jpg": "images/perspektiva-ae8ab07cbb.jpg",
   "images/rosfirm.svg": "images/rosfirm-36d0b06bc6.svg",
   "images/scvo34.jpg": "images/scvo34-47f55224c6.jpg",
+  "images/stroy_orbita.svg": "images/stroy_orbita-17651aecce.svg",
   "images/svgpplogo.svg": "images/svgpplogo-bdc3364e8f.svg",
   "images/th1.svg": "images/th1-47627ee4c7.svg",
   "images/th2.svg": "images/th2-69417d9eda.svg",
@@ -66,6 +68,6 @@
   "images/up.png": "images/up-a1d98819ac.png",
   "images/volgograd.png": "images/volgograd-c946dddbdc.png",
   "javascripts\\app.js": "javascripts\\app-4cdde836260a300ee18b.js",
-  "stylesheets/app.css": "stylesheets/app-1a73e9963f.css",
+  "stylesheets/app.css": "stylesheets/app-9533fcfa52.css",
   "stylesheets/base/greetings.css": "stylesheets/base/greetings-8450ab9730.css"
 }
