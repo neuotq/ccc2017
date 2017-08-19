@@ -35,6 +35,10 @@
     "ru": "Международная </br> строительная выставка",
     "en": "International Construction & Development Exhibition"
   },
+  "ccbuyticket": {
+    "ru": "Получить бесплатный билет посетителя",
+    "en": "Get free visitor ticket"
+  },
   "participate": {
     "ru": "Стать участником",
     "en": "Register Now"
