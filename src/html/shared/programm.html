@@ -64,15 +64,17 @@
 			<div class="cc-card row">
 
 				<div class="col-md-12"><p>{{ tr(ccForeignBody, lang) }}</p></div>
-				
-				<div class="col-md-4">
+
+				{% for p in expert %}
+				<div class="col-md-4 cc-speakerbx">
 					<div class="cc-speaker">
-						<img src="/images/alvarez.jpg" class="img-fluid" alt="">
-						<h4 class="cc-h7">{{ tr(alvarezH, lang) }}</h4>
-						<h6 class="cc-h6">«CCArquitectos» {{ tr(alvarezD, lang)}}</h6>
-						<p class="cc-small"><b>Тема:</b> {{ tr(alvarezD2, lang)}}</p>
+						<img src="/images/{{p.photo}}" class="img-fluid" alt="">
+						<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
+						<h6 class="cc-h6">{{ tr(p.country, lang)}}</h6>
+						<p class="cc-small"><b>Тема:</b> {{ tr(p.theme, lang)}}</p>
 					</div>
 				</div>
+				{% endfor %}
 
 			</div>			
 		</div>

@@ -38,7 +38,10 @@ body {
 .cc-h2 {
     font-family: 'solomon_sans_bookregular';
     font-size: 3rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5em;
+    @include media-breakpoint-down(xs){
+        font-size: 1.5rem;
+    }
 }
 
 .cc-h3 {

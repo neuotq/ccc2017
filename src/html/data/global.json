@@ -261,18 +261,38 @@
     "ru": "Секция иностранных экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройиндустрии из различных стран.",
     "en": "The foreign experts section is held in the ‘Business Contact Center’ hall, where representatives of the construction industry from various countries will take part."
   },
-  "alvarezH": {
-    "ru": "Хуан Альварез (Juan Alvarez)",
-    "en": "Juan Alvarez"
-  },
-  "alvarezD": {
-    "ru": "Испания, Нидерланды",
-    "en": "Spain, Netherlands"
-  },
-  "alvarezD2": {
-    "ru": "Инновационные решения для строительства, устойчивая модель долгосрочного прибыльного инвестирования.",
-    "en": "Innovative solutions for construction, a sustainable model of long-term profitable investment."
-  },
+  "expert": [
+    {
+      "name": {
+        "ru": "Хуан Альварез (Juan Alvarez)",
+        "en": "Juan Alvarez"
+      },
+      "country": {
+        "ru": "«CCArquitectos» Испания, Нидерланды",
+        "en": "«CCArquitectos» Spain, Netherlands"
+      },
+      "theme": {
+        "ru": "Инновационные решения для строительства, устойчивая модель долгосрочного прибыльного инвестирования.",
+        "en": "Innovative solutions for construction, a sustainable model of long-term profitable investment."
+      },
+      "photo": "alvarez.jpg"
+    },
+    {
+      "name": {
+        "ru": "Елена Пономаренко",
+        "en": "Elena Ponomarenko"
+      },
+      "country": {
+        "ru": "«Vitta Group» Россия",
+        "en": "«Vitta Group» Russia"
+      },
+      "theme": {
+        "ru": "Новые решения в дизайне и архитектуре Крыма.",
+        "en": "New solutions in the design and architecture of the Crimea."
+      },
+      "photo": "7954891.jpg"
+    }
+  ],
   "ccPartners": {
     "ru": "Партнёры выставки",
     "en": "Expo Partners"

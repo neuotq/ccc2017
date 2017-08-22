@@ -49,6 +49,27 @@
     margin-bottom: 1.52em;
 }
 
+.transfer-phones {
+	a {
+		font-size: 2.95rem;
+		text-transform: uppercase;
+		/* padding-bottom: 1rem; */
+		line-height: 0.8em;
+		display: block;
+		text-align: right;
+		color: #3c3f43;
+		font-weight: 100;
+		&:hover {
+			text-decoration: none;
+		}
+
+		@include media-breakpoint-down(xs){
+			font-size: 2rem;
+			text-align: center;
+		}
+	}
+}
+
 @for $i from 1 through 4 {
 	.t#{$i} .t-section-icon {background-image: url(../images/transfer-#{$i}.svg);}
 }
