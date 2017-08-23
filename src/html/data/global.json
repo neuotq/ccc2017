@@ -36,8 +36,8 @@
     "en": "International Construction & Development Exhibition"
   },
   "ccbuyticket": {
-    "ru": "Получить бесплатный билет посетителя",
-    "en": "Get free visitor ticket"
+    "ru": "Бесплатный билет",
+    "en": "Free ticket"
   },
   "participate": {
     "ru": "Стать участником",
@@ -254,12 +254,12 @@
     }
   ],
   "ccForeign": {
-    "ru": "Иностранные эксперты",
-    "en": "Foreign Experts"
+    "ru": "Выступления экспертов",
+    "en": "Experts speech"
   },
   "ccForeignBody": {
-    "ru": "Секция иностранных экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройиндустрии из различных стран.",
-    "en": "The foreign experts section is held in the ‘Business Contact Center’ hall, where representatives of the construction industry from various countries will take part."
+    "ru": "Секция экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройиндустрии, архитекторов и инвесторов из различных стран.",
+    "en": "The experts section is held in the ‘Business Contact Center’ hall, where representatives of the construction industry, architects and investors  from various countries will take part."
   },
   "expert": [
     {
@@ -291,6 +291,21 @@
         "en": "New solutions in the design and architecture of the Crimea."
       },
       "photo": "7954891.jpg"
+    },
+    {
+      "name": {
+        "ru": "Будет объявлено",
+        "en": "To be announced"
+      },
+      "country": {
+        "ru": "",
+        "en": ""
+      },
+      "theme": {
+        "ru": "Будет объявлено",
+        "en": "To be announced"
+      },
+      "photo": "personne.png"
     }
   ],
   "ccPartners": {

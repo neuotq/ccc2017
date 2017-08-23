@@ -19,4 +19,16 @@
 		background: $cc-bluegrad;
     }
 
+  &.ticket {
+    background: linear-gradient(to left, rgba(248, 153, 29, 0.8) 0%, rgba(255, 193, 7, 0.8) 100%);
+    &:hover {
+      color: #fff;
+      text-decoration: none;
+      background: linear-gradient(to left, #f8991d 0%, #ffc107 100%);
+      //background-image: radial-gradient(circle at 0 50%, rgba(#fff,0) $hole, #fff ($hole + .1em)), radial-gradient(circle at 100% 50%, rgba(#fff,0) $hole,#fff($hole + .1em));
+
+    }
+
+  }
+
 }

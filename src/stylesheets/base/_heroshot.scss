@@ -58,6 +58,9 @@
 	}
 	@include media-breakpoint-down(xs){
     	font-size: 2rem;
+		span {
+			display: block;
+		}
 	}
 }
 
@@ -71,9 +74,17 @@
 	}
 	@include media-breakpoint-down(xs){
 		font-size: 1.5rem;
+		text-align: center;
 		span{
 			display: block;
 		}
+	}
+}
+
+.hero-buttonbx {
+	@include media-breakpoint-down(xs){
+		justify-content: center;
+		display: flex;
 	}
 }
 
@@ -81,7 +92,6 @@
 	img {
 		height: 5rem
 	}
-	* {float: right}
 	p {width: 50%; margin: 0;}
     font-family: 'solomon_sans_boldbold';
 	line-height: 1em;
@@ -89,27 +99,9 @@
     justify-content: flex-end;
     align-items: center;
     //visibility: hidden;
-}
-$bg : lightyellow;
-$hole : .4em;
-.ticket {
-	display: inline-block;
-	box-sizing: content-box;
-	filter: drop-shadow(0 2px 5px rgba(black,.5));
-	position: relative;
-	height: 1em;
-	padding: 1em;
-	color: black;
-	font-size: 16px;
-	background-size: 51% 100%;
-	background-repeat: no-repeat;
-	background-image: radial-gradient(circle at 0 50%, rgba($bg,0) $hole, $bg ($hole + .1em)), radial-gradient(circle at 100% 50%, rgba($bg,0) $hole, $bg ($hole + .1em));
-	background-position: top left, top right;
-	text-transform: uppercase;
-	&:hover {
-		color: #000;
-		text-decoration: none;
-		//background-image: radial-gradient(circle at 0 50%, rgba(#fff,0) $hole, #fff ($hole + .1em)), radial-gradient(circle at 100% 50%, rgba(#fff,0) $hole,#fff($hole + .1em));
-		opacity: 0.9;
+	@include media-breakpoint-down(xs){
+		justify-content: center;
 	}
+
+
 }
