@@ -34,5 +34,35 @@
             }
         })();
     </script>
+<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+<script type="text/javascript">
+    ymaps.ready(function () {
+        var myMap = new ymaps.Map('map-container', {
+                center: [44.98423039297836,34.13147458701319],
+                zoom: 16
+            }, {
+                searchControlProvider: 'yandex#search'
+            }),
+
+           myPlacemark = new ymaps.Placemark([44.98514407836223,34.13321265845484], {
+                hintContent: 'Собственный значок метки',
+                balloonContent: 'Это красивая метка'
+            }, {
+                // Опции.
+                // Необходимо указать данный тип макета.
+                iconLayout: 'default#image',
+                // Своё изображение иконки метки.
+                iconImageHref: 'images/ccc-pin.png',
+                // Размеры метки.
+                iconImageSize: [75, 100],
+                // Смещение левого верхнего угла иконки относительно
+                // её "ножки" (точки привязки).
+                iconImageOffset: [-37, -100]
+            });
+
+        myMap.geoObjects
+            .add(myPlacemark)
+    });
+</script>
   </body>  
 </html>
