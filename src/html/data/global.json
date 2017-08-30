@@ -9,7 +9,7 @@
   },
   "title": {
     "ru": "Международная строительная выставка в Крыму — Сonneсt Construct Crimea 2017 Строим Крым вместе!",
-    "en": "International Construction & Development Exhibition in Crimea — Сonneсt Construct Crimea 2017"
+    "en": "International Construction & Development Exhibition in Crimea — Сonneсt Construct Crimea 2017 Build Crimea Together!"
   },
   "mission": {
     "ru": "Миссия",
@@ -34,6 +34,10 @@
   "cctitle": {
     "ru": "Международная </br> строительная выставка",
     "en": "International Construction & Development Exhibition"
+  },
+  "hero_slogan": {
+    "ru": "Строим Крым вместе",
+    "en": "Build Crimea Together"
   },
   "ccbuyticket": {
     "ru": "Регистрация посетителя",
