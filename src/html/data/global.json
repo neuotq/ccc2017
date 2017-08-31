@@ -35,6 +35,10 @@
     "ru": "Международная </br> строительная выставка",
     "en": "International Construction & Development Exhibition"
   },
+  "cabinet": {
+    "ru": "Кабинет участника",
+    "en": "Exhibitor Login"
+  },
   "hero_slogan": {
     "ru": "Строим Крым вместе",
     "en": "Build Crimea Together"
@@ -132,8 +136,8 @@
     "en": "<li>Government plans for the implementation of the ‘Federal Target Program’ in the Republic of Crimea</li><li>Installation meeting of the Technical Committee for Standardization 144 “Construction materials (products) and structures”</li><li>New investment projects to be implemented in the Republic of Crimea in 2017 — 2018</li>"
   },
   "govSpeakers": {
-    "ru": "<p>Примут участие</p> <ul> <li>председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству <b>Л.И. Бабашов</b></li> <li>Министр экономического развития Республики Крым <b>Мельников А.Г.</b></li> <li>депутат ГС РК <b>Ясинский В.Б.</b></li> <li>руководитель всероссийского центра национальной строительной политики <b>Моор А. М.</b></li></ul>",
-    "en": "<p>Примут участие</p> <ul> <li>председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству <b>Л.И. Бабашов</b></li> <li>Министр экономического развития Республики Крым <b>Мельников А.Г.</b></li> <li>депутат ГС РК <b>Ясинский В.Б.</b></li> <li>руководитель всероссийского центра национальной строительной политики <b>Моор А. М.</b></li></ul>"
+    "ru": "<p>Примут участие:</p> <ul> <li>председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству <b>Л.И. Бабашов</b></li> <li>Министр экономического развития Республики Крым <b>Мельников А.Г.</b></li> <li>депутат ГС РК <b>Ясинский В.Б.</b></li> <li>руководитель всероссийского центра национальной строительной политики <b>Моор А. М.</b></li></ul>",
+    "en": "<p>Confirmed Participants:</p> <ul> <li>Chairman of the Committee of the Civil Service for Construction, Housing and Communal Services of the Republic of Crimea — <b>Leonid Babashov</b></li> <li>Minister of Economic Development of the Republic of Crimea — <b>Andrey Melnikov</b></li> <li>Deputy of the State Council of the Republic of Crimea — <b>Vladimir Yasinskiy</b></li> <li>Head of the Russian Center for National Construction Policy — <b>Alexandr Moor</b></li></ul>"
   },
   "busContExcH": {
     "ru": "Биржа деловых контактов",
@@ -255,11 +259,11 @@
     {
       "content": {
         "ru": "«Межозёрье» – это проект развития туристско-рекреационного кластера, расположенного на территории Феодосийского городского округа. Проект состоит из комплекса различных функциональных элементов, совмещающих в себе всю необходимую для востановительно-оздоровительного отдыха инфраструктуру. Объем инвестиций: 22 174 млн.руб.",
-        "en": "«Межозёрье» – это проект развития туристско-рекреационного кластера, расположенного на территории Феодосийского городского округа. Проект состоит из комплекса различных функциональных элементов, совмещающих в себе всю необходимую для востановительно-оздоровительного отдыха инфраструктуру. Объем инвестиций: 22 174 млн.руб."
+        "en": "“Mezhozerye” is a development project being built as a tourist and recreational cluster located on the territory of the Crimean city of Feodosiya. The project consists of a complex of various functional elements that combine all the necessary recreational and holiday infrastructure. Investment volume: 22 174 million Rubles."
       },
       "name": {
         "ru": "«Холдинг Партнер»",
-        "en": "‘Холдинг Партнер’"
+        "en": "‘Holding Partner’"
       },
       "link": "",
       "img": ""
@@ -267,7 +271,7 @@
   ],
   "ccForeign": {
     "ru": "Выступления экспертов",
-    "en": "Experts speech"
+    "en": "Expert Speakers"
   },
   "ccForeignBody": {
     "ru": "Секция экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройиндустрии, архитекторов и инвесторов из различных стран.",
