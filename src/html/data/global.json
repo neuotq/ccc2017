@@ -41,15 +41,19 @@
   },
   "ccbuyticket": {
     "ru": "Регистрация посетителя",
-    "en": "Visitor registration"
+    "en": "Visitor Registration"
   },
   "participate": {
     "ru": "Стать участником",
-    "en": "Register Now"
+    "en": "Become An Exhibitor"
   },
   "patronat": {
     "ru": "Под патронатом Совета министров Республики Крым",
     "en": "With the support of the Council of Ministers of the Republic of Crimea"
+  },
+  "theme": {
+    "ru": "Тема:",
+    "en": "Theme:"
   },
   "visitors_h": {
     "ru": "Целевая аудитория",

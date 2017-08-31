@@ -72,7 +72,7 @@
 						<img src="/images/{{p.photo}}" class="img-fluid" alt="">
 						<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
 						<h6 class="cc-h6">{{ tr(p.country, lang)}}</h6>
-						<p class="cc-small"><b>Тема:</b> {{ tr(p.theme, lang)}}</p>
+						<p class="cc-small"><b>{{ tr(theme, lang)}}</b> {{ tr(p.theme, lang)}}</p>
 					</div>
 				</div>
 				{% endfor %}
