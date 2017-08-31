@@ -82,7 +82,7 @@
 }
 
 .hero-buttonbx {
-	@include media-breakpoint-down(xs){
+	@include media-breakpoint-down(md){
 		justify-content: center;
 		display: flex;
 	}
@@ -99,7 +99,7 @@
     justify-content: flex-end;
     align-items: center;
     //visibility: hidden;
-	@include media-breakpoint-down(xs){
+	@include media-breakpoint-down(md){
 		justify-content: center;
 	}
 

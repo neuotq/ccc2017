@@ -14,12 +14,18 @@
     	a {color: rgba(0, 0, 0, 0.9) !important;}
 		flex-shrink: 0;
 	}
-	.nav-item:not(:last-child):not(:first-child) a::before {
-		content: '•';
-		position: relative;
-		top: 0;
-		left: -.5rem;		
+
+	@include media-breakpoint-up(md) {
+		.nav-item:not(:first-child) a::before {
+			content: '•';
+			position: relative;
+			top: 0;
+			left: -.5rem;
+		}
 	}
+
+
+
 }
 
 .ccc-nav {
@@ -28,6 +34,10 @@
 	.navbar-nav {
 		align-self: center;
 	}
+	@include media-breakpoint-down(sm) {
+		justify-content: center;
+	}
+
 }
 
 .header-phone {
@@ -38,7 +48,9 @@
 		width: 2.2rem;
 		top: .3rem;
 		position: relative;
-		margin-left: 2rem;
+	}
+	&::before {
+		display: none;
 	}
 }
 

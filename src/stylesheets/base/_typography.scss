@@ -39,6 +39,9 @@ body {
     font-family: 'solomon_sans_bookregular';
     font-size: 3rem;
     margin-bottom: 0.5em;
+    @include media-breakpoint-down(sm){
+        font-size: 2rem;
+    }
     @include media-breakpoint-down(xs){
         font-size: 1.5rem;
     }
