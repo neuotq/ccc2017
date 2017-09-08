@@ -52,6 +52,7 @@ $("document").ready(function() {
         var name = $(parentEl).find("input[name='name']").val();
         var email = $(parentEl).find("input[name='email']").val();
         var phone = $(parentEl).find("input[name='phone']").val();
+        var promocode = $(parentEl).find("input[name='promocode']").val();
 
         $(parentEl).addClass("cc-loading");
 
@@ -61,7 +62,8 @@ $("document").ready(function() {
             data: {
                 name: name,
                 email: email,
-                phone: phone
+                phone: phone,
+                promocode: promocode
             },
             success: function(msg) {
         		$(parentEl).removeClass("cc-loading").addClass("thanks-active");
