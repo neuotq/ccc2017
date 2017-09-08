@@ -170,7 +170,7 @@
     {
       "content": {
         "ru": "В настоящее время аэропорт Симферополь занимает 5-е место среди аэропортов России по числу обслуживаемых пассажиров, более 5,2 млн пассажиров в 2016 году. <br>В мае 2016 года началось строительство нового аэровокзального комплекса с терминалом и служебными зданиями, площадью более 78 тыс. м2, рассчитанного на обслуживание 7 млн пассажиров в год с возможностью расширения до 10 млн пассажиров в год.<br> Общая стоимость работ оценивается в 32 млрд рублей. Строительство планируется завершить к летнему туристическому сезону 2018 года. C окончанием строительства синхронизирован ввод в эксплуатацию новой взлётно-посадочной полосы (реконструкция старой ВПП с удлинением и созданием новых рулевых дорожек).",
-        "en": "В настоящее время аэропорт Симферополь занимает 5-е место среди аэропортов России по числу обслуживаемых пассажиров, более 5,2 млн пассажиров в 2016 году. <br>В мае 2016 года началось строительство нового аэровокзального комплекса с терминалом и служебными зданиями, площадью более 78 тыс. м2, рассчитанного на обслуживание 7 млн пассажиров в год с возможностью расширения до 10 млн пассажиров в год.<br> Общая стоимость работ оценивается в 32 млрд рублей. Строительство планируется завершить к летнему туристическому сезону 2018 года. C окончанием строительства синхронизирован ввод в эксплуатацию новой взлётно-посадочной полосы (реконструкция старой ВПП с удлинением и созданием новых рулевых дорожек)."
+        "en": "Currently, Simferopol airport takes 5th place among Russian airports by number of passengers served, with more than 5.2 million passengers in 2016. <br>In May 2016, construction began on a new air terminal complex and additional service buildings, covering an area of ​​more than 78 thousand m2, and designed for a capacity of 7 million passengers per year with the possibility of further expansion to 10 million passengers.<br> The total cost of work is estimated at 32 billion Rubles. The construction is planned to be completed by the 2018 summer tourist season. Completion of the airport is also synchronised with the renovation and operation of a new runway (reconstruction of the existing runway with lengthening and creation of new steering tracks)."
       },
       "name": {
         "ru": "Аэропорт Симферополь",
@@ -382,6 +382,10 @@
   "yPhone": {
     "ru": "Ваш телефон",
     "en": "Your Phone"
+  },
+    "yPromocode": {
+    "ru": "Ваш промокод",
+    "en": "Your promocode"
   },
   "sendB": {
     "ru": "Отправить",

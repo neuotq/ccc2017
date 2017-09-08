@@ -10,14 +10,17 @@
                 <div class="cc-form">
                     <h4 class="cc-h8">{{ tr(regnow, lang) }}</h4>
                     <form action="domail.php" method="POST">
-                        <div class="md-form">
+                        <div class="md-form mb-1">
                             <input type="text" class="form-control" placeholder="{{ tr(yName, lang) }}" name="name">
                         </div>
-                        <div class="md-form">
+                        <div class="md-form mb-1">
                             <input type="text" class="form-control" placeholder="{{ tr(yEmail, lang) }}" name="email">
                         </div>
-                        <div class="md-form">
+                        <div class="md-form mb-1">
                             <input type="text" class="form-control" placeholder="{{ tr(yPhone, lang) }}" name="phone">
+                        </div>
+                        <div class="md-form mb-1">
+                            <input type="text" class="form-control" placeholder="{{ tr(yPromocode, lang) }}" name="promocode">
                         </div>
                         <fieldset class="form-group">
                             <label for="soglasen" class="cc-small cc-soglasen-label" style="">{{ tr(soglasen1, lang) }} <a href="/data/ccc2017/soglasen.pdf" target="_blank">{{ tr(soglasen2, lang) }}</a></label>
