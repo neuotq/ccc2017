@@ -37,4 +37,39 @@
 
 }
 
+.cc-minicards {
+	
+	.cc-small {
+		
+	}
 
+	a {
+		color: #232323;
+	    text-decoration: underline;
+	    margin-top: 0.5rem;
+	    display: block;
+	    font-size: 0.8rem; 
+		&:hover {
+			color: #000000;
+		}
+	}
+	
+	.title-box {
+		margin-bottom: 1rem;
+	}
+	
+	.minicards-logobx {
+		text-align: center;
+	}
+
+	.minicards-logo {
+		max-width: 100%;
+		max-height: 3.5rem;		
+	}
+
+	.minicards-title {
+		display: flex;
+		flex-direction: column;
+    	justify-content: center;
+	}
+}

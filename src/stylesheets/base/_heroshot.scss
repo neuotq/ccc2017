@@ -5,23 +5,20 @@
     display: block;
     background-position: 100% center;
     background-size: cover;
+    padding: 2rem 0;
     p, div {
     	color: #fff;
     	padding: 0.5rem 1rem;
     }
 }
 
-.hero-date {
+.hero-date, .hero-place{
 	font-family: 'solomon_sans_bookregular';
 	font-size: 3rem;
     padding-left: 0 !important;
-	margin-bottom: 2rem;
-	line-height: 0.96em;
-	p {padding-bottom: 2rem;}
-	span {
-		color: rgba(255, 255, 255, 0.5);
-		text-transform: uppercase;
-	}
+	margin-bottom: 0rem;
+	line-height: 0.96em;	
+	
     @media (max-width: 1400px) {
     	font-size: 3rem;
 	}    
@@ -39,12 +36,16 @@
 	}	
 }
 
+.hero-place {
+	margin-bottom: 1.5rem;
+}
+
 .hero-title {
 	font-family: 'solomon_sans_blackregular';
     font-size: 5rem;
     line-height: 0.96em;
     margin: 1rem 0;
-	margin-bottom: 0;
+	margin-bottom: 3rem;
 	span {white-space: nowrap;}
     @media (max-width: 1400px) {
     	font-size: 4rem;

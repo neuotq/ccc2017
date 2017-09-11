@@ -62,8 +62,26 @@
 					<h5 class="cc-h4">{{ tr(participants, lang) }}</h5>
 					<div class="cc-minicards">
 			            {% for p in sec %}
+			            {% if p.img %}
+			            <div class="title-box">
+			            <div class="row">
+			            	<div class="col-4 minicards-logobx"><img class="minicards-logo"  src="{{p.img}}">
+							{% if p.link %}
+				            <a href="{{p.link}}" target="_blank">{{p.link}}</a>
+							{% endif %}
+			            	</div>
+			            	<div class="col-8 minicards-title"><p class="cc-small">{{ tr(p.content, lang) }}</p></div>
+			            </div>
+			            </div>
+			            {% else %}
 			            <h5 class="cc-h5">{{ tr(p.name, lang) }}</h5>
-			            <p class="cc-small">{{ tr(p.content, lang) }}</p>
+			           	<p class="cc-small">{{ tr(p.content, lang) }}</p>
+			            {% endif %}
+			            
+			            
+
+
+			            
 			            {% if not loop.last %} <hr> {% endif %}
 			            {% endfor %}
 			            

@@ -9,7 +9,7 @@
   },
   "title": {
     "ru": "Международная строительная выставка в Крыму — Сonneсt Construct Crimea 2017 Строим Крым вместе!",
-    "en": "International Construction & Development Exhibition in Crimea — Сonneсt Construct Crimea 2017 Build Crimea Together!"
+    "en": "International Construction & Development Exhibition in Crimea — Сonneсt Construct Crimea 2017 Building Crimea Together!"
   },
   "mission": {
     "ru": "Миссия",
@@ -176,8 +176,8 @@
         "ru": "Аэропорт Симферополь",
         "en": "Simferopol Airport"
       },
-      "link": "",
-      "img": ""
+      "link": "http://sipaero.ru",
+      "img": "/images/sipaero.png"
     },
     {
       "content": {
@@ -188,21 +188,9 @@
         "ru": "ГК Монолит",
         "en": "'Monolit', Crimea"
       },
-      "link": "",
-      "img": ""
-    },
-    {
-      "content": {
-        "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
-        "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
-      },
-      "name": {
-        "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
-        "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
-      },
-      "link": "",
-      "img": ""
-    },
+      "link": "http://monolit.crimea.ru",
+      "img": "/images/logo_monolit.png"
+    },   
     {
       "content": {
         "ru": "Это крупнейший представить формата DIY в Крыму. На сегодняшний день сеть «НОВАЦЕНТР» представлена 3-мя гипермаркетами в городах Симферополь и Севастополь, общей торговой площадью более 61 800 кв.м кв.м. Штат сотрудников насчитывает более 1300 специалистов.",
@@ -212,8 +200,8 @@
         "ru": "Сеть гипермаркетов «НОВАЦЕНТР»",
         "en": "«Новацентр» (Nova Center) Home Building & Materials Supermarket Network"
       },
-      "link": "",
-      "img": ""
+      "link": "http://novacentr.com/",
+      "img": "/images/novacentr.png"
     },
     {
       "content": {
@@ -224,8 +212,8 @@
         "ru": "ГК «Перспектива»",
         "en": "‘Perspektiva’ Group of Companies"
       },
-      "link": "",
-      "img": ""
+      "link": "http://perspektiva-yalta.ru",
+      "img": "/images/perspektiva__logo.png"
     },
     {
       "content": {
@@ -236,8 +224,8 @@
         "ru": "ГК «Парангон»",
         "en": "‘Parangon’ Group of Companies"
       },
-      "link": "",
-      "img": ""
+      "link": "https://parangon.org",
+      "img": "/images/parangon.png"
     },
     {
       "content": {
@@ -248,8 +236,8 @@
         "ru": "«Липецкстрой»",
         "en": "‘Lipetskstroy’"
       },
-      "link": "",
-      "img": ""
+      "link": "https://www.lipetskstroy.ru/",
+      "img": "/images/lipetskstroy.png"
     },
      {
       "content": {
@@ -260,20 +248,8 @@
         "ru": "Севастопольстрой",
         "en": "‘Sevastopolstroy’"
       },
-      "link": "",
-      "img": ""
-    },
-    {
-      "content": {
-        "ru": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!",
-        "en": "‘Domostroy 2000’ Ltd. efficiently masters a variety of construction technologies. Their advantage is the offering of high-quality of services and completion of that work or projects in short period of time!"
-      },
-      "name": {
-        "ru": "ООО «Домострой 2000»",
-        "en": "‘Domostroy 2000’ Ltd."
-      },
-      "link": "",
-      "img": ""
+      "link": "https://sevastopolstroy.ru/",
+      "img": "/images/sevastopolstroy.png"
     },
     {
       "content": {
@@ -283,6 +259,30 @@
       "name": {
         "ru": "«РИВЬЕРА ДЕВЕЛОПМЕНТ»",
         "en": "‘Riviera Development’"
+      },
+      "link": "http://riviera-development.ru/",
+      "img": "/images/rivera-dev.png"
+    },
+    {
+      "content": {
+        "ru": "Группа компаний «Гринвуд» — это финансово-строительный холдинг, основной деятельностью которого является реализация проектов в сфере жилой недвижимости. Мы умеем проектировать, строить,  управлять и продавать.",
+        "en": "The group of companies ‘Greenwood’ is a financial and construction holding company, with primary business activities focusing on the implementation of projects in the field of residential real estate. We know how to design, build, manage and sell."
+      },
+      "name": {
+        "ru": "Группа компаний «Гринвуд»",
+        "en": "Group of companies ‘Greenwood’"
+      },
+      "link": "https://гринвуд.рф/",
+      "img": "/images/greenwood.png"
+    },
+    {
+      "content": {
+        "ru": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!",
+        "en": "‘Domostroy 2000’ Ltd. efficiently masters a variety of construction technologies. Their advantage is the offering of high-quality of services and completion of that work or projects in short period of time!"
+      },
+      "name": {
+        "ru": "ООО «Домострой 2000»",
+        "en": "‘Domostroy 2000’ Ltd."
       },
       "link": "",
       "img": ""
@@ -299,14 +299,14 @@
       "link": "",
       "img": ""
     },
-    {
+     {
       "content": {
-        "ru": "Группа компаний «Гринвуд» — это финансово-строительный холдинг, основной деятельностью которого является реализация проектов в сфере жилой недвижимости. Мы умеем проектировать, строить,  управлять и продавать.",
-        "en": "The group of companies ‘Greenwood’ is a financial and construction holding company, with primary business activities focusing on the implementation of projects in the field of residential real estate. We know how to design, build, manage and sell."
+        "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
+        "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
       },
       "name": {
-        "ru": "Группа компаний «Гринвуд»",
-        "en": "The group of companies ‘Greenwood’"
+        "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
+        "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
       },
       "link": "",
       "img": ""
@@ -653,6 +653,10 @@
   "date": {
     "ru": "27—29 октября",
     "en": "October 27—29"
+  },
+  "place": {
+    "ru": "Выставочный центр «Connect Center»",
+    "en": "Exhibition Center `Connect Center`"
   },
   "contactUs": {
     "ru": "Свяжитесь с нами",
