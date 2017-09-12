@@ -50,25 +50,23 @@
 			</div>
 		
 		<div class="container">
-			<h4 class="cc-h4-solid cc-darkbluegrad"><span class="">28 {{ tr(october, lang) }}: </span>{{ tr(busContExcH, lang) }}</h4>
-			<div class="cc-card row">
-
-				<div class="col-md-4">
-				<div class="cc-tip">
+			<h4 class="cc-h4-solid cc-darkbluegrad"><span class="">28 {{ tr(october, lang) }}: </span>{{ tr(busContExcH, lang) }}</h4>			
+			<div class="cc-card biz-card">
+			<div class="cc-tip">
 					<p>{{ tr(busContExcBody, lang) }}</p>
-				</div>
-				</div>					
-				<div class="col-md-8">
-					<h5 class="cc-h4">{{ tr(participants, lang) }}</h5>
+			</div>
+			<h5 class="cc-h4">{{ tr(participants, lang) }}</h5>
+			<div class="row">			
+			<div class="col-md-12">					
 					<div class="cc-minicards">
 			            {% for p in sec %}
 			            {% if p.img %}
 			            <div class="title-box">
 			            <div class="row">
-			            	<div class="col-4 minicards-logobx"><img class="minicards-logo"  src="{{p.img}}">
-							{% if p.link %}
-				            <a href="{{p.link}}" target="_blank">{{p.link}}</a>
-							{% endif %}
+			            	<div class="col-4 minicards-logobx">
+							<a href="{{p.link}}" target="_blank">
+			            		<img class="minicards-logo"  src="{{p.img}}">
+			            	</a>							
 			            	</div>
 			            	<div class="col-8 minicards-title"><p class="cc-small">{{ tr(p.content, lang) }}</p></div>
 			            </div>
@@ -77,17 +75,14 @@
 			            <h5 class="cc-h5">{{ tr(p.name, lang) }}</h5>
 			           	<p class="cc-small">{{ tr(p.content, lang) }}</p>
 			            {% endif %}
-			            
-			            
-
-
-			            
 			            {% if not loop.last %} <hr> {% endif %}
 			            {% endfor %}
-			            
-
 			        </div>
-				</div>								
+				</div>		
+
+			</div>
+			
+											
 			</div>
 		</div>
 		

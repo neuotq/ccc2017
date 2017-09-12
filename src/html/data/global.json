@@ -275,6 +275,18 @@
       "link": "https://гринвуд.рф/",
       "img": "/images/greenwood.png"
     },
+     {
+      "content": {
+        "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
+        "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
+      },
+      "name": {
+        "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
+        "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
+      },
+      "link": "http://mstroy.rk.gov.ru/rus/info.php?id=605315&department_id=72305",
+      "img": "/images/Emblem_of_Crimea.svg.png"
+    },
     {
       "content": {
         "ru": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!",
@@ -295,18 +307,6 @@
       "name": {
         "ru": "«Холдинг Партнер»",
         "en": "‘Holding Partner’"
-      },
-      "link": "",
-      "img": ""
-    },
-     {
-      "content": {
-        "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
-        "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
-      },
-      "name": {
-        "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
-        "en": "State Unitary Enterprise “Center for Complex Supply of Construction Facilities”"
       },
       "link": "",
       "img": ""
