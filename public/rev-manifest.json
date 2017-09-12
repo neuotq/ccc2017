@@ -102,6 +102,7 @@
   "images/sevastopolstroy.png": "images/sevastopolstroy-e9c3f32ac5.png",
   "images/simfaero.png": "images/simfaero-92c64c7932.png",
   "images/sipaero.png": "images/sipaero-95c5f249ab.png",
+  "images/sipaero_presentation.jpg": "images/sipaero_presentation-6f8f34e729.jpg",
   "images/siteup.png": "images/siteup-9659539b81.png",
   "images/soyuzstroy.jpg": "images/soyuzstroy-a6c6f17069.jpg",
   "images/spoural.png": "images/spoural-7d2820ab2a.png",
@@ -131,7 +132,8 @@
   "images/vestiyuga.png": "images/vestiyuga-0391d7d5dd.png",
   "images/volgograd.png": "images/volgograd-c946dddbdc.png",
   "images/vsedlyastroiki.png": "images/vsedlyastroiki-4ca96f4411.png",
-  "javascripts\\app.js": "javascripts\\app-1d69773d19355c1a18cd.js",
-  "stylesheets/app.css": "stylesheets/app-42e5bd0720.css",
+  "javascripts\\app.js": "javascripts\\app-1547148171eceb14a76f.js",
+  "stylesheets/app.css": "stylesheets/app-d7a77dd697.css",
+  "stylesheets/base/featured.css": "stylesheets/base/featured-266f4f4a8d.css",
   "stylesheets/base/greetings.css": "stylesheets/base/greetings-8450ab9730.css"
 }

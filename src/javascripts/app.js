@@ -2,7 +2,7 @@ import './modules';
 require('bootstrap');
 require('./jquery.accordion.js');
 
-// require('jarallax');
+require('./jarallax.min.js');
 
 $("document").ready(function() {
     $(".cc-soglasen-checkbox").change(function(e) {

@@ -737,5 +737,35 @@
   "main_i_partner_link": {
     "en" : "http://russianconstruction.com/",
     "ru" : "http://rcmm.ru/"
-  }
+  },
+  "feature_section_title": {
+    "en" : "Featured Attendees, Presentations & Installations",
+    "ru" : "Избранные участники, презентации и инсталляции"
+  },
+   "feature_airport": [
+    {
+    "ru" : "Площадь застройки:<br>496 000 кв.м",
+    "en" : "Total construction area:<br>496,000 square metres"
+    },
+    {
+    "ru" : "Площадь зданий:<br>101 000 кв.м",
+    "en" : "Total area of buildings:<br>101,000 square metres"
+    },
+    {
+    "ru" : "Инвестиции в проект:<br>32 млрд.р.",
+    "en" : "Total project investment:<br>32 Billion Rubles"
+    },
+    {
+    "ru" : "Объем монолитных конструкций:<br>108 000 куб.м",
+    "en" : "Total volume of monolithic structures:<br>108,000 cubic metres"
+    },
+    {
+    "ru" : "Объем металло- конструкций:<br>6 500 т.",
+    "en" : "Total volume of metal constructions:<br>6,500 tons"
+    },
+    {
+    "ru" : "Площадь фасадных конструкций:<br>75 000 кв.м",
+    "en" : "Total area of facade structures:<br>75,000 square metres"
+    }
+   ]
 }

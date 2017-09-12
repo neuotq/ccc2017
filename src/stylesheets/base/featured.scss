@@ -1,0 +1,75 @@
+.jarallax {
+    position: relative;
+    z-index: 0;
+}
+.jarallax > .jarallax-img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.cc-section.featured-section {
+	padding-bottom: 8rem;
+	.featured-airport-box {
+		padding: 2rem 0 5rem 0;
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero_presentation.jpg) no-repeat center center fixed;
+    		background-repeat: repeat-y;
+
+    	.featured-title {
+		color: #fff;
+		text-shadow: 1px 1px 1px #000;
+		margin-bottom: 2rem;
+		font-size: 3rem;
+	}
+	}
+
+
+.featured-title {
+	font-family: solomon_sans_blackregular;
+    text-transform: uppercase;
+    text-align: center;	
+}
+
+
+.featured-airport-box {
+
+}
+
+
+
+
+	.featured-airport-item {
+		padding: 1.2rem;
+		color: #fff;
+		text-shadow: 1px 1px 1px #000;
+		position: relative;
+		height: 100%;
+		border: 1px solid #fff;
+		overflow: hidden;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		font-size: 1.2rem;		
+		div {
+			position: relative;
+			text-align: center;			
+		}
+		&:before {
+			display: block;
+			position: absolute;
+			content: ' ';
+			top: -3px;
+			left: -3px;
+			right: -3px;
+			bottom: -3px;
+			filter: blur(5px);
+			background:  url(/images/sipaero_presentation.jpg) no-repeat center center fixed;
+    		background-size: auto;
+    		background-repeat: repeat-y;
+		}
+	}
+}
