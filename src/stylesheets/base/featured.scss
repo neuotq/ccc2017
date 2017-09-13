@@ -15,15 +15,15 @@
 .cc-section.featured-section {
 	padding-bottom: 8rem;
 	.featured-airport-box {
-		padding: 2rem 0 5rem 0;
-		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero_presentation.jpg) no-repeat center center fixed;
-    		background-repeat: repeat-y;
+		padding: 2rem 0 3rem 0;
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero_presentation.jpg) no-repeat center center;
+    	
 
     	.featured-title {
 		color: #fff;
 		text-shadow: 1px 1px 1px #000;
 		margin-bottom: 2rem;
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 	}
 
@@ -67,7 +67,7 @@
 			right: -3px;
 			bottom: -3px;
 			filter: blur(5px);
-			background:  url(/images/sipaero_presentation.jpg) no-repeat center center fixed;
+			background:  rgba(0, 0, 0, 0.4);
     		background-size: auto;
     		background-repeat: repeat-y;
 		}
