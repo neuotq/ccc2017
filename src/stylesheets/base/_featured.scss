@@ -20,6 +20,108 @@
     text-align: center;	
 	}
 
+
+
+	.featured-mezhozer-box {
+
+		.feature_mezhozer_description_img {
+			box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
+			background-image:  url(/images/mezhozer.jpg);
+			background-size: cover;
+			background-position: center;
+			display: flex;
+			justify-content: flex-end;
+			align-items: center;
+			padding: 10rem 0;
+			padding-right: 3rem;
+			@include media-breakpoint-down(sm) {
+			padding: 7rem 0;
+			padding-right: 0rem;
+			justify-content: center;
+			}			
+			.featured-title {
+				color: #fff;
+				text-shadow: 1px 1px 2px #000;
+				padding: 1rem 1.5rem;
+				border: 1px solid #fff;
+				margin: 0;
+				background-color: rgba(0, 0, 0, 0.4);
+			}
+			
+		}
+
+		.feature_mezhozer_description_text {
+			box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
+			background-image:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/mezhozer2.jpg);
+			background-size: cover;
+			background-position: center;
+			padding: 3rem 0;
+			padding-left: 3rem;
+			color: #fff;
+			text-shadow: 1px 1px #000;
+			@include media-breakpoint-down(sm) { 
+			 .feature_mezhozer_description_content {
+			 	padding: 0 2rem;
+			 }
+			}
+
+		}
+		
+
+
+	}
+
+
+	.featured-markhi-box {
+		padding: 5rem 0 7rem 0;
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat center center;
+		    box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
+		@include media-breakpoint-down(sm) {
+			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat;    	
+			background-size: cover;
+    		background-position: bottom;
+		}	
+		
+		.featured-title {
+		color: #fff;
+		text-shadow: 1px 1px 1px #000;
+		margin-bottom: 2rem;
+		font-size: 2rem;
+		}
+
+		img {
+			width: 100%;
+			height: auto;
+			box-shadow: 0px 2px 20px rgba(25, 25, 25, 0.84);
+			
+
+			@include media-breakpoint-down(sm) {
+				display: block;
+				width: 75%;
+				margin: 0 auto;
+				margin-bottom: 2rem;
+
+			}
+
+		}
+
+		.feature_markhi_description_text {
+			padding: 1.2rem;			
+			color: #fff;
+			text-shadow: 1px 1px 3px #000;
+			position: relative;
+			height: 100%;
+			border: 1px solid #fff;
+			overflow: hidden;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			font-size: 1rem;
+			background-color: rgba(0, 0, 0, 0.4);
+		}
+
+	}
+
 	.featured-airport-box {
 		padding: 5rem 0 7rem 0;
 		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero_presentation.jpg) no-repeat center center;
