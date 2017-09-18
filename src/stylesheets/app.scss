@@ -180,6 +180,36 @@
   display: none;
 }
 
+.footer__form {
+  input {
+    margin-bottom: 1.1rem;
+  }
+}
+
+.footer_social {
+  padding-top: 2rem;
+  display: flex;
+  align-items: center;
+
+  span {
+    text-transform: uppercase;
+  }
+
+  a {
+    display: inline-block;
+    width: 94px;
+    height: 94px;
+    background-image: url(../images/social_networks.png); 
+
+  }
+  .vk {
+    background-position: 0 0;
+  }
+
+  .fb {
+    background-position: 94px 0;
+  }
+}
 
 
 @include media-breakpoint-down(xs) {
