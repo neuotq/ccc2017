@@ -1,0 +1,91 @@
+.competiition-section {
+	background-image: url(/images/Polygon-Backgrounds-4.png);
+	padding: 3rem 0;
+	box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.5);
+	background-size: contain;
+}
+
+.atan500 {
+	padding: 3rem 2rem;
+	background: linear-gradient(45deg, #F3741B 0%,#F7F569 50% , #F9F6EC 100%);
+	position: relative;
+	box-shadow: 0px 4px 16px rgba(25, 25, 25, 0.5);
+
+	h3 {
+		font-size: 4rem;	    
+	    color: #ffffff;
+	    text-shadow: 2px 2px 0 #fd5a00;
+	    text-transform: uppercase;
+	}
+
+	.competiition__date {
+		font-family: 'solomon_sans_bookregular';
+    	font-size: 3rem;
+	}
+
+	.competiition__place {
+		font-family: 'solomon_sans_bookregular';
+    	font-size: 1.1rem;
+    	p {
+    		font-weight: bold;
+    		line-height: 1.1em;
+    	}	
+	}
+
+	.competition__logos {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		img {
+			margin-bottom: 1rem;
+		}
+	}
+
+	.ribbon {
+	      position: absolute;
+    left: -8px;
+    top: -8px;
+    z-index: 1;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    text-align: right;
+	}
+	.ribbon span {
+	 	font-size: 1rem;
+	    font-weight: bold;
+	    color: #FFF;
+	    text-transform: uppercase;
+	    text-align: center;
+	    line-height: 2rem;
+	    transform: rotate(-45deg);
+	    -webkit-transform: rotate(-45deg);
+	    width: 150px;
+	    display: block;
+	    background: #79A70A;
+	    background: linear-gradient(#D11E26 0%, #D11E26 100%);
+	    box-shadow: 0 3px 10px -5px black;
+	    position: absolute;
+	        top: 30px;
+    left: -29px;
+	}
+	.ribbon span::before {
+	  content: "";
+	  position: absolute; left: 0px; top: 100%;
+	  z-index: -1;
+	  border-left: 3px solid #D11E26;
+	  border-right: 3px solid transparent;
+	  border-bottom: 3px solid transparent;
+	  border-top: 3px solid #D11E26;
+	}
+	.ribbon span::after {
+	  content: "";
+	  position: absolute; right: 0px; top: 100%;
+	  z-index: -1;
+	  border-left: 3px solid transparent;
+	  border-right: 3px solid #D11E26;
+	  border-bottom: 3px solid transparent;
+	  border-top: 3px solid #D11E26;
+	}
+}
