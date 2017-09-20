@@ -24,6 +24,20 @@
 	            <ul>
 	                {{ tr(devSectionBody, lang) }}
 	            </ul>
+	            {% for p in stroySpeakersThemes %}
+				<div class="cc-card gov-speakers">
+					<div class="row">
+						<div class="col-2">
+						<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
+						</div>
+						<div class="col-10">
+							<h3>{{ tr(p.name, lang) }}</h3>
+							<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
+							<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
 	      		<h5 class="cc-h5">13:00 – 16:00</h5>          
 	      		<h4 class="cc-h4">{{ tr(govSectionH, lang) }}</h4>          
 
@@ -37,7 +51,7 @@
 						<div class="col-2">
 						<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
 						</div>
-						<div class="col-8">
+						<div class="col-10">
 							<h3>{{ tr(p.name, lang) }}</h3>
 							<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
 							<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>

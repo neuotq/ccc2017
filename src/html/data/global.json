@@ -139,6 +139,24 @@
     "ru": "<li>Планы правительства по реализации Федеральной целевой программы в Республике Крым</li><li>Установочное заседание Технического комитета по стандартизации 144 «Строительные материалы (изделия) и конструкции»</li><li>Новые инвест-проекты, реализуемые в Республике Крым в 2017–2018 годах</li>",
     "en": "<li>Government plans for the implementation of the ‘Federal Target Program’ in the Republic of Crimea</li><li>Installation meeting of the Technical Committee for Standardization 144 “Construction materials (products) and structures”</li><li>New investment projects to be implemented in the Republic of Crimea in 2017 — 2018</li>"
   },
+  "stroySpeakersThemes": [
+
+    {
+      "name": {
+        "ru": "Бернд Хиллер",
+        "en": "Bernd Hiller"
+      },
+      "theme": {
+        "ru": "Тема: <b>Современные геодезические приборы и технологии в капитальном строительстве, архитектуре и градостроительстве.</b>",
+        "en": "Тема: <b>Современные геодезические приборы и технологии в капитальном строительстве, архитектуре и градостроительстве.</b>"
+      },
+      "position": {
+        "ru": "Генеральный директор ООО «Фирма Г.Ф.К.»",
+        "en": "Генеральный директор ООО «Фирма Г.Ф.К.»"
+      },
+      "photo": "/images/hiller.jpg"
+    }
+  ],
   "govSpeakersThemes": [
 
     {
