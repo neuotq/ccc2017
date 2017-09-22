@@ -100,8 +100,8 @@
     "en": "Register Now"
   },
   "eventAddr": {
-    "ru": "Крым, Симферополь, ул. Объездная дорога Ялта-Евпатория, 20<br> +7 978 900 28 00 Пн—Пт, 8:00—22:00",
-    "en": "Simferopol, Republic of Crimea, Russia, 20 Obezdnaya Doroga Yalta-Evpatoriya<br> +7 978 900 28 00 Mon — Fri, 8:00—22:00"
+    "ru": "Крым, Симферополь, ул. Объездная дорога Ялта-Евпатория,&nbsp;20<br> +7 978 900 28 00 Пн—Пт, 8:00—22:00",
+    "en": "Simferopol, Republic of Crimea, Russia, 20&nbsp;Obezdnaya Doroga Yalta-Evpatoriya<br> +7 978 900 28 00 Mon — Fri, 8:00—22:00"
   },
   "october": {
     "ru": "октября",
@@ -148,11 +148,11 @@
       },
       "theme": {
         "ru": "Тема: <b>Современные геодезические приборы и технологии в капитальном строительстве, архитектуре и градостроительстве.</b>",
-        "en": "Тема: <b>Современные геодезические приборы и технологии в капитальном строительстве, архитектуре и градостроительстве.</b>"
+        "en": "Theme: <b>Modern geodetic instruments and technologies in capital construction, architecture and town planning.</b>"
       },
       "position": {
         "ru": "Генеральный директор ООО «Фирма Г.Ф.К.»",
-        "en": "Генеральный директор ООО «Фирма Г.Ф.К.»"
+        "en": "General Director, 'GFK' Ltd."
       },
       "photo": "/images/hiller.jpg"
     }
@@ -819,7 +819,24 @@
     "feature_mezhozer_list": {
     "ru" : "<li>Отели</li><li>Всесезонный многофункциональный центр</li><li>Конференц-залы</li><li>Парковая зона</li><li>Магазины, коммунально-бытовая инфраструктура, охрана</li><li>Парковка, консьерж-служба</li><li>Яхтенная стоянка на озере Кучук-Аджиголь </li><li>Озера Кучук–Аджиголь и Аджиголь </li><li>Песчаный пляж (Голубые флаги)</li><li>Всесезонные бассейны</li><li>Спортивные и игровые площадки</li><li>Детский клуб</li><li>Spa & Wellness</li><li>Кинотеатр</li>",
     "en" : "<li>Hotels</li><li>Year round multi-functional center</li><li>Conference halls</li><li>Park area</li><li>Shops, communal infrastructure, security</li><li>Parking, concierge service</li><li>Yacht mooring on Lake Kuchuk-Adzhigol</li><li>Nearby lakes Kuchuk-Adzhigol and Agigol</li><li>Sandy beach (blue flag beach)</li><li>All season pools</li><li>Sport facilities and playgrounds</li><li>Children’s club</li><li>Spa & Wellness</li><li>Cinema</li>"
+    },
+    "competion_name": {
+      "ru": "Розыгрыш",
+      "en": "GIVEAWAY"
+    },
+    "competion_date": {
+      "ru": "28 октября в 14:00",
+      "en": "October 28 at 14:00"
+    },
+    "competion_title": {
+      "ru": "500 литров от АЗС ATAN!",
+      "en": "500 Litres of gasoline from the ATAN!"
+    },
+    "competion_place": {
+      "ru": "Место проведения: <p>Выстовочный центр Connect&nbsp;Center Республика Крым, г.&nbsp;Симферополь, ул.&nbsp;Объездная дорога Ялта-Евпатория,&nbsp;20</p>",
+      "en": "Location: <p>'Connect Center' Exhibition Center Simferopol, Republic of Crimea 20&nbsp;Obezdnaya Doroga Yalta-Evpatoriya</p>"
     }
+
 
 
 }

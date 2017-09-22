@@ -200,15 +200,21 @@
     display: inline-block;
     width: 94px;
     height: 94px;
-    background-image: url(../images/social_networks.png); 
-
+    background-image: url(../images/social_networks.png);
+    background-position: center center;
   }
   .vk {
     background-position: 0 0;
   }
 
   .fb {
-    background-position: 94px 0;
+    background-position: 100px 0;
+  }
+  .ig {
+    background-image: url(../images/instagram.png);
+    background-size: 74px;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
 }
 
