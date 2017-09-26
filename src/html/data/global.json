@@ -155,7 +155,23 @@
         "en": "General Director, 'GFK' Ltd."
       },
       "photo": "/images/hiller.jpg"
+    },
+     {
+      "name": {
+        "ru": "Ирина Изотова",
+        "en": "Irina Izotova"
+      },
+      "theme": {
+        "ru": "Тема: <b>Девелопмент нового поколения: концептуальный подход к созданию проекта жилого комплекса.</b>",
+        "en": "Theme: <b>A new generation of development: a conceptual approach to the creation of a residential complex project.</b>"
+      },
+      "position": {
+        "ru": "Директор по маркетингу и продажам ГК 'Гринвуд'",
+        "en": "Director of Marketing and Sales of GC 'Greenwood'"
+      },
+      "photo": "/images/izotova2.jpg"
     }
+
   ],
   "govSpeakersThemes": [
 
@@ -375,18 +391,18 @@
     },
     {
       "name": {
-        "ru": "Будет объявлено",
-        "en": "To be announced"
+        "ru": "Ирина Изотова",
+        "en": "Irina Izotova"
       },
       "country": {
-        "ru": "",
-        "en": ""
+        "ru": "Директор по маркетингу и продажам ГК 'Гринвуд'",
+        "en": "Director of Marketing and Sales of GC 'Greenwood'"
       },
       "theme": {
-        "ru": "Будет объявлено",
-        "en": "To be announced"
+        "ru": "Новые тенденции в проектах благоустройства территории и внутренней инфраструктуры жилых комплексов Симферополя",
+        "en": "New trends in the projects of landscaping and internal infrastructure of residential complexes in Simferopol"
       },
-      "photo": "personne.png"
+      "photo": "izotova.jpg"
     }
   ],
   "ccPartners": {
