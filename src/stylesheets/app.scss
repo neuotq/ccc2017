@@ -212,9 +212,13 @@
   }
   .ig {
     background-image: url(../images/instagram.png);
-    background-size: 74px;
+        background-size: 75px;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 74px;
+    height: 74px;
+    margin-left: 8px;
   }
 }
 
