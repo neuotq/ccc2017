@@ -11,7 +11,7 @@
 	    @include media-breakpoint-down(sm) { background: linear-gradient(180deg, #F3741B 0%,#F7F569 50% , #F9F6EC 100%); }
 
 	position: relative;	
-
+	box-shadow: 0px 4px 16px rgba(25, 25, 25, 1);
 
 	h3 {
 		font-size: 4rem;	    
@@ -65,13 +65,15 @@
 
 
 	.ticket_body {
+		
+
 		outline: 3px rgba(255, 255, 255, 0.16) dashed;
     	border: 3px rgba(0, 0, 0, 0.6) dashed;
 	    padding: 3rem;
 	    @include media-breakpoint-down(sm) { padding: 1.5rem; }
 	    
 	     &:before {
-			content: "";
+			// content: "";
 		    position: absolute !important;
 		    z-index: 100;
 		    top: 0;
@@ -85,7 +87,7 @@
 			 }
 
 			 &:after {
-				 content: "";
+				 // content: "";
 		    position: absolute !important;		 
 		    z-index: 100;
 		    top: 0;
@@ -98,7 +100,7 @@
 	 }
 
 	 &:before {
-		 content: "";
+		 // content: "";
     position: absolute !important;
     z-index: 100;
     bottom: 0;
@@ -110,7 +112,7 @@
 	 }
 
 	 &:after {
-		 content: "";
+		 // content: "";
     position: absolute !important;		 
     z-index: 100;
     bottom: 0;

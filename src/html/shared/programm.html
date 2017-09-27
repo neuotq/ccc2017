@@ -106,9 +106,10 @@
 			<div class="cc-card">
 
 				<div class="col-md-12"><p>{{ tr(ccForeignBody, lang) }}</p></div>
+				<div class="container">
 				<div class="row">
-				{% for p in expert %}
-				<div class="col-md-4 cc-speakerbx">
+				{% for p in expert %}				
+				<div class="col-md-6 cc-speakerbx">
 					<div class="cc-speaker">
 						<img src="/images/{{p.photo}}" class="img-fluid" alt="">
 						<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
@@ -117,6 +118,7 @@
 					</div>
 				</div>
 				{% endfor %}
+				</div>
 				</div>
 			</div>			
 		</div>

@@ -46,7 +46,7 @@
 .cc-minicards {
 	
 	.cc-small {
-		
+		font-size: 0.8rem;
 	}
 
 	a {
@@ -78,4 +78,37 @@
 		flex-direction: column;
     	justify-content: center;
 	}
+}
+
+
+.cc-card {
+	ul {font-size: .8rem}
+	&:hover {
+		background-color: rgba(255,255,255,0.4);
+	}
+}
+
+.cc-speakerbx {
+  margin: 15px 0;
+}
+
+.cc-speaker {
+	
+	.cc-small {
+		font-size: 1rem;
+	}
+
+
+	background-color: #21235c;
+	padding: 1rem;
+    height: 100%;
+
+    box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.1);
+	> * {color: #fff !important}
+	h4, h6 {text-align: center;}
+	h4 {font-size: 1.2rem !important}
+  img {
+    margin-bottom: 0.5rem;
+    width: 100%;
+  }
 }
