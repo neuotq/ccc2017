@@ -376,6 +376,36 @@
     },
     {
       "name": {
+        "ru": "Михаил Шубенков",
+        "en": "Mikhail Shubenkov"
+      },
+      "country": {
+        "ru": "Профессор МАРХИ, заместитель заведующего кафедрой 'Градостроительство', доктор архитектуры, доцент.",
+        "en": "Professor of MARKHI, Deputy Head of the Department of Urban Development, Doctor of Architecture, Associate Professor."
+      },
+      "theme": {
+        "ru": "Будет объявлено",
+        "en": "TBA"
+      },
+      "photo": "shubenkov.jpg"
+    },
+    {
+      "name": {
+        "ru": "Игорь Лозинский",
+        "en": "Igor Lozinskiy"
+      },
+      "country": {
+        "ru": "Архитектор, руководитель компании 'Творческая мастерская Лозинский и партнеры'",
+        "en": "Architect & Head of the 'Lozinskiy & Partners Creative Workshop'"
+      },
+      "theme": {
+        "ru": "Уникальный шанс в развитии застройки  Крымских городов. Как не упустить его в условиях слабого законодательства и не повторить незавидную участь наших южных городов на материке.",
+        "en": "A unique chance in the development & construction of Crimean cities. How not to miss this opportunity with weak legislative conditions and not repeat the unenviable fate of the southern cities of the mainland."
+      },
+      "photo": "lozinskiy.jpg"
+    },
+    {
+      "name": {
         "ru": "Елена Пономаренко",
         "en": "Elena Ponomarenko"
       },
@@ -403,21 +433,6 @@
         "en": "New landscaping project trends and residential interior infrastructure in Simferopol projects"
       },
       "photo": "izotova.jpg"
-    },
-    {
-      "name": {
-        "ru": "Игорь Лозинский",
-        "en": "Igor Lozinskiy"
-      },
-      "country": {
-        "ru": "Архитектор, руководитель компании 'Творческая мастерская Лозинский и партнеры'",
-        "en": "Architect & Head of the 'Lozinskiy & Partners Creative Workshop'"
-      },
-      "theme": {
-        "ru": "Уникальный шанс в развитии застройки  Крымских городов. Как не упустить его в условиях слабого законодательства и не повторить незавидную участь наших южных городов на материке.",
-        "en": "A unique chance in the development & construction of Crimean cities. How not to miss this opportunity with weak legislative conditions and not repeat the unenviable fate of the southern cities of the mainland."
-      },
-      "photo": "lozinskiy.jpg"
     }
   ],
   "ccPartners": {
