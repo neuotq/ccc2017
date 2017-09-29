@@ -103,22 +103,28 @@
 	
 		<div class="container">
 		<h4 class="cc-h4-solid cc-darkbluegrad"><span class="">29 {{ tr(october, lang) }}: </span>{{ tr(ccForeign, lang) }}</h4>
-			<div class="cc-card">
+			<div class="cc-card  speaker_container">
 
 				<div class="col-md-12"><p>{{ tr(ccForeignBody, lang) }}</p></div>
 				<div class="container">
-				<div class="row">
+				
 				{% for p in expert %}				
-				<div class="col-md-6 cc-speakerbx">
+				<div class="cc-speakerbx">
 					<div class="cc-speaker">
-						<img src="/images/{{p.photo}}" class="img-fluid" alt="">
-						<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
-						<h6 class="cc-h6">{{ tr(p.country, lang)}}</h6>
-						<p class="cc-small"><b>{{ tr(theme, lang)}}</b> {{ tr(p.theme, lang)}}</p>
+						<div class="row">
+							<div class="col-2">
+							<img src="/images/{{p.photo}}" class="img-fluid" alt="">
+							</div>
+							<div class="col-10">
+							<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
+							<h6 class="cc-h6">{{ tr(p.country, lang)}}</h6>
+							<p class="cc-small"><b>{{ tr(theme, lang)}}</b> {{ tr(p.theme, lang)}}</p>
+							</div>
+						</div>
 					</div>
 				</div>
 				{% endfor %}
-				</div>
+				
 				</div>
 			</div>			
 		</div>

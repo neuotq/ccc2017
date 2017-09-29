@@ -92,23 +92,28 @@
   margin: 15px 0;
 }
 
+.speaker_container {
+	padding-bottom: 15px;
+}
+
 .cc-speaker {
 	
 	.cc-small {
-		font-size: 1rem;
+		font-size: 1.1rem;
 	}
 
 
-	background-color: #21235c;
-	padding: 1rem;
-    height: 100%;
+	background-color: rgba(255, 255, 255, 0.4);
+	padding: 1rem;    
+    border-bottom: 1px solid #f4ba38;
 
     box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.1);
-	> * {color: #fff !important}
+	> * {color: #000 !important}
 	h4, h6 {text-align: center;}
 	h4 {font-size: 1.2rem !important}
-  img {
-    margin-bottom: 0.5rem;
+  img {    
     width: 100%;
+    border-radius: 50%;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.67);
   }
 }
