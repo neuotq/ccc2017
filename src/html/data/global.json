@@ -327,24 +327,24 @@
     },
     {
       "content": {
-        "ru": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!",
-        "en": "‘Domostroy 2000’ Ltd. efficiently masters a variety of construction technologies. Their advantage is the offering of high-quality of services and completion of that work or projects in short period of time!"
-      },
-      "name": {
-        "ru": "ООО «Домострой 2000»",
-        "en": "‘Domostroy 2000’ Ltd."
-      },
-      "link": "",
-      "img": ""
-    },
-    {
-      "content": {
         "ru": "«Межозёрье» – это проект развития туристско-рекреационного кластера, расположенного на территории Феодосийского городского округа. Проект состоит из комплекса различных функциональных элементов, совмещающих в себе всю необходимую для востановительно-оздоровительного отдыха инфраструктуру. Объем инвестиций: 22 174 млн.руб.",
         "en": "“Mezhozerye” is a development project being built as a tourist and recreational cluster located on the territory of the Crimean city of Feodosiya. The project consists of a complex of various functional elements that combine all the necessary recreational and holiday infrastructure. Investment volume: 22 174 million Rubles."
       },
       "name": {
         "ru": "«Холдинг Партнер»",
         "en": "‘Holding Partner’"
+      },
+      "link": "",
+      "img": "/images/partner-holding.png"
+    },
+    {
+      "content": {
+        "ru": "ООО «Домострой 2000» - В совершенстве владеем всеми строительными технологиями. Нашим преимуществом является качественное оказание услуг в короткие сроки!",
+        "en": "‘Domostroy 2000’ Ltd. efficiently masters a variety of construction technologies. Their advantage is the offering of high-quality of services and completion of that work or projects in short period of time!"
+      },
+      "name": {
+        "ru": "ООО «Домострой 2000»",
+        "en": "‘Domostroy 2000’ Ltd."
       },
       "link": "",
       "img": ""
@@ -355,7 +355,7 @@
     "en": "Expert Speakers"
   },
   "ccForeignBody": {
-    "ru": "Секция экспертов проходит в зале «Business Contact Center», где состоятся выступления представителей стройиндустрии, архитекторов и инвесторов из различных стран.",
+    "ru": "Секция экспертов проходит в зале «Business Contact Center», где состоятся выступления/круглый стол представителей стройиндустрии, архитекторов и инвесторов из различных стран.",
     "en": "The experts section is held in the ‘Business Contact Center’ hall, where representatives of the construction industry, architects and investors  from various countries will take part."
   },
   "expert": [
