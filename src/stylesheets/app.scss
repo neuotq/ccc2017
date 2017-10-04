@@ -208,3 +208,32 @@
     display: none;
   }
 }
+
+
+.fb-page.fb_iframe_widget {
+
+width: 100%;
+
+span {
+  width: 100%!important;
+
+  iframe {
+  width: 100%!important;  
+  
+  html {
+    #u_0_0 > div:nth-child(1) > div {
+    width: 100%;
+    }  
+  }
+
+
+  }
+}
+ 
+
+
+
+
+
+}
+

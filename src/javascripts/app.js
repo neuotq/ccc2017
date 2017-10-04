@@ -95,4 +95,10 @@ $('#carousel-testimonials .carousel-item').each(function() {
     }
 });
 $('.cc-testimonialsbox').height(maxHeight);
+
 });
+
+
+$("iframe").contents().find("#u_0_0 > div:nth-child(1) > div").css("width", "100%");
+
+
