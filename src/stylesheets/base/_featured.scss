@@ -123,16 +123,27 @@
 	}
 
 	.featured-airport-box {
-		padding: 5rem 0 7rem 0;
+		padding: 5rem 0 25rem 0;
 		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat center center;
+		width: 80%;
+    	margin: 0 auto;
+    	margin-bottom: 2rem;
+    	box-shadow: 2px 2px 30px black;
 
 		@include media-breakpoint-down(sm) {
 			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat;    	
 			background-size: cover;
     		background-position: bottom;
+    		text-align: center;
 		}	
     	
-
+		img {
+			max-width: 100%;
+			@include media-breakpoint-down(sm) { 
+			max-width: 75%;
+			margin: 0 auto;
+			}
+		}
     	.featured-title {
 		color: #fff;
 		text-shadow: 1px 1px 1px #000;
@@ -142,33 +153,20 @@
 
 		.featured-airport-item {
 		padding: 1.2rem;
-		color: #fff;
-		text-shadow: 1px 1px 3px #000;
+		color: #000;		
 		position: relative;
-		height: 100%;
-		border: 1px solid #fff;
-		overflow: hidden;
-		display: flex;
-		flex-direction: column;
+		height: 100%;		
+		overflow: hidden;		
 		justify-content: center;
-		font-size: 1.2rem;		
-		div {
-			position: relative;
-			text-align: center;			
+		font-size: 2.5rem;
+		line-height: 0.95em;
+		font-family: 'solomon_sans_bookregular';
+		text-transform: uppercase;
+		@include media-breakpoint-down(sm) { 
+			font-size: 1.9rem;
+			text-align: center;
 		}
-		&:before {
-			display: block;
-			position: absolute;
-			content: ' ';
-			top: -3px;
-			left: -3px;
-			right: -3px;
-			bottom: -3px;
-			filter: blur(5px);
-			background:  rgba(0, 0, 0, 0.4);
-    		background-size: auto;
-    		background-repeat: repeat-y;
-			}
+
 		}
 	}
 

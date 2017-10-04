@@ -5,18 +5,20 @@
 
 
 <div class="featured-airport-box">
-	<div class="container">
+<!-- 	<div class="container">
 		<h2 class="featured-title">{{ tr(feature_airport_title, lang) }}</h2>
-	</div>
+	</div> -->
 	<div class="container">
 		<div class="row">
-		{% for f in feature_airport %}
-		<div class="col-md-4 mb-4">
+
+		<div class="col-md-4">
+			<img src="/images/sipaero.png" alt="">
+		</div>
+		<div class="col-md-8">
 			<div class="featured-airport-item">
-				<div>{{ tr(f, lang) }}</div>
+				{{ tr(feature_airport, lang) }}
 			</div>
 		</div>
-		{% endfor %}
 	</div>
 	</div>
 </div>

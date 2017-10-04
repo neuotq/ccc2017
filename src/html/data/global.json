@@ -845,32 +845,11 @@
     "ru" : "Международный Aэропорт Симферополь"
   }
   ,
-   "feature_airport": [
+   "feature_airport": 
     {
-    "ru" : "Площадь застройки:<br>496 000 кв.м",
-    "en" : "Construction area:<br>496,000 square metres"
+    "ru" : "Презентация нового терминала и гостиницы в аэропорту. Проект обновления существующего терминала",
+    "en" : "Installation & presentation of new air terminal, airport hotel & renovation of existing air terminal"
     },
-    {
-    "ru" : "Площадь зданий:<br>101 000 кв.м",
-    "en" : "Area of buildings:<br>101,000 square metres"
-    },
-    {
-    "ru" : "Инвестиции в проект:<br>32 млрд.р.",
-    "en" : "Project investment:<br>32 Billion Rubles"
-    },
-    {
-    "ru" : "Объем монолитных конструкций:<br>108 000 куб.м",
-    "en" : "Volume of monolithic structures:<br>108,000 cubic metres"
-    },
-    {
-    "ru" : "Объем металло- конструкций:<br>6 500 т.",
-    "en" : "Volume of metal constructions:<br>6,500 tons"
-    },
-    {
-    "ru" : "Площадь фасадных конструкций:<br>75 000 кв.м",
-    "en" : "Area of facade structures:<br>75,000 square metres"
-    }
-   ],
 
     "feature_markhi_title": {
     "en" : "Moscow Architectural Institute",
