@@ -124,10 +124,7 @@
 
 	.featured-airport-box {
 		padding: 5rem 0 25rem 0;
-		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat center center;
-		width: 80%;
-    	margin: 0 auto;
-    	margin-bottom: 2rem;
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat center center;		
     	box-shadow: 2px 2px 30px black;
 
 		@include media-breakpoint-down(sm) {
