@@ -124,10 +124,10 @@
 
 	.featured-airport-box {
 		padding: 5rem 0 7rem 0;
-		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero_presentation.jpg) no-repeat center center;
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat center center;
 
 		@include media-breakpoint-down(sm) {
-			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero_presentation.jpg) no-repeat;    	
+			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat;    	
 			background-size: cover;
     		background-position: bottom;
 		}	

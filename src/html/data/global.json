@@ -170,6 +170,21 @@
         "en": "Director of Marketing and Sales of GC 'Greenwood'"
       },
       "photo": "/images/izotova2.jpg"
+    },
+     {
+      "name": {
+        "ru": "Юлия Смирнова",
+        "en": "Yuliya Smirnova"
+      },
+      "theme": {
+        "ru": "Тема: <b>Новые проекты в жилищном строительстве.</b>",
+        "en": "Theme: <b>New residential construction projects.</b>"
+      },
+      "position": {
+        "ru": "Генеральный директор ООО 'Ривьева'",
+        "en": "General Director of 'Riviera' LLC"
+      },
+      "photo": "/images/smirnovajf.jpg"
     }
 
   ],
