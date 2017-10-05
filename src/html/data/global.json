@@ -185,6 +185,21 @@
         "en": "General Director of 'Riviera' LLC"
       },
       "photo": "/images/smirnovajf.jpg"
+    },
+     {
+      "name": {
+        "ru": "Сергей Дяйкин",
+        "en": "Sergey Dyaykin"
+      },
+      "theme": {
+        "ru": "Тема: <b>Новые проекты ООО «МЕЖДУНАРОДНЫЙ АЭРОПОРТ «СИМФЕРОПОЛЬ».</b>",
+        "en": "Theme: <b>New projects & developments at Simferopol International Airport.</b>"
+      },
+      "position": {
+        "ru": "Коммерческий Директор ООО «МЕЖДУНАРОДНЫЙ АЭРОПОРТ «СИМФЕРОПОЛЬ»",
+        "en": "Commercial Director at Simferopol International Airport Ltd."
+      },
+      "photo": "/images/businessman.png"
     }
 
   ],
@@ -857,8 +872,8 @@
     },
 
     "feature_markhi_description": {
-    "en" : "The Moscow Architectural Institute (MARKHI) – State Academy has 250-year history and has always been the leading architectural institution in the country. During the past several decades MARKHI has trained highly qualified specialists for architectural schools in Russia as well as for other schools of post-Soviet states. MARKHI maintains contacts with numerous architectural and art institutes abroad.",
-    "ru" : "Московский архитектурный институт (МАРХИ) - государственная академия, имеет 250-летнюю историю и всегда был ведущим архитектурным заведением в стране. В течение последних нескольких десятилетий МАРХИ подготовил высококвалифицированных специалистов для архитектурных школ в России, а также для других школ постсоветских государств. МАРХИ поддерживает контакты с многочисленными архитектурными и художественными институтами за рубежом."
+    "en" : "Round table with professors & architects from the Moscow Architectural Institute (MARHI)",
+    "ru" : "Круглый стол с профессорами и архитекторами из Московского архитектурного института (МАРХИ)"
     },
 
     "feature_mezhozer_title": {
@@ -867,8 +882,8 @@
     },
 
     "feature_mezhozer_description": {
-    "en" : "“Mezhozyorye” is a project for the development of a recreational tourist cluster located with the city limits of the district of Feodosiya. The project consists of a complex of various functional elements that combine all the infrastructure necessary for recreation and relaxation.",
-    "ru" : "«Межозёрье» – это проект развития туристско-рекреационного кластера, расположенного на территории Феодосийского городского округа. Проект состоит из комплекса различных функциональных элементов, совмещающих в себе всю необходимую для востановительно-оздоровительного отдыха инфраструктуру."
+    "en" : "Presentation of project for the development of a recreational tourist cluster 'Mezhozerye'.",
+    "ru" : "Презентация проекта развития туристско-рекреационного кластера 'Межозерье'."
     },
 
     "feature_mezhozer_list": {

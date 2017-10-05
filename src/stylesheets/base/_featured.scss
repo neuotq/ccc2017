@@ -14,6 +14,11 @@
 
 .cc-section.featured-section {
 	padding-bottom: 8rem;
+	
+	.cc-h2 {
+		font-weight: bold;
+
+	}
 
 	.featured-title {	
     text-transform: uppercase;
@@ -21,14 +26,44 @@
 	}
 
 
+.carousel-features {
+	width: 80%;
+	margin: 0 auto;
+	box-shadow: 2px 2px 30px black;
+	border-radius: 5px;
+	.carousel-inner {
+
+	}	
+}
+
+.featured-box {
+	border-radius: 5px;
+	padding-top: 5rem;
+	height: 650px;
+	margin: 0 auto;
+	width: 80%;
+	margin: 0 auto;
+	box-shadow: 2px 2px 30px black;
+	border-radius: 5px;
+	margin-bottom: 3rem;
+}
 
 	.featured-mezhozer-box {
-
+	background-image:  linear-gradient(to right bottom, rgba(22, 122, 198, 0.6) 0%, rgba(255, 255, 255, 0.8) 30%, rgba(255, 193, 7, 0.4) 100%), url(/images/mezhozer.jpg);
+	background-size: cover;
+	background-position: center;
+	font-size: 2.5rem;
+			line-height: 0.95em;
+			font-family: 'solomon_sans_bookregular';
+			text-transform: uppercase;
+			@include media-breakpoint-down(sm) { 
+				font-size: 1.9rem;
+				text-align: center;
+			}
 		.feature_mezhozer_description_img {
 			box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
-			background-image:  url(/images/mezhozer.jpg);
-			background-size: cover;
-			background-position: center;
+			
+			
 			display: flex;
 			justify-content: flex-end;
 			align-items: center;
@@ -52,7 +87,7 @@
 
 		.feature_mezhozer_description_text {
 			box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
-			background-image:  linear-gradient(to right top, rgba(22, 122, 198, 0.65) 0%, rgba(255, 193, 7, 0.65) 100%), url(/images/mezhozer2.jpg);
+			background-image:  linear-gradient(to right bottom, rgba(22, 122, 198, 0.6) 0%, rgba(255, 255, 255, 0.8) 30%, rgba(255, 193, 7, 0.4) 100%),  url(/images/mezhozer2.jpg);
 			background-size: cover;
 			background-position: center;
 			padding: 3rem 0;
@@ -72,12 +107,12 @@
 	}
 
 
-	.featured-markhi-box {
-		padding: 5rem 0 7rem 0;
-		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat center center;
-		    box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
+	.featured-markhi-box {		
+		background:  linear-gradient(to right bottom, rgba(22, 122, 198, 0.6) 0%, rgba(255, 255, 255, 0.8) 30%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat center center;	
+		
+    	
 		@include media-breakpoint-down(sm) {
-			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat;    	
+			background:  linear-gradient(to left top, rgba(22, 122, 198, 0.6) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat;    	
 			background-size: cover;
     		background-position: bottom;
 		}	
@@ -107,26 +142,25 @@
 
 		.feature_markhi_description_text {
 			padding: 1.2rem;			
-			color: #2f2e2d;			
-			position: relative;
-			height: 100%;
-			border: 1px solid #fff;
-			overflow: hidden;
-			display: flex;
-			flex-direction: column;
+			color: #2f2e2d;
 			justify-content: center;
-			font-size: 1rem;
-			background-color: #fff;
-			box-shadow: 0 2px 20px rgba(25,25,25,.84);
+			font-size: 1rem;						
+			font-size: 2.5rem;
+			line-height: 0.95em;
+			font-family: 'solomon_sans_bookregular';
+			text-transform: uppercase;
+			@include media-breakpoint-down(sm) { 
+				font-size: 1.9rem;
+				text-align: center;
+			}
 		}
 
 	}
 
 	.featured-airport-box {
-		padding: 5rem 0 25rem 0;
-		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat center center;		
-    	box-shadow: 2px 2px 30px black;
-
+		
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat center center;		    	
+		
 		@include media-breakpoint-down(sm) {
 			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/sipaero.jpg) no-repeat;    	
 			background-size: cover;
