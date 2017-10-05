@@ -46,10 +46,15 @@
 	box-shadow: 2px 2px 30px black;
 	border-radius: 5px;
 	margin-bottom: 3rem;
+	span {
+		background-color: #fff;
+	    line-height: 3rem;
+	    height: 1em;
+	}
 }
 
 	.featured-mezhozer-box {
-	background-image:  linear-gradient(to right bottom, rgba(22, 122, 198, 0.6) 0%, rgba(255, 255, 255, 0.8) 30%, rgba(255, 193, 7, 0.4) 100%), url(/images/mezhozer.jpg);
+	background-image:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),  url(/images/mezhozer.jpg);
 	background-size: cover;
 	background-position: center;
 	font-size: 2.5rem;
@@ -87,7 +92,7 @@
 
 		.feature_mezhozer_description_text {
 			box-shadow: inset 0px 4px 16px rgba(25, 25, 25, 0.84);
-			background-image:  linear-gradient(to right bottom, rgba(22, 122, 198, 0.6) 0%, rgba(255, 255, 255, 0.8) 30%, rgba(255, 193, 7, 0.4) 100%),  url(/images/mezhozer2.jpg);
+			background-image:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),   url(/images/mezhozer2.jpg);
 			background-size: cover;
 			background-position: center;
 			padding: 3rem 0;
@@ -108,11 +113,11 @@
 
 
 	.featured-markhi-box {		
-		background:  linear-gradient(to right bottom, rgba(22, 122, 198, 0.6) 0%, rgba(255, 255, 255, 0.8) 30%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat center center;	
+		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),  url(/images/markhi_taldom_gold.jpg) no-repeat center center;	
 		
     	
 		@include media-breakpoint-down(sm) {
-			background:  linear-gradient(to left top, rgba(22, 122, 198, 0.6) 0%, rgba(255, 193, 7, 0.4) 100%), url(/images/markhi_taldom_gold.jpg) no-repeat;    	
+			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),  url(/images/markhi_taldom_gold.jpg) no-repeat;    	
 			background-size: cover;
     		background-position: bottom;
 		}	
