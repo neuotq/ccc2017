@@ -203,8 +203,8 @@
     },
     {
       "name": {
-        "ru": "Олег Чубарёв",
-        "en": "Oleg Chubaryov"
+        "ru": "Олег Чубарев",
+        "en": "Oleg Chubaryev"
       },
       "theme": {
         "ru": "Тема: <b>Новые проекты ГК «Перспектива».</b>",
@@ -212,8 +212,8 @@
       }
       ,
       "position": {
-        "ru": "ГК «Перспектива»",
-        "en": "Group of Companies 'Perspektiva'"
+        "ru": "Представитель ГК «Перспектива»",
+        "en": "Group of Companies 'Perspektiva' spokesman"
       },
       "photo": "/images/perspektiva_speaker.jpg"
     }
@@ -222,6 +222,36 @@
   ],
   "govSpeakersThemes": [
 
+    {
+      "name": {
+        "ru": "Мельников А.Г.",
+        "en": "Andrey Melnikov"
+      },
+      "theme": {
+        "ru": "",
+        "en": ""
+      },
+      "position": {
+        "ru": "Министр экономического развития Республики Крым",
+        "en": "Minister of Economic Development of the Republic of Crimea "
+      },
+      "photo": "/images/melnikov.jpg"
+    },
+     {
+      "name": {
+        "ru": "Бабашов Л.И.",
+        "en": "Leonid Babashov"
+      },
+      "theme": {
+        "ru": "",
+        "en": ""
+      },
+      "position": {
+        "ru": "Председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству",
+        "en": "Chairman of the Committee of the Civil Service for Construction, Housing and Communal Services of the Republic of Crimea"
+      },
+      "photo": "/images/babashov.jpg"
+    },
     {
       "name": {
         "ru": "Моор А. М.",
@@ -236,12 +266,28 @@
         "en": "Head of the Russian Center for National Construction Policy"
       },
       "photo": "/images/moor.jpg"
+    },
+     {
+      "name": {
+        "ru": "Ясинский В.Б.",
+        "en": "Vladimir Yasinskiy"
+      },
+      "theme": {
+        "ru": "",
+        "en": ""
+      },
+      "position": {
+        "ru": "Депутат Государственного Совета Рреспублики Крым",
+        "en": "Deputy of the State Council of the Republic of Crimea"
+      },
+      "photo": "/images/yasinskiy.jpg"
     }
+     
   ],
 
   "govSpeakers": {
-    "ru": "<p>Примут участие:</p> <ul> <li>председатель Комитета ГС РК по строительству и жилищно-коммунальному хозяйству <b>Л.И. Бабашов</b></li> <li>Министр экономического развития Республики Крым <b>Мельников А.Г.</b></li> <li>депутат ГС РК <b>Ясинский В.Б.</b></li> </ul>",
-    "en": "<p>Confirmed Participants:</p> <ul> <li>Chairman of the Committee of the Civil Service for Construction, Housing and Communal Services of the Republic of Crimea — <b>Leonid Babashov</b></li> <li>Minister of Economic Development of the Republic of Crimea — <b>Andrey Melnikov</b></li> <li>Deputy of the State Council of the Republic of Crimea — <b>Vladimir Yasinskiy</b></li></ul>"
+    "ru": "<p>Примут участие:</p>",
+    "en": "<p>Confirmed Participants:</p>"
   },
   "busContExcH": {
     "ru": "Биржа деловых контактов",
@@ -311,19 +357,7 @@
       },
       "link": "https://parangon.org",
       "img": "/images/parangon.png"
-    },
-    {
-      "content": {
-        "ru": "Трест «Липецкстрой» основан в 1931 году.Трест «Липецкстрой» — одна из крупнейших строительных компаний Липецкой области. Основатель строительного бизнеса региона. Работает в сфере строительства более 80 лет.",
-        "en": "Lipetskstroy’ group of companies was founded in 1931 and is one of the largest construction companies in the Lipetsk region. The founder of the construction business of the region. The group of companies has been operating in the construction industry for more than 80 years."
-      },
-      "name": {
-        "ru": "«Липецкстрой»",
-        "en": "‘Lipetskstroy’"
-      },
-      "link": "https://www.lipetskstroy.ru/",
-      "img": "/images/lipetskstroy.png"
-    },
+    },    
      {
       "content": {
         "ru": "Компания «Севастопольстрой» объединяет двух крупнейших застройщиков Севастополя - ООО «Севастопольстрой» и ООО «Севжилстрой», лидеров на рынке недвижимости Севастополя и Крыма с 1944 года.",
