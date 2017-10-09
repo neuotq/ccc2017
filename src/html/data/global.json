@@ -369,19 +369,7 @@
       },
       "link": "https://sevastopolstroy.ru/",
       "img": "/images/sevastopolstroy.png"
-    },
-    // {
-    //   "content": {
-    //     "ru": "Инвестиционно-девелоперская компания «РИВЬЕРА ДЕВЕЛОПМЕНТ» начала свою деятельность в 2012 году с идеи создания нового строительного проекта. Этим первым проектом впоследствии стал Клубный Дом «Воронцовский», который был сдан в эксплуатацию в конце 2013 года.",
-    //     "en": "Investment & development company ‘Riviera Development’ launched its activity in 2012 with the idea of creating modern construction projects. Their first completed development was the ‘Vorontsovsky Club Residence’, which was commissioned in late 2013."
-    //   },
-    //   "name": {
-    //     "ru": "«РИВЬЕРА ДЕВЕЛОПМЕНТ»",
-    //     "en": "‘Riviera Development’"
-    //   },
-    //   "link": "http://riviera-development.ru/",
-    //   "img": "/images/rivera-dev.png"
-    // },
+    },   
     {
       "content": {
         "ru": "Группа компаний «Гринвуд» — это финансово-строительный холдинг, основной деятельностью которого является реализация проектов в сфере жилой недвижимости. Мы умеем проектировать, строить,  управлять и продавать.",
