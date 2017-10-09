@@ -370,18 +370,18 @@
       "link": "https://sevastopolstroy.ru/",
       "img": "/images/sevastopolstroy.png"
     },
-    {
-      "content": {
-        "ru": "Инвестиционно-девелоперская компания «РИВЬЕРА ДЕВЕЛОПМЕНТ» начала свою деятельность в 2012 году с идеи создания нового строительного проекта. Этим первым проектом впоследствии стал Клубный Дом «Воронцовский», который был сдан в эксплуатацию в конце 2013 года.",
-        "en": "Investment & development company ‘Riviera Development’ launched its activity in 2012 with the idea of creating modern construction projects. Their first completed development was the ‘Vorontsovsky Club Residence’, which was commissioned in late 2013."
-      },
-      "name": {
-        "ru": "«РИВЬЕРА ДЕВЕЛОПМЕНТ»",
-        "en": "‘Riviera Development’"
-      },
-      "link": "http://riviera-development.ru/",
-      "img": "/images/rivera-dev.png"
-    },
+    // {
+    //   "content": {
+    //     "ru": "Инвестиционно-девелоперская компания «РИВЬЕРА ДЕВЕЛОПМЕНТ» начала свою деятельность в 2012 году с идеи создания нового строительного проекта. Этим первым проектом впоследствии стал Клубный Дом «Воронцовский», который был сдан в эксплуатацию в конце 2013 года.",
+    //     "en": "Investment & development company ‘Riviera Development’ launched its activity in 2012 with the idea of creating modern construction projects. Their first completed development was the ‘Vorontsovsky Club Residence’, which was commissioned in late 2013."
+    //   },
+    //   "name": {
+    //     "ru": "«РИВЬЕРА ДЕВЕЛОПМЕНТ»",
+    //     "en": "‘Riviera Development’"
+    //   },
+    //   "link": "http://riviera-development.ru/",
+    //   "img": "/images/rivera-dev.png"
+    // },
     {
       "content": {
         "ru": "Группа компаний «Гринвуд» — это финансово-строительный холдинг, основной деятельностью которого является реализация проектов в сфере жилой недвижимости. Мы умеем проектировать, строить,  управлять и продавать.",
@@ -396,8 +396,8 @@
     },
      {
       "content": {
-        "ru": "Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
-        "en": "The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
+        "ru": "<b>ГУП РК «Центр комплексного снабжения строительных объектов».</b> Целью деятельности Предприятия является: налаживание надежной и непрерывной организации поставки, через порты и железнодорожные станции Крыма строительных материалов, бесперебойного обеспечения федеральных целевых и адресных программ, функционирования строительных организаций, поддержание на нормативном уровне запасов материальных ресурсов (строительных материалов и оборудования) на складе, уменьшение общей стоимости с сохранением должного уровня качества, количества, условий доставки и системы оплаты материалов.",
+        "en": "<b>State Unitary Enterprise 'Center for Complex Supply of Construction Facilities'.</b> The primary goal of the enterprise is to establish the reliable organization and supply of construction materials through the ports and railway stations of Crimea, the uninterrupted provision of specific federal target programs, the functioning of construction organizations, the maintenance of material resources stock (building materials and equipment) at a standard pricing levels, while maintaining the proper level of quality, quantity, terms of delivery and payment system for materials."
       },
       "name": {
         "ru": "ГУП РК «Центр комплексного снабжения строительных объектов»",
