@@ -200,7 +200,24 @@
         "en": "Commercial Director at Simferopol International Airport Ltd."
       },
       "photo": "/images/aerospeaker.jpg"
+    },
+    {
+      "name": {
+        "ru": "Олег Чубарёв",
+        "en": "Oleg Chubaryov"
+      },
+      "theme": {
+        "ru": "Тема: <b>Новые проекты ГК «Перспектива».</b>",
+        "en": "Theme: <b>New projects & developments at Group of Companies 'Perspektiva'.</b>"
+      }
+      ,
+      "position": {
+        "ru": "ГК «Перспектива»",
+        "en": "Group of Companies 'Perspektiva'"
+      },
+      "photo": "/images/perspektiva_speaker.jpg"
     }
+
 
   ],
   "govSpeakersThemes": [
