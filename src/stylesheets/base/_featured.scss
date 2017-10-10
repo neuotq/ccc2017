@@ -25,7 +25,7 @@
     text-align: center;	
 	}
 
-
+}
 .carousel-features {
 	width: 80%;
 	margin: 0 auto;
@@ -46,12 +46,37 @@
 	box-shadow: 0 15px 20px rgba(13, 13, 38, 0.5);
 	border-radius: 5px;
 	margin-bottom: 3rem;
+	.featured-title {
+				color: #fff;
+				text-shadow: 1px 1px 2px #000;
+				padding: 1rem 1.5rem;
+				border: 1px solid #fff;
+				margin: 0;
+				background-color: rgba(0, 0, 0, 0.4);
+			}
 	span {
 		background-color: #fff;
 	    line-height: 3rem;
 	    height: 1em;
 	}
 }
+
+.featured-most-box {
+	background-image: url(/images/most_bg.jpg);
+	background-size: cover;
+	background-position: center;
+	font-size: 2.5rem;
+			line-height: 0.95em;
+			font-family: 'solomon_sans_bookregular';
+			text-transform: uppercase;
+			@include media-breakpoint-down(sm) { 
+				font-size: 1.9rem;
+				text-align: center;
+			}
+
+}
+
+
 
 	.featured-mezhozer-box {
 	background-image:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),  url(/images/mezhozer.jpg);
@@ -114,7 +139,9 @@
 
 	.featured-markhi-box {		
 		background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),  url(/images/markhi_taldom_gold.jpg) no-repeat center center;	
-		
+		width: 100%;
+		height: auto;
+		padding: 2rem 0;
     	
 		@include media-breakpoint-down(sm) {
 			background:  linear-gradient(to left bottom, rgba(22, 122, 198, 0.4) 0%, rgba(255, 193, 7, 0.4) 100%),  url(/images/markhi_taldom_gold.jpg) no-repeat;    	
@@ -212,7 +239,3 @@
 
 
 
-
-
-	
-}

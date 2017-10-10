@@ -79,3 +79,26 @@
    
     .partners-container & {margin: 0; top: -2rem;}
 }
+
+.mediapartnerscar {
+    
+    .carousel-control-next {
+        right: -15%;
+    }
+
+    .carousel-control-prev {
+        left: -15%;
+    }
+
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        height: 3rem;
+        width: 3rem;
+    }
+    .carousel-control-next-icon {
+        background-image: url(https://image.flaticon.com/icons/svg/25/25638.svg);
+    }
+
+    .carousel-control-prev-icon {
+        background-image: url(https://image.flaticon.com/icons/svg/25/25322.svg);
+    }
+}

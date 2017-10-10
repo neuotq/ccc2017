@@ -63,6 +63,11 @@
     "ru": "Тема:",
     "en": "Theme:"
   },
+  "btn_showcollapse": 
+    {
+    "ru" : "Показать подробнее",
+    "en" : "Show more"
+    },
   "visitors_h": {
     "ru": "Целевая аудитория",
     "en": "Visitors"
@@ -232,6 +237,22 @@
         "en": "Председатель межрегиональной общественной организации 'Ассоциация предпринимателей республики Крым и города Севастополь', генеральный директора ООО 'Молодежный Жилищный Комплекс- Строй Крым'"
       },
       "photo": "/images/hut.jpg"
+    },
+    {
+      "name": {
+        "ru": "Виктория Буравская",
+        "en": "Виктория Буравская"
+      },
+      "theme": {
+        "ru": "Тема: <b>Проекты компании OOO 'ДОМОСТРОЙ 2000'.</b>",
+        "en": "Тема: <b>Проекты компании OOO 'ДОМОСТРОЙ 2000'.</b>"
+      }
+      ,
+      "position": {
+        "ru": "Генеральный директор OOO 'ДОМОСТРОЙ 2000'",
+        "en": "Генеральный директор OOO 'ДОМОСТРОЙ 2000'"
+      },
+      "photo": "/images/woman.png"
     }
 
 
@@ -963,8 +984,14 @@
   ,
    "feature_airport": 
     {
-    "ru" : "Презентация нового терминала и гостиницы в аэропорту. Проект обновления существующего терминала",
-    "en" : "Installation & presentation of new air terminal, airport hotel & renovation of existing air terminal"
+    "ru" : "Презентация нового терминала и бизнес-центра в аэропорту. Проект обновления существующего терминала",
+    "en" : "Installation & presentation of new air terminal, business center & renovation of existing air terminal"
+    },
+
+    "feature_most": 
+    {
+    "ru" : "Презентация моста через керченский пролив",
+    "en" : "Installation & presentation of Kerch Strait Bridge"
     },
 
     "feature_markhi_title": {

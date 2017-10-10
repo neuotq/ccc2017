@@ -24,41 +24,46 @@
 	            <ul>
 	                {{ tr(devSectionBody, lang) }}
 	            </ul>
-	            {% for p in stroySpeakersThemes %}
-				<div class="cc-card gov-speakers">
-					<div class="row">
-						<div class="col-2">
-						<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
-						</div>
-						<div class="col-10">
-							<h3>{{ tr(p.name, lang) }}</h3>
-							<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
-							<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
+	            <a class="btn btn-showcollapse" data-toggle="collapse" href="#stroySpeakersThemes" aria-expanded="false" aria-controls="stroySpeakersThemes">{{ tr(btn_showcollapse, lang) }}</a>
+		           <div class="collapse" id="stroySpeakersThemes">
+		            {% for p in stroySpeakersThemes %}
+					<div class="cc-card gov-speakers">
+						<div class="row">
+							<div class="col-2">
+							<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
+							</div>
+							<div class="col-10">
+								<h3>{{ tr(p.name, lang) }}</h3>
+								<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
+								<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
+							</div>
 						</div>
 					</div>
-				</div>
-				{% endfor %}
+					{% endfor %}
+					</div>
 	      		<h5 class="cc-h5">13:00 – 16:00</h5>          
 	      		<h4 class="cc-h4">{{ tr(govSectionH, lang) }}</h4>          
 
 	        	<ul>
 	        		{{ tr(govSectionBody, lang) }}
 	       		 </ul>
-					{{ tr(govSpeakers, lang) }}
-				{% for p in govSpeakersThemes %}
-				<div class="cc-card gov-speakers">
-					<div class="row">
-						<div class="col-2">
-						<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
-						</div>
-						<div class="col-10">
-							<h3>{{ tr(p.name, lang) }}</h3>
-							<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
-							<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
+	            <a class="btn btn-showcollapse" data-toggle="collapse" href="#govSpeakersThemes" aria-expanded="false" aria-controls="govSpeakersThemes">{{ tr(btn_showcollapse, lang) }}</a>
+				<div class="collapse" id="govSpeakersThemes">	
+					{% for p in govSpeakersThemes %}
+					<div class="cc-card gov-speakers">
+						<div class="row">
+							<div class="col-2">
+							<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
+							</div>
+							<div class="col-10">
+								<h3>{{ tr(p.name, lang) }}</h3>
+								<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
+								<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
+							</div>
 						</div>
 					</div>
+					{% endfor %}
 				</div>
-				{% endfor %}
 				</div>
 			</div>
 			</div>
@@ -103,6 +108,20 @@
 	
 		<div class="container">
 		<h4 class="cc-h4-solid cc-darkbluegrad"><span class="">29 {{ tr(october, lang) }}: </span>{{ tr(ccForeign, lang) }}</h4>
+		<div class="featured-markhi-box featured-box">	
+	<div class="container">		
+		<div class="feature_markhi_description">
+		<div class="row">			
+			<div class="col-md-8 feature_markhi_description_text">
+			 <span>{{ tr(feature_markhi_description, lang) }}</span>
+			</div>
+			<div class="col-md-4">
+				<img src="/images/logo-marchi.jpg" alt="">
+			</div>
+		</div>
+		</div>
+	</div>
+</div>
 			<div class="cc-card speaker_container">
 
 				<div class="col-md-12"><p>{{ tr(ccForeignBody, lang) }}</p></div>
