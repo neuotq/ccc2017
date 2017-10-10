@@ -649,6 +649,10 @@
     "ru": "Главный интернет партнер",
     "en": "Primary Internet Partner"
   },
+  "strategicPartner": {
+    "ru": "Стратегические партнёры",
+    "en": "Strategic Partners"
+  },
   "mediaPartners": {
     "ru": "Медиапартнеры",
     "en": "Media Partners"
