@@ -41,7 +41,7 @@
 					</div>
 					{% endfor %}
 					</div>
-	      		<h5 class="cc-h5">13:00 – 16:00</h5>          
+	      		<h5 class="cc-h5">13:00 – 15:00</h5>          
 	      		<h4 class="cc-h4">{{ tr(govSectionH, lang) }}</h4>          
 
 	        	<ul>
@@ -64,7 +64,33 @@
 					</div>
 					{% endfor %}
 				</div>
+				<h5 class="cc-h5">15:00 – 15:30</h5>          
+	      		<h4 class="cc-h4">{{ tr(memorandaSectionH, lang) }}</h4>  
+	      		<ul>
+	      			{{ tr(memorandaSectionBody, lang) }}
+	      		</ul>
+	      		<h5 class="cc-h5">15:30 – 17:00</h5>          
+	      		<h4 class="cc-h4">{{ tr(zhkhSectionH, lang) }}</h4>
+	            <a class="btn btn-showcollapse" data-toggle="collapse" href="#zhkhSpeakersThemes" aria-expanded="false" aria-controls="zhkhSpeakersThemes">{{ tr(btn_showcollapse, lang) }}</a>
+	             <div class="collapse" id="zhkhSpeakersThemes">
+		            {% for p in zhkhSpeakersThemes %}
+					<div class="cc-card gov-speakers">
+						<div class="row">
+							<div class="col-2">
+							<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
+							</div>
+							<div class="col-10">
+								<h3>{{ tr(p.name, lang) }}</h3>
+								<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
+								<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
+							</div>
+						</div>
+					</div>
+					{% endfor %}
+					</div>
 				</div>
+
+
 			</div>
 			</div>
 		
@@ -147,6 +173,34 @@
 				</div>
 			</div>			
 		</div>
+
+
+		<div class="container">
+		<h4 class="cc-h4-solid cc-darkbluegrad">{{ tr(ccVystUch, lang) }}</h4>
+		<div class="cc-card speaker_container">
+			{% for day in ccVystUchBody %}
+			<div class="mb-4">
+			<h4 class="cc-h4-solid cc-darkbluegrad"><span>{{ tr(day.name, lang) }}</span></h4>
+			<div class="container">
+			<div class="row">
+				{% for p in day.content %}				
+				<div class="cc-speakerbx col-6">
+					<span class="cc-time">{{ p.time }}</span>
+					<div class="cc-speaker">						
+						<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
+						<h6 class="cc-h6">{{ tr(p.speaker, lang)}}</h6>
+						<p class="cc-small"><b>{{ tr(theme, lang)}}</b> {{ tr(p.theme, lang)}}</p>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+			</div>
+			</div>
+				{% endfor %}
+		</div>	
+		</div>
+		
+		
 	
 </section>
 

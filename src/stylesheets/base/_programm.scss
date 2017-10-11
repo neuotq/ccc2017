@@ -99,17 +99,30 @@
 
 .cc-speakerbx {
   margin: 15px 0;
+  display: flex;
+  flex-direction: column;
 }
 
 .speaker_container {
 	padding-bottom: 15px;
 }
-
+.cc-time {
+		// position: absolute;
+		display: inline-block;
+		margin-bottom: 0.25em;
+		font-size: 1em;
+		font-weight: bold;
+		text-decoration: underline;
+	}
 .cc-speaker {
-	
+	height: 100%;
+	position: relative;
+
 	.cc-small {
 		font-size: 1.1rem;
 	}
+
+
 
 
 	background-color: rgba(255, 255, 255, 0.4);
