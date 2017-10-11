@@ -105,6 +105,7 @@
   "images/most_bg.jpg": "images/most_bg-2dabeb78fd.jpg",
   "images/most_bg2.jpg": "images/most_bg2-cb13d19fa0.jpg",
   "images/most_logo.png": "images/most_logo-716fa812b6.png",
+  "images/most_logo.svg": "images/most_logo-f6e7a578dd.svg",
   "images/mostpp.png": "images/mostpp-c0eb992faa.png",
   "images/murmansk_obl.svg": "images/murmansk_obl-f178c91947.svg",
   "images/nagaeva.jpg": "images/nagaeva-b6731ae513.jpg",
@@ -177,6 +178,6 @@
   "images/woman.png": "images/woman-37f72382a4.png",
   "images/yasinskiy.jpg": "images/yasinskiy-a0583bf4a4.jpg",
   "javascripts\\app.js": "javascripts\\app-97fc75572766e16f5757.js",
-  "stylesheets/app.css": "stylesheets/app-a9a43efaf7.css",
+  "stylesheets/app.css": "stylesheets/app-e09784cfec.css",
   "stylesheets/base/greetings.css": "stylesheets/base/greetings-8450ab9730.css"
 }
