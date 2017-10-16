@@ -29,10 +29,10 @@
 		            {% for p in stroySpeakersThemes %}
 					<div class="cc-card gov-speakers">
 						<div class="row">
-							<div class="col-2">
+							<div class="col-md-2">
 							<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
 							</div>
-							<div class="col-10">
+							<div class="col-md-10">
 								<h3>{{ tr(p.name, lang) }}</h3>
 								<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
 								<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
@@ -52,10 +52,10 @@
 					{% for p in govSpeakersThemes %}
 					<div class="cc-card gov-speakers">
 						<div class="row">
-							<div class="col-2">
+							<div class="col-md-2">
 							<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
 							</div>
-							<div class="col-10">
+							<div class="col-md-10">
 								<h3>{{ tr(p.name, lang) }}</h3>
 								<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
 								<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
@@ -76,10 +76,10 @@
 		            {% for p in zhkhSpeakersThemes %}
 					<div class="cc-card gov-speakers">
 						<div class="row">
-							<div class="col-2">
+							<div class="col-md-2">
 							<img src="{{p.photo}}" alt="" class="rounded-circle gov-speakeravatar">
 							</div>
-							<div class="col-10">
+							<div class="col-md-10">
 								<h3>{{ tr(p.name, lang) }}</h3>
 								<p class="gov-speaker-position">{{ tr(p.position, lang) }}</p>
 								<p class="gov-speaker-theme">{{ tr(p.theme, lang) }}</p>
@@ -108,12 +108,12 @@
 			            {% if p.img %}
 			            <div class="title-box">
 			            <div class="row">
-			            	<div class="col-4 minicards-logobx">
+			            	<div class="col-md-4 minicards-logobx">
 							<a href="{{p.link}}" target="_blank">
 			            		<img class="minicards-logo"  src="{{p.img}}">
 			            	</a>							
 			            	</div>
-			            	<div class="col-8 minicards-title"><p class="cc-small">{{ tr(p.content, lang) }}</p></div>
+			            	<div class="col-md-8 minicards-title"><p class="cc-small">{{ tr(p.content, lang) }}</p></div>
 			            </div>
 			            </div>
 			            {% else %}
@@ -187,7 +187,7 @@
 			<div class="container">
 			<div class="row">
 				{% for p in day.content %}				
-				<div class="cc-speakerbx col-6">
+				<div class="cc-speakerbx col-md-6">
 					<span class="cc-time">{{ p.time }}</span>
 					<div class="cc-speaker">						
 						<h4 class="cc-h7">{{ tr(p.name, lang) }}</h4>
