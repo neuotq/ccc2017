@@ -379,6 +379,21 @@
         "en": "Deputy of the State Council of the Republic of Crimea"
       },
       "photo": "/images/yasinskiy.jpg"
+    },
+     {
+      "name": {
+        "ru": "Викторов М. Ю.",
+        "en": "Mikhail Victorov"
+      },
+      "theme": {
+        "ru": "",
+        "en": ""
+      },
+      "position": {
+        "ru": "Президент  Национального объединения строителей НОСТРОЙ",
+        "en": "President of NOSTROY"
+      },
+      "photo": "/images/businessman.png"
     }
      
   ],
@@ -581,7 +596,7 @@
         "ru": "Круглый стол с профессорами и архитекторами из Московского архитектурного института (МАРХИ)",
         "en": "Round table with professors & architects from the Moscow Architectural Institute (MARHI)"
       },
-      "photo": "woman.png"
+      "photo": "malaya.jpg"
     },
     {
       "name": {
@@ -649,8 +664,8 @@
     "en": "Exponents Speakers"
   },
   "ccVystAbout": {
-    "ru": "Выступления экспонентов будут происходить в зале <b>Conference Center</b> (Павильон №2). Вход свободный, бесплатный билет можно <a class='buyticket' href='https://connectcrimea.timepad.ru/event/542545/'>получить здесь</a>.",
-    "en": "Выступления экспонентов будут происходить в зале <b>Conference Center</b> (Павильон №2). Вход свободный. бесплатный билет можно <a class='buyticket' href='https://connectcrimea.timepad.ru/event/542545/'>получить здесь</a>."
+    "ru": "Выступления экспонентов будут происходить в зале <b>'Conference Center'</b> (Павильон №2). Вход свободный, бесплатный билет можно <a class='buyticket' href='https://connectcrimea.timepad.ru/event/542545/'>получить здесь</a>.",
+    "en": "Exhibits will take place in the <b>'Conference Center'</b> (Pavilion No. 2). Admission is free, a free ticket can be <a class='buyticket' href='https://connectcrimea.timepad.ru/event/542545/'>obtained here</a>."
   },
   "ccVystUchBody": [
         {
@@ -1201,13 +1216,13 @@
    "feature_airport": 
     {
     "ru" : "Презентация нового терминала и бизнес-центра в аэропорту. Проект обновления существующего терминала",
-    "en" : "Installation & presentation of new air terminal, business center & renovation of existing air terminal"
+    "en" : "Installation & presentation of the new air terminal, business center & renovation of existing air terminal"
     },
 
     "feature_most": 
     {
     "ru" : "Презентация моста через керченский пролив",
-    "en" : "Installation & presentation of Kerch Strait Bridge"
+    "en" : "Installation & presentation of The Kerch Strait Bridge"
     },
 
     "feature_markhi_title": {
