@@ -950,6 +950,10 @@
     "ru": "Стратегические партнёры",
     "en": "Strategic Partners"
   },
+  "commonPartner": {
+    "ru": "Партнёры",
+    "en": "Partners"
+  },
   "mediaPartners": {
     "ru": "Медиапартнеры",
     "en": "Media Partners"
@@ -1270,12 +1274,12 @@
     "en" : "Installation & presentation of the Kerch development project & the Kerch Strait Bridge"
     },
 
-    "feature_MARHI_title": {
+    "feature_marhi_title": {
     "en" : "Moscow Architectural Institute",
     "ru" : "Московский архитектурный институт"
     },
 
-    "feature_MARHI_description": {
+    "feature_marhi_description": {
     "en" : "Round table with professors & architects from the Moscow Architectural Institute (MARHI)",
     "ru" : "Круглый стол с профессорами и архитекторами из Московского архитектурного института (МАРХИ)"
     },
