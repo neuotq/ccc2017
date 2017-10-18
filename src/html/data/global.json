@@ -146,7 +146,7 @@
   },
   "memorandaSectionH": {
     "ru": "Подписание соглашений и меморандумов",
-    "en": "Signing of Agreements and memorandums."
+    "en": "Signing of Agreements and memorandums"
   },
   "memorandaSectionBody": {
     "ru": "<li>ООО 'МЖК-СТРОЙ КРЫМ' и Партнер Холдинг по реализации проекта 'МЕЖОЗЕРЬЕ';</li><li>ООО 'МЖК-СТРОЙ КРЫМ'' и ООО 'MagicWood'  по строительству домостроительного комбината в г.Бахчисарае</li><li>ООО 'МЖК-СТРОЙ КРЫМ' и благотворительный фонд 'Крым Родной Дом' по строительству современных Экопоселений.</li>",
@@ -154,22 +154,22 @@
   },
   "zhkhSectionH": {
     "ru": "Секция ЖКХ",
-    "en": "Housing and utilities section."
+    "en": "Housing and utilities section"
   },
   "zhkhSpeakersThemes": [
 
     {
       "name": {
-        "ru": "Самошина Юлия Владимировна,",
-        "en": "Самошина Юлия Владимировна,"
+        "ru": "Самошина Юлия Владимировна",
+        "en": "Yulia Vladimirovna Samoshina"
       },
       "theme": {
         "ru": "Тема: <b>Реализация общественно-государственного проекта по реконструкции многоквартирных среднеэтажных домов в пилотных регионах России.</b>",
-        "en": "Theme: <b>Реализация общественно-государственного проекта по реконструкции многоквартирных среднеэтажных домов в пилотных регионах России.</b>"
+        "en": "Theme: <b>Realization of the public state project on the reconstruction of multi-apartment buildings in pilot regions of Russia.</b>"
       },
       "position": {
         "ru": "Руководитель проекта по жилищной политике, НКО 'Союз Женских Сил по поддержке гражданских инициатив и проектов'",
-        "en": "Руководитель проекта по жилищной политике, НКО 'Союз Женских Сил по поддержке гражданских инициатив и проектов'"
+        "en": "Head of the Housing Policy Project, the 'Union of Women’s Forces for Support of Civil Initiatives and Projects' NGO"
       },
       "photo": "/images/samoshina.jpg"
     }],  
@@ -247,7 +247,7 @@
       ,
       "position": {
         "ru": "Представитель ГК «Перспектива»",
-        "en": "Group of Companies 'Perspektiva' spokesman"
+        "en": "Spokesperson for Group of Companies 'Perspektiva'"
       },
       "photo": "/images/perspektiva_speaker.jpg"
     },
@@ -258,60 +258,60 @@
       },
       "theme": {
         "ru": "Тема: <b>Молодежный Жилищный Комплекс- проект объединения молодежи для качественного развития Крыма.</b>",
-        "en": "Theme: <b>Молодежный Жилищный Комплекс- проект объединения молодежи для качественного развития Крыма.</b>"
+        "en": "Theme: <b>The youth housing complex as a project for uniting young people for the qualitative development of the Republic of Crimea.</b>"
       }
       ,
       "position": {
         "ru": "Председатель межрегиональной общественной организации 'Ассоциация предпринимателей республики Крым и города Севастополь', генеральный директора ООО 'Молодежный Жилищный Комплекс- Строй Крым'",
-        "en": "Председатель межрегиональной общественной организации 'Ассоциация предпринимателей республики Крым и города Севастополь', генеральный директора ООО 'Молодежный Жилищный Комплекс- Строй Крым'"
+        "en": "Chairman of the public interregional organisation 'Association of entrepreneurs of the Republic of Crimea and the city of Sevastopol’ and General Director of the ‘Youth Housing Complex — Stroy Krym'"
       },
       "photo": "/images/hut.jpg"
     },
     {
       "name": {
         "ru": "Виктория Буравская",
-        "en": "Виктория Буравская"
+        "en": "Victoria Buravskaya"
       },
       "theme": {
         "ru": "Тема: <b>Проекты компании OOO 'ДОМОСТРОЙ 2000'.</b>",
-        "en": "Тема: <b>Проекты компании OOO 'ДОМОСТРОЙ 2000'.</b>"
+        "en": "Тема: <b>Current 'DOMOSTROY 2000' Ltd. projects.</b>"
       }
       ,
       "position": {
         "ru": "Генеральный директор OOO 'ДОМОСТРОЙ 2000'",
-        "en": "Генеральный директор OOO 'ДОМОСТРОЙ 2000'"
+        "en": "General Director at 'DOMOSTROY 2000' Ltd."
       },
       "photo": "/images/v_buravskaya.jpg"
     },
     {
       "name": {
         "ru": "Альберто Фаварон",
-        "en": "Альберто Фаварон"
+        "en": "Alberto Favarone"
       },
       "theme": {
         "ru": "Тема: <b>Отделочные материалы Kerama Marazzi и их роль в импортозамещении. Тенденции и архитектурные решения в строительстве.</b>",
-        "en": "Тема: <b>Отделочные материалы Kerama Marazzi и их роль в импортозамещении. Тенденции и архитектурные решения в строительстве.</b>"
+        "en": "Тема: <b>Kerama Marazzi finishing materials and their role in import substitution. Trends and architectural solutions in construction.</b>"
       }
       ,
       "position": {
         "ru": "Директор по работе с проектами группы Kerama Marazzi",
-        "en": "Директор по работе с проектами группы Kerama Marazzi"
+        "en": "Project Director at Kerama Marazzi Group"
       },
       "photo": "/images/marazzi.jpg"
     },
     {
       "name": {
         "ru": "Валерий Семененко",
-        "en": "Валерий Семененко"
+        "en": "Valery Semenenko"
       },
       "theme": {
         "ru": "Тема: <b>Презентация проекта 'Крымская Роза'</b>",
-        "en": "Тема: <b>Презентация проекта 'Крымская Роза'</b>"
+        "en": "Тема: <b>Presentation of the 'Krymskaya Roza' (Crimean Rose) project</b>"
       }
       ,
       "position": {
         "ru": "Руководитель проекта Крымская Роза, Компания Монолит",
-        "en": "Руководитель проекта Крымская Роза, Компания Монолит"
+        "en": "Head of the 'Krymskaya Roza' (Crimean Rose) project and Group of Companies 'Monolit'"
       },
       "photo": "/images/businessman.png"
     }
@@ -575,7 +575,7 @@
       },
       "country": {
         "ru": "Проректор МАРХИ по образованию в области градостроительства и урбанистики, заведующий кафедрой Градостроительства, доктор архитектуры, профессор, академик Российской академии архитектуры и строительных наук, Почетный работник высшего профессионального образования Российской Федерации",
-        "en": "Professor at MARKHI, Deputy Head of the Department of Urban Development, Doctor of Architecture, Associate Professor."
+        "en": "Professor at MARHI, Deputy Head of the Department of Urban Development, Doctor of Architecture, Associate Professor."
       },
       "theme": {
         "ru": "Организация высшего образования в направлениях Градостроительство и Архитектура на современном этапе",
@@ -634,8 +634,8 @@
         "en": "Elena Ponomarenko"
       },
       "country": {
-        "ru": "Архитектор, дизайнер и директор «Vitta Group», Россия",
-        "en": "Architect, Designer & Head of 'Vitta Group', Russia"
+        "ru": "архитектор-дизайнер, руководитель и основатель студии Vitta-Group, член союза дизайнеров России, Член союза дизайнеров Украины, Член Британской академии дизайна.",
+        "en": "Architect, designer and head & founder of design studio 'Vitta Group' Russia, member of the Union of Designers of Russia, member of the Union of Designers of Ukraine and member of the British Academy of Design."
       },
       "theme": {
         "ru": "Новые решения в дизайне и архитектуре Крыма.",
@@ -650,7 +650,7 @@
       },
       "country": {
         "ru": "Директор по маркетингу и продажам ГК 'Гринвуд'",
-        "en": "Director of Marketing & Sales, Group of Companies 'Greenwood'"
+        "en": "Director of Marketing & Sales at Group of Companies 'Greenwood'"
       },
       "theme": {
         "ru": "Новые тенденции в проектах благоустройства территории и внутренней инфраструктуры жилых комплексов Симферополя",
@@ -1270,12 +1270,12 @@
     "en" : "Installation & presentation of the Kerch development project & the Kerch Strait Bridge"
     },
 
-    "feature_markhi_title": {
+    "feature_MARHI_title": {
     "en" : "Moscow Architectural Institute",
     "ru" : "Московский архитектурный институт"
     },
 
-    "feature_markhi_description": {
+    "feature_MARHI_description": {
     "en" : "Round table with professors & architects from the Moscow Architectural Institute (MARHI)",
     "ru" : "Круглый стол с профессорами и архитекторами из Московского архитектурного института (МАРХИ)"
     },
