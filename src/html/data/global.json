@@ -149,8 +149,8 @@
     "en": "Signing of Agreements and memorandums"
   },
   "memorandaSectionBody": {
-    "ru": "<li>ООО 'МЖК-СТРОЙ КРЫМ' и Партнер Холдинг по реализации проекта 'МЕЖОЗЕРЬЕ';</li><li>ООО 'МЖК-СТРОЙ КРЫМ'' и ООО 'MagicWood'  по строительству домостроительного комбината в г.Бахчисарае</li><li>ООО 'МЖК-СТРОЙ КРЫМ' и благотворительный фонд 'Крым Родной Дом' по строительству современных Экопоселений.</li>",
-    "en": "<li>ООО 'МЖК-СТРОЙ КРЫМ' и Партнер Холдинг по реализации проекта 'МЕЖОЗЕРЬЕ';</li><li>ООО 'МЖК-СТРОЙ КРЫМ'' и ООО 'MagicWood'  по строительству домостроительного комбината в г.Бахчисарае</li><li>ООО 'МЖК-СТРОЙ КРЫМ' и благотворительный фонд 'Крым Родной Дом' по строительству современных Экопоселений.</li>"
+    "ru": "<li>ООО 'МЖК-СТРОЙ КРЫМ'' и ООО 'MagicWood'  по строительству домостроительного комбината в г.Бахчисарае</li><li>ООО 'МЖК-СТРОЙ КРЫМ' и благотворительный фонд 'Крым Родной Дом' по строительству современных Экопоселений.</li>",
+    "en": "<li>ООО 'МЖК-СТРОЙ КРЫМ'' и ООО 'MagicWood'  по строительству домостроительного комбината в г.Бахчисарае</li><li>ООО 'МЖК-СТРОЙ КРЫМ' и благотворительный фонд 'Крым Родной Дом' по строительству современных Экопоселений.</li>"
   },
   "zhkhSectionH": {
     "ru": "Секция ЖКХ",
@@ -172,6 +172,21 @@
         "en": "Head of the Housing Policy Project, the 'Union of Women’s Forces for Support of Civil Initiatives and Projects' NGO"
       },
       "photo": "/images/samoshina.jpg"
+    },
+   {
+      "name": {
+        "ru": "Павленков Юрий Викторович",
+        "en": "Yuri Viktorovich Pavlenkov"
+      },
+      "theme": {
+        "ru": "Тема: <b>Имущественно-правовые и институциональные предпосылки для формирования успешного инвестиционного климата в сфере строительства, реконструкции и модернизации инфраструкутрных проектов региона.</b>",
+        "en": "Theme: <b>Имущественно-правовые и институциональные предпосылки для формирования успешного инвестиционного климата в сфере строительства, реконструкции и модернизации инфраструкутрных проектов региона.</b>"
+      },
+      "position": {
+        "ru": "Член Консультативного совета рабочей группы по формированию законодательных инициатив и поддержке предпринимательства при Председателе Комитета ГД РФ по энергетике, Комитетов ТПП РФ по предпринимательству в сфере экономики недвижимости и ЖКХ, отраслевого отделения по энергосберегающим технологиям в сфере ЖКХ и строительства «Деловая Россия»",
+        "en": "Member of the Advisory Council of the Working Group on Forming Legislative Initiatives and Supporting Entrepreneurship under the Chairman of the State Duma Committee on Energy, the committees of the Chamber of Commerce and Industry of the Russian Federation on Entrepreneurship in the Real Estate and Housing Economy, the Branch Office for Energy Saving Technologies in the Area of Housing and Communal Services and the Construction of Delovaya Rossiya"
+      },
+      "photo": "/images/pavlenkov.jpg"
     }],  
   "stroySpeakersThemes": [
 
@@ -524,15 +539,15 @@
     },
     {
       "content": {
-        "ru": "«Межозёрье» – это проект развития туристско-рекреационного кластера, расположенного на территории Феодосийского городского округа. Проект состоит из комплекса различных функциональных элементов, совмещающих в себе всю необходимую для востановительно-оздоровительного отдыха инфраструктуру. Объем инвестиций: 22 174 млн.руб.",
+        "ru": "«Межозёрье» – это инвестиционный проект развития туристско-рекреационного кластера, расположенного на территории Феодосийского городского округа. Проект состоит из комплекса различных функциональных элементов на берегу Черного моря, совмещающих в себе всю необходимую для восстановительно-оздоровительного отдыха и комфортного проживания инфраструктуру. Объем инвестиций: 22 174 млн. руб.",
         "en": "“Mezhozerye” is a development project being built as a tourist and recreational cluster located on the territory of the Crimean city of Feodosiya. The project consists of a complex of various functional elements that combine all the necessary recreational and holiday infrastructure. Investment volume: 22 174 million Rubles."
       },
       "name": {
-        "ru": "«Холдинг Партнер»",
-        "en": "‘Holding Partner’"
+        "ru": "«ООО «ПАРТНЕР КУРОРТ ГРУПП»,",
+        "en": "'Partner Kurort Group' Ltd,"
       },
       "link": "",
-      "img": "/images/partner-holding.png"
+      "img": ""
     },
     {
       "content": {
