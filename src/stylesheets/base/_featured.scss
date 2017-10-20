@@ -238,7 +238,154 @@
 		}
 	}
 
+	.featured-forumrost-box {
+		
+		background:   url(/images/forum_rost.jpg) no-repeat center center;	
+		background-size: cover;
+		padding-bottom: 0;
+		height: auto;
+		color: #ffffff;
 
+		
+		@include media-breakpoint-down(sm) {
+			background:  url(/images/forum_rost.jpg) no-repeat;    	
+			background-size: cover;
+    		background-position: bottom;
+    		text-align: center;
+		}
+	
+		.forumrost-when	{
+			font-size: 3rem;
+			line-height: 0.9em;
+			color: #fff;
+			text-transform: uppercase;
+			border-right: 4px solid #ffffff;
+			text-shadow: 1px 1px 1px #000;
+			text-align: right;
+			@include media-breakpoint-down(sm) { 
+			font-size: 1.9rem;
+			text-align: center;
+			border: none;
+			}
+		}
+
+		.forumrost-main-h {
+			font-family: 'solomon_sans_blackregular';
+		    color: #fff;
+		    font-size: 2.5rem;
+		    font-weight: 200;
+		    text-shadow: 1px 1px 1px black;
+		    line-height: 0.9em;
+
+		    @include media-breakpoint-down(sm) { 
+			font-size: 1.7rem;
+			text-align: center;
+			margin-bottom: 1.25em;
+			}
+		}
+		
+		.forumrost-ca-h {
+			margin-bottom: 1.25em;
+			text-shadow: 1px 1px 1px black;
+		}
+		
+		.forumrost-logo {
+			filter: drop-shadow(1px 1px 1px black);
+		    @include media-breakpoint-down(sm) { 
+		    	margin-bottom: 1.25em;
+			}
+		}
+
+		.forumrost-ca-list {
+			list-style: none;
+			@include media-breakpoint-down(sm) { 
+			padding: 0;
+			margin: 0;
+			text-align: left;
+			}
+			li {
+				img {
+					margin-right: 1em;
+					@include media-breakpoint-down(sm) { font-size: 0.9rem;}
+
+				}
+				text-transform: uppercase;
+				margin-bottom: 1.25em;
+				text-shadow: 1px 1px 1px black;
+				@include media-breakpoint-down(sm) { font-size: 0.9rem;}
+			}
+		}
+
+		.forumrost-potapenko {
+			font-family: 'solomon_sans_blackregular';
+			font-size: 2rem;
+			margin-bottom: 1.25em;
+			@include media-breakpoint-down(sm) { 
+			font-size: 1.2rem;
+			text-align: center;
+			}
+			span {
+				background: none;
+				color: #DA251D;
+				font-family: 'solomon_sans_bookregular';
+				display: block;
+			}
+		}
+
+		.forumrost-go {
+			color: #fff;
+			background: #DA251D;			
+			-ms-transform: skewX(-20deg); /* IE 9 */
+    		-webkit-transform: skewX(-20deg); /* Safari */
+    		transform: skewX(-20deg);
+			display: inline-block;
+			font-size: 2rem;
+			box-shadow: 4px 4px 0px #ffffff;
+			 @include media-breakpoint-down(sm) { 
+			font-size: 1.1rem;
+			text-align: center;
+			}
+    		span {
+    			-ms-transform: skewX(20deg); /* IE 9 */
+    			-webkit-transform: skewX(20deg); /* Safari */
+    			transform: skewX(20deg);
+    			padding: 0.5em 1em;
+			    background: none;
+			    display: inline-block;
+			    line-height: 1em;
+			    height: 100%;
+    		}
+
+    		&:hover {
+    			background: #ffffff;
+    			color: #DA251D;
+    			box-shadow: 4px 4px 0px #DA251D;
+    			span {
+
+    			}
+    		}
+		}
+    	
+		img {
+			max-width: 100%;
+			@include media-breakpoint-down(sm) { 
+			max-width: 75%;
+			margin: 0 auto;
+			}
+		}
+    	.featured-title {
+		color: #fff;
+		text-shadow: 1px 1px 1px #000;
+		margin-bottom: 2rem;
+		font-size: 2rem;
+		}
+
+		.feature_forumrost_description {
+
+		}
+
+		}
+	
 
 
 
