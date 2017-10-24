@@ -527,7 +527,19 @@
       },
       "link": "http://xn--e1afeoglahgd.xn--p1ai/",
       "img": "/images/interstroi.png"
-    },   
+    },    
+      {
+        "content": {
+         "ru": "Компания «Севастопольстрой» объединяет двух крупнейших застройщиков Севастополя - ООО «Севастопольстрой» и ООО «Севжилстрой», лидеров на рынке недвижимости Севастополя и Крыма с 1944 года.",
+         "en": "Sevastopolstroy is comprised of the two largest developers in Sevastopol — ‘Sevastopolstroy’ Ltd. and ‘Sevzhilstroy’ Ltd., which are the leaders in the real estate market in Sevastopol and Crimea since 1944."
+        },
+        "name": {
+         "ru": "Севастопольстрой",
+         "en": "‘Sevastopolstroy’"
+        },
+       "link": "https://sevastopolstroy.ru/",
+       "img": "/images/sevastopolstroy.png"
+      },   
     {
       "content": {
         "ru": "Группа компаний «Гринвуд» — это финансово-строительный холдинг, основной деятельностью которого является реализация проектов в сфере жилой недвижимости. Мы умеем проектировать, строить,  управлять и продавать.",
