@@ -187,6 +187,21 @@
         "en": "Member of the Advisory Council of the Working Group on Forming Legislative Initiatives and Supporting Entrepreneurship under the Chairman of the State Duma Committee on Energy, the committees of the Chamber of Commerce and Industry of the Russian Federation on Entrepreneurship in the Real Estate and Housing Economy, the Branch Office for Energy Saving Technologies in the Area of Housing and Communal Services and the Construction of Delovaya Rossiya"
       },
       "photo": "/images/pavlenkov.jpg"
+    },
+   {
+      "name": {
+        "ru": "Забаштанов Станислав Васильевич",
+        "en": "Забаштанов Станислав Васильевич"
+      },
+      "theme": {
+        "ru": "Тема: <b>Проблемы переселения из аварийного жилья в Республике Крым.</b>",
+        "en": "Theme: <b>Проблемы переселения из аварийного жилья в Республике Крым.</b>"
+      },
+      "position": {
+        "ru": "Член регионального штаба ОНФ в Республике Крым",
+        "en": "Член регионального штаба ОНФ в Республике Крым"
+      },
+      "photo": "/images/zabashtanov.jpg"
     }],  
   "stroySpeakersThemes": [
 
@@ -439,6 +454,21 @@
         "en": "Первый заместитель директора департамента строительства и жилищной политики Ямало-Ненецкого автономного округа"
       },
       "photo": "/images/kuzaev.jpg"
+    },
+     {
+      "name": {
+        "ru": "Волков Алексей Витальевич",
+        "en": "Волков Алексей Витальевич"
+      },
+      "theme": {
+        "ru": "Инвестиционный климат в Крыму: сложности и перспективы.",
+        "en": "Инвестиционный климат в Крыму: сложности и перспективы."
+      },
+      "position": {
+        "ru": "Член регионального штаба ОНФ в Республике Крым,Директор ООО «Кипарис-2» начальник транспортного департамента в ООО «Гарант-СВ», Заместитель председателя комитета по транспорту Координационного совета РО РСПП в Крыму и г.Севастополе, член Совета КРО",
+        "en": "Член регионального штаба ОНФ в Республике Крым,Директор ООО «Кипарис-2» начальник транспортного департамента в ООО «Гарант-СВ», Заместитель председателя комитета по транспорту Координационного совета РО РСПП в Крыму и г.Севастополе, член Совета КРО"
+      },
+      "photo": "/images/volkov.jpg"
     }
      
   ],
