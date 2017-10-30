@@ -52,8 +52,8 @@
     "en": "Visitor Registration"
   },
   "participate": {
-    "ru": "Стать участником",
-    "en": "Become An Exhibitor"
+    "ru": "Связаться с нами",
+    "en": "Write to us"
   },
   "patronat": {
     "ru": "Под патронатом Совета министров Республики Крым",
@@ -781,8 +781,8 @@
     "en": "Exponents Speakers"
   },
   "ccVystAbout": {
-    "ru": "Выступления экспонентов будут происходить в зале <b>'Conference Center'</b> (Павильон №2). Вход свободный, бесплатный билет можно <a class='buyticket' href='https://connectcrimea.timepad.ru/event/542545/'>получить здесь</a>.",
-    "en": "Exhibits will take place in the <b>'Conference Center'</b> (Pavilion No. 2). Admission is free, a free ticket can be <a class='buyticket' href='https://connectcrimea.timepad.ru/event/542545/'>obtained here</a>."
+    "ru": "Выступления экспонентов будут происходить в зале <b>'Conference Center'</b> (Павильон №2). Вход свободный.",
+    "en": "Exhibits will take place in the <b>'Conference Center'</b> (Pavilion No. 2). Admission is free."
   },
   "ccVystUchBody": [
         {
